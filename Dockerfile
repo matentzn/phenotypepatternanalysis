@@ -1,9 +1,10 @@
 FROM maven:3-jdk-8
+FROM rocker/hadleyverse
 
 ENV WORKSPACE=/opt/phenotypeanalysis
 ENV DATA=/data
 
-ENV JAVA_OPTS='-Xmx20g -Xms10g'
+ENV JAVA_OPTS='-Xmx20g -Xms12g'
 
 VOLUME ${DATA}
 
@@ -24,6 +25,7 @@ cd ${WORKSPACE}/ontologyinferenceanalysis && \
 mvn clean compiler:compile package
 
 COPY run.sh ${WORKSPACE}/run.sh
+COPY pattern_analysis.Rmd ${DATA}/pattern_analysis.Rmd
 
 RUN chmod +x ${WORKSPACE}/run.sh
 
