@@ -1,0 +1,4125 @@
+m1_nbo.owl,definition_name,m1_dpo.owl,definition,m1_union,m2_dpo.owl,m2_nbo.owl,m2_union,
+1,http://ebi.ac.uk#Pattern729,,"NBO_0000308
+ and (is_about some PATO_0000040)",1,,1,2,
+,http://ebi.ac.uk#Pattern728,,"BFO_0000056 some 
+    (Thing
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",0,,2,3,
+,http://ebi.ac.uk#Pattern727,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern969,,"PATO_0000001
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some Thing)",0,3,,4,
+,http://ebi.ac.uk#Pattern726,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some PATO_0000460)",1,1,,2,
+1,http://ebi.ac.uk#Pattern968,,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some PATO_0000161))",1,,1,2,
+,http://ebi.ac.uk#Pattern725,24,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007610 or (GO_0007610
+     and (BFO_0000050 some GO_0007610))))
+ and (qualifier some PATO_0000460)",1,24,,25,
+1,http://ebi.ac.uk#Pattern967,,"NBO_0000330
+ and (in_response_to some GO_0050965)",1,,1,2,
+,http://ebi.ac.uk#Pattern724,,"BFO_0000056 some 
+    (GO_0007626
+     and (has_quality some Thing))",0,,13,14,
+1,http://ebi.ac.uk#Pattern966,,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0002305))))",1,,1,2,
+1,http://ebi.ac.uk#Pattern723,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000912
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern965,,"BFO_0000056 some 
+    (NBO_0000338
+     and (has_quality some Thing))",0,,35,36,
+,http://ebi.ac.uk#Pattern722,,"BFO_0000056 some 
+    (NBO_0000037
+     and (has_quality some BFO_0000002))",0,,1,2,
+1,http://ebi.ac.uk#Pattern964,,"NBO_0001845
+ and (has_participant some CHEBI_27958)",1,,1,2,
+,http://ebi.ac.uk#Pattern721,,"Thing
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern963,,"Thing
+ and (has_participant some CHEBI_17303)",0,,1,2,
+,http://ebi.ac.uk#Pattern720,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern962,,"NBO_0000171
+ and (is_about some Thing)",0,,6,7,
+2,http://ebi.ac.uk#Pattern961,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0000130))))",1,,2,3,
+1,http://ebi.ac.uk#Pattern960,,"BFO_0000056 some 
+    (NBO_0000323
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern739,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",0,,1,2,
+3,http://ebi.ac.uk#Pattern738,,"BFO_0000056 some 
+    (NBO_0000038
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,3,4,
+,http://ebi.ac.uk#Pattern737,,"BFO_0000056 some 
+    (NBO_0000008
+     and (has_quality some PATO_0001309))",0,,1,2,
+,http://ebi.ac.uk#Pattern979,,"BFO_0000056 some 
+    (NBO_0000034
+     and (has_quality some BFO_0000002))",0,,4,5,
+,http://ebi.ac.uk#Pattern736,,"has_quality some 
+    (PATO_0001727
+     and (towards some NBO_0000304))",0,,1,2,
+1,http://ebi.ac.uk#Pattern978,,"NBO_0000330
+ and (in_response_to some PATO_0001305)",1,,1,2,
+,http://ebi.ac.uk#Pattern735,,"NBO_0000313
+ and (in_response_to some NBO_0001952)",0,,1,2,
+1,http://ebi.ac.uk#Pattern977,,"NBO_0000063
+ and (has_participant some CHEBI_32111)",1,,1,2,
+1,http://ebi.ac.uk#Pattern734,,"NBO_0001884
+ and (has_participant some CHEBI_26456)",1,,1,2,
+2,http://ebi.ac.uk#Pattern976,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000079))))",1,,2,3,
+,http://ebi.ac.uk#Pattern733,,"NBO_0000313
+ and (in_response_to some GO_0050955)",0,,3,4,
+,http://ebi.ac.uk#Pattern975,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000313))))",0,,1,2,
+,http://ebi.ac.uk#Pattern732,,"BFO_0000056 some 
+    (NBO_0000388
+     and (has_quality some BFO_0000002))",0,,14,15,
+,http://ebi.ac.uk#Pattern974,,"PATO_0000001
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern731,,"NBO_0000607
+ and (has_participant some UBERON_0002101)",0,,1,2,
+,http://ebi.ac.uk#Pattern973,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000130))))",0,,6,7,
+,http://ebi.ac.uk#Pattern730,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some Thing))))",0,,1,2,
+,http://ebi.ac.uk#Pattern972,,"PATO_0000001
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some Thing)",0,1,,2,
+2,http://ebi.ac.uk#Pattern971,,"NBO_0000035
+ and (is_about some GO_0050878)",1,,2,3,
+,http://ebi.ac.uk#Pattern970,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000130))))",0,,5,6,
+,http://ebi.ac.uk#Pattern709,,"BFO_0000056 some 
+    (NBO_0000064
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some Thing)))))",0,,1,2,
+,http://ebi.ac.uk#Pattern708,,"GO_0002118
+ and (by_means some Thing)",0,,1,2,
+10,http://ebi.ac.uk#Pattern707,,"GO_0048511
+ and (is_about some GO_0007623)",1,,10,11,
+,http://ebi.ac.uk#Pattern949,,"PATO_0000001
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern706,,"NBO_0001884
+ and (has_participant some CHEBI_26421)",0,,1,2,
+,http://ebi.ac.uk#Pattern948,,"PATO_0000001
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some PATO_0000068)",0,3,,4,
+2,http://ebi.ac.uk#Pattern705,,"BFO_0000056 some 
+    (GO_0007635
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,2,3,
+,http://ebi.ac.uk#Pattern947,,"NBO_0000607
+ and (in_response_to some NBO_0000131)",0,,1,2,
+,http://ebi.ac.uk#Pattern704,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0002300))",0,,1,2,
+,http://ebi.ac.uk#Pattern946,,"BFO_0000056 some 
+    (GO_0035176
+     and (has_quality some BFO_0000002))",0,,4,5,
+,http://ebi.ac.uk#Pattern703,,"PATO_0000001
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern945,,"PATO_0000001
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern702,,"BFO_0000056 some 
+    (GO_0009628
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern944,1,"PATO_0000001
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern701,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000130))))",0,,11,12,
+,http://ebi.ac.uk#Pattern943,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000130))))",0,,5,6,
+,http://ebi.ac.uk#Pattern700,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some Thing)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+,http://ebi.ac.uk#Pattern942,,"PATO_0000001
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some Thing)",0,1,,2,
+1,http://ebi.ac.uk#Pattern941,,"NBO_0000041
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0065008)",1,,1,2,
+1,http://ebi.ac.uk#Pattern940,,"NBO_0000330
+ and (in_response_to some GO_0050968)",1,,1,2,
+1,http://ebi.ac.uk#Pattern719,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0002304))",1,,1,2,
+1,http://ebi.ac.uk#Pattern718,,"BFO_0000056 some 
+    (NBO_0000024
+     and (has_quality some PATO_0000044))",1,,1,2,
+,http://ebi.ac.uk#Pattern717,,"NBO_0000331
+ and (in_response_to some GO_0050982)",0,,1,2,
+1,http://ebi.ac.uk#Pattern959,,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0000125))))",1,,1,2,
+,http://ebi.ac.uk#Pattern716,,"NBO_0000331
+ and (in_response_to some GO_0050981)",0,,1,2,
+,http://ebi.ac.uk#Pattern958,,"BFO_0000056 some 
+    (NBO_0000035
+     and (has_quality some BFO_0000002))",0,,10,11,
+,http://ebi.ac.uk#Pattern715,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern957,,"NBO_0000130
+ and (has_participant some CHEBI_36902)",0,,1,2,
+1,http://ebi.ac.uk#Pattern714,,"NBO_0000011
+ and (is_about some NBO_0000339)",1,,1,2,
+,http://ebi.ac.uk#Pattern956,,"NBO_0000171
+ and (is_about some NBO_0000035)",0,,1,2,
+,http://ebi.ac.uk#Pattern713,1,"PATO_0000001
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some PATO_0000069)",1,1,,2,
+1,http://ebi.ac.uk#Pattern955,,"NBO_0000171
+ and (is_about some NBO_0000036)",1,,1,2,
+,http://ebi.ac.uk#Pattern712,,"BFO_0000056 some 
+    (NBO_0000008
+     and (has_quality some Thing))",0,,55,56,
+,http://ebi.ac.uk#Pattern954,,"PATO_0000001
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some PATO_0000068)",0,24,,25,
+,http://ebi.ac.uk#Pattern711,,"Thing
+ and (has_participant some CHEBI_27958)",0,,2,3,
+1,http://ebi.ac.uk#Pattern953,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000079))))",1,,1,2,
+,http://ebi.ac.uk#Pattern710,,"BFO_0000056 some 
+    (NBO_0000038
+     and (has_quality some BFO_0000002))",0,,3,4,
+,http://ebi.ac.uk#Pattern952,24,"PATO_0000001
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some PATO_0000069)",1,24,,25,
+,http://ebi.ac.uk#Pattern951,,"PATO_0000001
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern950,1,"PATO_0000001
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some PATO_0000069)",1,1,,2,
+53,http://ebi.ac.uk#Pattern97,,"BFO_0000056 some 
+    (NBO_0000024
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,53,54,
+25,http://ebi.ac.uk#Pattern1192,,"RO_0002211 some 
+    (NBO_0000134 or NBO_0000313)",1,,25,26,
+,http://ebi.ac.uk#Pattern98,,"BFO_0000056 some 
+    (GO_0008050
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern1191,,"NBO_0000134
+ and (has_participant some Thing)",0,,1,2,
+,http://ebi.ac.uk#Pattern95,,"Thing
+ and (RO_0000052 some FBbt_00000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern1194,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000313)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+3,http://ebi.ac.uk#Pattern96,,"NBO_0000327
+ and (in_response_to some GO_0050955)",1,,3,4,
+2,http://ebi.ac.uk#Pattern1193,,"NBO_0000035
+ and (is_about some GO_0046903)",1,,2,3,
+,http://ebi.ac.uk#Pattern93,,"BFO_0000056 some 
+    (GO_0007632
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern1196,,"NBO_0000355
+ and (has_participant some UBERON_0000026)",0,,1,2,
+,http://ebi.ac.uk#Pattern94,,"Thing
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1195,,"NBO_0000327
+ and (has_participant some UBERON_0000309)",0,,1,2,
+1,http://ebi.ac.uk#Pattern91,,"GO_0051705
+ and (by_means some NBO_0000128)",1,,1,2,
+,http://ebi.ac.uk#Pattern1198,,"NBO_0000313
+ and (is_about some PATO_0000040)",0,,1,2,
+,http://ebi.ac.uk#Pattern92,,"BFO_0000056 some 
+    (GO_0032501
+     and (has_quality some PATO_0001309))",0,,2,3,
+,http://ebi.ac.uk#Pattern1197,,"BFO_0000056 some 
+    ((NBO_0002169
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+,http://ebi.ac.uk#Pattern90,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0001845))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1190,,"has_quality some 
+    (BFO_0000002
+     and (towards some NBO_0000230))",0,,1,2,
+,http://ebi.ac.uk#Pattern929,,"Thing
+ and (in_response_to some GO_0050955)",0,,3,4,
+,http://ebi.ac.uk#Pattern928,,"Thing
+ and (in_response_to some NBO_0001952)",0,,1,2,
+,http://ebi.ac.uk#Pattern927,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern926,1,"PATO_0000001
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern925,,"PATO_0000001
+ and (RO_0000052 some GO_0008150)
+ and (qualifier some PATO_0000460)",0,24,,25,
+1,http://ebi.ac.uk#Pattern924,,"NBO_0001679
+ and (in_response_to some NBO_0002086)",1,,1,2,
+2,http://ebi.ac.uk#Pattern923,,"NBO_0000171
+ and (is_about some NBO_0000003)",1,,2,3,
+,http://ebi.ac.uk#Pattern922,,"NBO_0000171
+ and (in_response_to some NBO_0000011)",0,,1,2,
+,http://ebi.ac.uk#Pattern921,,"PATO_0000001
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern920,,"NBO_0000607
+ and (has_participant some UBERON_0000309)",0,,1,2,
+,http://ebi.ac.uk#Pattern1199,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (Thing
+         and (towards some NBO_0000130))))",0,,11,12,
+1,http://ebi.ac.uk#Pattern99,,"NBO_0000079
+ and (has_participant some CHEBI_16236)",1,,1,2,
+,http://ebi.ac.uk#Pattern1181,,"PATO_0000001
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern1180,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000068
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1183,,"NBO_0000327
+ and (has_participant some UBERON_0002101)",0,,1,2,
+,http://ebi.ac.uk#Pattern1182,,"NBO_0000608
+ and (by_means some UBERON_0000480)",0,,3,4,
+,http://ebi.ac.uk#Pattern1185,16,"PATO_0000001
+ and (RO_0000052 some GO_0044708)
+ and (qualifier some PATO_0000460)",4,16,,17,
+,http://ebi.ac.uk#Pattern1184,,"NBO_0000607
+ and (in_response_to some GO_0019233)",0,,6,7,
+,http://ebi.ac.uk#Pattern1187,,"BFO_0000002
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some PATO_0000460)",0,1,,2,
+20,http://ebi.ac.uk#Pattern1186,,"BFO_0000056 some 
+    (NBO_0000403
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,20,21,
+1,http://ebi.ac.uk#Pattern939,,"NBO_0000330
+ and (in_response_to some GO_0050967)",1,,1,2,
+1,http://ebi.ac.uk#Pattern938,,"NBO_0000330
+ and (in_response_to some GO_0050966)",1,,1,2,
+,http://ebi.ac.uk#Pattern937,,"BFO_0000056 some 
+    (NBO_0000161
+     and (has_quality some BFO_0000002))",0,,3,4,
+,http://ebi.ac.uk#Pattern936,,"BFO_0000056 some 
+    (NBO_0000317
+     and (has_quality some Thing))",0,,9,10,
+,http://ebi.ac.uk#Pattern935,,"NBO_0001884
+ and (has_participant some CHEBI_38260)",0,,1,2,
+,http://ebi.ac.uk#Pattern934,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern933,,"has_quality some 
+    (PATO_0002361
+     and (towards some NBO_0000006))",0,,1,2,
+,http://ebi.ac.uk#Pattern932,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some Thing))))",0,,1,2,
+,http://ebi.ac.uk#Pattern931,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (Thing
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+16,http://ebi.ac.uk#Pattern1189,,"BFO_0000056 some 
+    (GO_0048512
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,16,17,
+13,http://ebi.ac.uk#Pattern930,,"has_quality some 
+    (PATO_0002361
+     and (towards some NBO_0000003))",1,,13,14,
+,http://ebi.ac.uk#Pattern1188,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002301
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern909,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some Thing))))",0,,1,2,
+,http://ebi.ac.uk#Pattern908,,"BFO_0000056 some 
+    (GO_0007623
+     and (has_quality some PATO_0000044))",0,,2,3,
+6,http://ebi.ac.uk#Pattern907,,"NBO_0001728
+ and (in_response_to some Thing)",2,,6,7,
+,http://ebi.ac.uk#Pattern906,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some PATO_0000044))",0,,7,8,
+,http://ebi.ac.uk#Pattern905,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002304
+         and (towards some NBO_0000130))))",0,,5,6,
+,http://ebi.ac.uk#Pattern904,,"NBO_0000313
+ and (has_participant some CHEBI_16236)",0,,2,3,
+,http://ebi.ac.uk#Pattern903,,"Thing
+ and (in_response_to some GO_0050968)",0,,1,2,
+,http://ebi.ac.uk#Pattern902,,"BFO_0000056 some 
+    (GO_0007619
+     and (has_quality some BFO_0000002))",0,,3,4,
+1,http://ebi.ac.uk#Pattern901,,"NBO_0000011
+ and (in_response_to some NBO_0000778)",1,,1,2,
+,http://ebi.ac.uk#Pattern900,,"Thing
+ and (in_response_to some GO_0050965)",0,,1,2,
+,http://ebi.ac.uk#Pattern919,2,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some PATO_0000460)",1,2,,3,
+,http://ebi.ac.uk#Pattern918,,"PATO_0000001
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern917,,"NBO_0000171
+ and (in_response_to some NBO_0000006)",0,,1,2,
+1,http://ebi.ac.uk#Pattern916,,RO_0002211 some NBO_0002234,1,,1,2,
+,http://ebi.ac.uk#Pattern915,1,"PATO_0000001
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some PATO_0000069)",1,1,,2,
+8,http://ebi.ac.uk#Pattern914,,"BFO_0000056 some 
+    (NBO_0000317
+     and (has_quality some PATO_0000001))",2,,8,9,
+,http://ebi.ac.uk#Pattern913,,"PATO_0000001
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern912,,"BFO_0000056 some 
+    (GO_0007617
+     and (has_quality some BFO_0000002))",0,,6,7,
+,http://ebi.ac.uk#Pattern911,,"PATO_0000001
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some Thing)",0,2,,3,
+,http://ebi.ac.uk#Pattern910,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0002300))))
+     and (qualifier some PATO_0001333))",0,,1,2,
+,http://ebi.ac.uk#Pattern53,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0001236
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern54,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern51,,"NBO_0000035
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0060073)",1,,,1,
+,http://ebi.ac.uk#Pattern1150,,"Thing
+ and ((has_participant some CHEBI_33290) or (has_participant some PATO_0000145))",0,,10,11,
+,http://ebi.ac.uk#Pattern52,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern1152,,"BFO_0000056 some 
+    (GO_0060273
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern50,,"BFO_0000056 some 
+    (BFO_0000003
+     and (has_quality some PATO_0000044))",0,,1,2,
+1,http://ebi.ac.uk#Pattern1151,,"NBO_0001845
+ and (has_participant some CHEBI_18723)",1,,1,2,
+,http://ebi.ac.uk#Pattern1154,,"NBO_0000171
+ and (in_response_to some NBO_0000313)",0,,1,2,
+,http://ebi.ac.uk#Pattern1153,,"PATO_0000001
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern1156,,"BFO_0000056 some 
+    (NBO_0000161
+     and (has_quality some PATO_0000001))",0,,2,3,
+,http://ebi.ac.uk#Pattern1155,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some Thing))",0,,3,4,
+,http://ebi.ac.uk#Pattern59,,"NBO_0000011
+ and (is_about some NBO_0000003)",0,,2,3,
+,http://ebi.ac.uk#Pattern1158,4,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000460)",1,4,,5,
+,http://ebi.ac.uk#Pattern1157,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some PATO_0000912))",0,,6,7,
+,http://ebi.ac.uk#Pattern57,,"BFO_0000056 some 
+    (GO_0044708
+     and (has_quality some PATO_0000044))",0,,2,3,
+,http://ebi.ac.uk#Pattern58,4,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000069)",1,4,,5,
+26,http://ebi.ac.uk#Pattern1159,,"BFO_0000056 some 
+    (NBO_0000607
+     and (has_quality some PATO_0000001))",9,,26,27,
+,http://ebi.ac.uk#Pattern55,,"PATO_0000001
+ and (RO_0000052 some GO_0003008)
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern56,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0002301
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern64,,"has_quality some 
+    (PATO_0001558
+     and (towards some GO_0007610))",0,,1,2,
+1,http://ebi.ac.uk#Pattern65,,"NBO_0000355
+ and (has_participant some UBERON_0009569)",1,,1,2,
+25,http://ebi.ac.uk#Pattern62,,"BFO_0000056 some 
+    (GO_0007631
+     and (has_quality some PATO_0000001))",2,,25,26,
+,http://ebi.ac.uk#Pattern63,,"NBO_0000006
+ and (in_response_to some NBO_0000778)",0,,1,2,
+,http://ebi.ac.uk#Pattern60,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000068)",0,4,,5,
+2,http://ebi.ac.uk#Pattern1141,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0000079))))",1,,2,3,
+1,http://ebi.ac.uk#Pattern61,,"NBO_0001679
+ and (in_response_to some NBO_0001952)",1,,1,2,
+1,http://ebi.ac.uk#Pattern1140,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000044
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern1143,,"BFO_0000056 some 
+    (NBO_0002948
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern1142,4,"PATO_0000001
+ and (RO_0000052 some GO_0007622)
+ and (qualifier some PATO_0000460)",1,4,,5,
+,http://ebi.ac.uk#Pattern1145,,"NBO_0001884
+ and (has_participant some CHEBI_38166)",0,,1,2,
+3,http://ebi.ac.uk#Pattern1144,,"NBO_0000322
+ and (in_response_to some GO_0003008)",2,,3,4,
+1,http://ebi.ac.uk#Pattern1147,,"NBO_0001884
+ and (has_participant some CHEBI_38164)",1,,1,2,
+,http://ebi.ac.uk#Pattern1146,,"NBO_0000607
+ and (in_response_to some GO_0050975)",0,,1,2,
+,http://ebi.ac.uk#Pattern68,,"BFO_0000056 some 
+    (NBO_0000024
+     and (has_quality some BFO_0000002))",0,,53,54,
+,http://ebi.ac.uk#Pattern1149,,"RO_0002211 some 
+    (NBO_0000130 or Thing)",0,,25,26,
+,http://ebi.ac.uk#Pattern69,,"Thing
+ and (in_response_to some NBO_0002086)",0,,1,2,
+,http://ebi.ac.uk#Pattern1148,,"NBO_0000130
+ and (has_participant some CHEBI_2571)",0,,1,2,
+,http://ebi.ac.uk#Pattern66,,"NBO_0000035
+ and (is_about some GO_0006810)",0,,2,3,
+1,http://ebi.ac.uk#Pattern67,,"BFO_0000056 some 
+    (NBO_0000330
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern75,,"NBO_0000607
+ and (in_response_to some PATO_0001306)",0,,1,2,
+,http://ebi.ac.uk#Pattern1170,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some PATO_0000911))",0,,4,5,
+,http://ebi.ac.uk#Pattern76,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0002300))",0,,2,3,
+,http://ebi.ac.uk#Pattern73,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0002301))",0,,1,2,
+1,http://ebi.ac.uk#Pattern1172,,"has_quality some 
+    (PATO_0002361
+     and (towards some NBO_0000170))",1,,1,2,
+,http://ebi.ac.uk#Pattern74,,"NBO_0000313
+ and (by_means some UBERON_0005725)",0,,1,2,
+,http://ebi.ac.uk#Pattern1171,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some PATO_0000912))",0,,7,8,
+14,http://ebi.ac.uk#Pattern71,,"BFO_0000056 some 
+    (NBO_0000003
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,14,15,
+,http://ebi.ac.uk#Pattern1174,,"BFO_0000056 some 
+    (GO_0007617
+     and (has_quality some PATO_0001236))",0,,1,2,
+1,http://ebi.ac.uk#Pattern72,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern1173,,"Thing
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1176,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0000069))",0,,3,4,
+1,http://ebi.ac.uk#Pattern70,,"NBO_0002660
+ and (has_participant some CHEBI_50584)",1,,1,2,
+1,http://ebi.ac.uk#Pattern1175,,"NBO_0000313
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0060073)",1,,1,2,
+,http://ebi.ac.uk#Pattern1178,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0000068))",0,,3,4,
+,http://ebi.ac.uk#Pattern1177,,"BFO_0000056 some 
+    (GO_0019098
+     and (has_quality some Thing))",0,,13,14,
+,http://ebi.ac.uk#Pattern1179,,"PATO_0000001
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern79,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000130))))",0,,6,7,
+,http://ebi.ac.uk#Pattern77,,"PATO_0000001
+ and (RO_0000052 some GO_0065007)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern78,,"NBO_0000607
+ and (in_response_to some PATO_0001305)",0,,1,2,
+,http://ebi.ac.uk#Pattern86,,"PATO_0000001
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern87,,"NBO_0000607
+ and (is_about some PATO_0000014)",0,,1,2,
+1,http://ebi.ac.uk#Pattern84,,"NBO_0000355
+ and (has_participant some UBERON_0004708)",1,,1,2,
+,http://ebi.ac.uk#Pattern1161,,"NBO_0000130
+ and (has_participant some CHEBI_24651)",0,,1,2,
+,http://ebi.ac.uk#Pattern85,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (BFO_0000002
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1160,,"PATO_0000001
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+2,http://ebi.ac.uk#Pattern82,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0002304))",1,,2,3,
+,http://ebi.ac.uk#Pattern1163,,"PATO_0000001
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern83,,"has_quality some 
+    (Thing
+     and (towards some NBO_0000304))",0,,1,2,
+,http://ebi.ac.uk#Pattern1162,,"BFO_0000056 some 
+    (NBO_0000170
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern80,,"has_quality some 
+    (scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+     and (towards some GO_0042755))",0,,1,2,
+,http://ebi.ac.uk#Pattern1165,,"PATO_0000001
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,2,,3,
+1,http://ebi.ac.uk#Pattern81,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0002302))",1,,1,2,
+3,http://ebi.ac.uk#Pattern1164,,"NBO_0000322
+ and (in_response_to some GO_0007600)",2,,3,4,
+1,http://ebi.ac.uk#Pattern1167,,"NBO_0000022
+ and (is_about some NBO_0000612)",1,,1,2,
+,http://ebi.ac.uk#Pattern1166,7,"PATO_0000001
+ and (RO_0000052 some GO_0044707)
+ and (qualifier some PATO_0000460)",2,7,,8,
+,http://ebi.ac.uk#Pattern1169,,"NBO_0000608
+ and (by_means some UBERON_0000467)",0,,3,4,
+,http://ebi.ac.uk#Pattern1168,,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some Thing))",0,,3,4,
+10,http://ebi.ac.uk#Pattern88,,"GO_0007622
+ and (is_about some GO_0048511)",1,,10,11,
+6,http://ebi.ac.uk#Pattern89,,"NBO_0000327
+ and (in_response_to some GO_0019233)",1,,6,7,
+,http://ebi.ac.uk#Pattern10,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0001236))",0,,1,2,
+,http://ebi.ac.uk#Pattern1350,,"BFO_0000002
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1110,,"PATO_0000001
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,24,,25,
+,http://ebi.ac.uk#Pattern1352,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,2,,3,
+,http://ebi.ac.uk#Pattern1351,,"BFO_0000002
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern1119,,"BFO_0000056 some 
+    (GO_0031223
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern19,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000068)",0,2,,3,
+1,http://ebi.ac.uk#Pattern17,,"NBO_0000746
+ and (is_about some PATO_0001018)",1,,1,2,
+11,http://ebi.ac.uk#Pattern1112,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000079))))",1,,11,12,
+12,http://ebi.ac.uk#Pattern1354,,"BFO_0000056 some 
+    (GO_0019098
+     and (has_quality some PATO_0000001))",2,,12,13,
+,http://ebi.ac.uk#Pattern18,2,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000069)",1,2,,3,
+,http://ebi.ac.uk#Pattern1111,,"Thing
+ and (is_about some NBO_0000339)",0,,1,2,
+,http://ebi.ac.uk#Pattern1353,,"NBO_0000171
+ and (is_about some NBO_0000607)",0,,1,2,
+,http://ebi.ac.uk#Pattern15,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",0,,4,5,
+,http://ebi.ac.uk#Pattern1114,,"GO_0044699
+ and (is_about some GO_0007623)",0,,10,11,
+,http://ebi.ac.uk#Pattern1356,,"NBO_0000331
+ and (in_response_to some GO_0016048)",0,,1,2,
+,http://ebi.ac.uk#Pattern16,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern1113,,"PATO_0000001
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+19,http://ebi.ac.uk#Pattern1355,,"RO_0002211 some 
+    (NBO_0000130 or NBO_0001845)",1,,19,20,
+,http://ebi.ac.uk#Pattern13,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002304
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1116,,"NBO_0000308
+ and (in_response_to some NBO_0000131)",0,,1,2,
+,http://ebi.ac.uk#Pattern1358,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern14,,"PATO_0000001
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+5,http://ebi.ac.uk#Pattern1115,,"NBO_0001845
+ and ((has_participant some CHEBI_24432) or (has_participant some PATO_0000145))",1,,5,6,
+,http://ebi.ac.uk#Pattern1357,,"NBO_0000607
+ and (in_response_to some NBO_0001915)",0,,1,2,
+,http://ebi.ac.uk#Pattern11,,"BFO_0000056 some 
+    (NBO_0000330
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern1118,2,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000460)",1,2,,3,
+4,http://ebi.ac.uk#Pattern12,,RO_0002211 some NBO_0000130,3,,4,5,
+,http://ebi.ac.uk#Pattern1117,10,"PATO_0000001
+ and (RO_0000052 some BFO_0000003)
+ and (qualifier some PATO_0000460)",2,10,,11,
+,http://ebi.ac.uk#Pattern20,,"PATO_0000001
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some PATO_0000068)",0,4,,5,
+,http://ebi.ac.uk#Pattern21,,"NBO_0001632
+ and (in_response_to some GO_0008150)",0,,4,5,
+,http://ebi.ac.uk#Pattern1341,,"NBO_0000208
+ and (is_about some NBO_0000338)",0,,2,3,
+,http://ebi.ac.uk#Pattern1340,,"BFO_0000056 some 
+    (GO_0042755
+     and (has_quality some BFO_0000002))",0,,10,11,
+,http://ebi.ac.uk#Pattern1109,,"NBO_0000313
+ and (by_means some GO_0060004)",0,,60,61,
+,http://ebi.ac.uk#Pattern1108,,"PATO_0000001
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some BFO_0000002)",0,4,,5,
+,http://ebi.ac.uk#Pattern28,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern1101,,"NBO_0000313
+ and (in_response_to some (has_role some CHEBI_35703))",0,,9,10,
+,http://ebi.ac.uk#Pattern1343,,"has_quality some 
+    (PATO_0001241
+     and (towards some NBO_0000085))",0,,13,14,
+,http://ebi.ac.uk#Pattern29,,"NBO_0000006
+ and (is_about some NBO_0000749)",0,,1,2,
+,http://ebi.ac.uk#Pattern1100,,"PATO_0000001
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern1342,,"NBO_0000015
+ and (by_means some NBO_0000035)",0,,1,2,
+,http://ebi.ac.uk#Pattern26,,"BFO_0000056 some 
+    (NBO_0000323
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern1103,,"NBO_0000607
+ and (is_about some NBO_0000745)",0,,1,2,
+1,http://ebi.ac.uk#Pattern1345,,"NBO_0000015
+ and (by_means some NBO_0000036)",1,,1,2,
+1,http://ebi.ac.uk#Pattern27,,"has_quality some 
+    (PATO_0001558
+     and (towards some GO_0007631))",1,,1,2,
+1,http://ebi.ac.uk#Pattern1102,,"BFO_0000056 some 
+    (NBO_0002603
+     and (has_quality some PATO_0000161))",1,,1,2,
+,http://ebi.ac.uk#Pattern1344,,"BFO_0000002
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern24,4,"PATO_0000001
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some PATO_0000069)",1,4,,5,
+,http://ebi.ac.uk#Pattern1105,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+13,http://ebi.ac.uk#Pattern1347,,"BFO_0000056 some 
+    (GO_0048609
+     and (has_quality some PATO_0000001))",1,,13,14,
+,http://ebi.ac.uk#Pattern25,,"NBO_0001884
+ and (has_participant some Thing)",0,,3,4,
+60,http://ebi.ac.uk#Pattern1104,,"NBO_0000338
+ and (by_means some GO_0060004)",1,,60,61,
+,http://ebi.ac.uk#Pattern1346,,"BFO_0000056 some 
+    (GO_0050896
+     and (has_quality some PATO_0000001))",0,,74,75,
+1,http://ebi.ac.uk#Pattern22,,"BFO_0000056 some 
+    (GO_0051705
+     and (has_quality some PATO_0000044))",1,,1,2,
+,http://ebi.ac.uk#Pattern1107,,"NBO_0000607
+ and (in_response_to some GO_0050955)",0,,3,4,
+4,http://ebi.ac.uk#Pattern1349,,"BFO_0000056 some 
+    (GO_0050795
+     and (has_quality some PATO_0000161))",1,,4,5,
+2,http://ebi.ac.uk#Pattern23,,"NBO_0000313
+ and (has_participant some CHEBI_33290)",1,,2,3,
+,http://ebi.ac.uk#Pattern1106,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001236)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1348,,"NBO_0000308
+ and (in_response_to some GO_0050877)",0,,18,19,
+,http://ebi.ac.uk#Pattern31,,"NBO_0000006
+ and (is_about some NBO_0000747)",0,,1,2,
+,http://ebi.ac.uk#Pattern32,,"BFO_0000056 some 
+    (NBO_0002169
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",0,,1,2,
+,http://ebi.ac.uk#Pattern30,,"NBO_0001884
+ and (has_participant some CHEBI_36586)",0,,1,2,
+1,http://ebi.ac.uk#Pattern1130,,"BFO_0000056 some 
+    (GO_0007617
+     and (has_quality some PATO_0000161))",1,,1,2,
+3,http://ebi.ac.uk#Pattern1132,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000130))))",2,,3,4,
+,http://ebi.ac.uk#Pattern1131,,"NBO_0000327
+ and (in_response_to some PATO_0001305)",0,,1,2,
+,http://ebi.ac.uk#Pattern39,,"NBO_0000313
+ and (is_about some NBO_0000745)",0,,1,2,
+,http://ebi.ac.uk#Pattern1134,,"NBO_0000327
+ and (in_response_to some PATO_0001306)",0,,1,2,
+,http://ebi.ac.uk#Pattern1133,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000001
+         and (towards some NBO_0000130))))",0,,11,12,
+1,http://ebi.ac.uk#Pattern37,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0002302
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern1136,,"NBO_0000313
+ and (is_about some PATO_0000014)",0,,1,2,
+1,http://ebi.ac.uk#Pattern38,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0000161))",1,,1,2,
+,http://ebi.ac.uk#Pattern1135,1,"PATO_0000188
+ and (RO_0000052 some FBbt_00000001)",1,1,,2,
+,http://ebi.ac.uk#Pattern35,,"NBO_0000330
+ and (in_response_to some GO_0050877)",0,,10,11,
+3,http://ebi.ac.uk#Pattern1138,,"NBO_0000322
+ and (in_response_to some GO_0007606)",2,,3,4,
+,http://ebi.ac.uk#Pattern36,,"BFO_0000056 some 
+    (GO_0030431
+     and (has_quality some PATO_0000044))",0,,1,2,
+,http://ebi.ac.uk#Pattern1137,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some PATO_0000911))",0,,4,5,
+2,http://ebi.ac.uk#Pattern33,,"BFO_0000056 some 
+    (NBO_0000161
+     and (has_quality some PATO_0002062))",1,,2,3,
+,http://ebi.ac.uk#Pattern34,,"NBO_0002743
+ and (has_participant some Thing)",0,,1,2,
+,http://ebi.ac.uk#Pattern1139,,"PATO_0000001
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some Thing)",0,1,,2,
+13,http://ebi.ac.uk#Pattern42,,"has_quality some 
+    (PATO_0002305
+     and (towards some NBO_0000085))",1,,13,14,
+6,http://ebi.ac.uk#Pattern43,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000130))))",1,,6,7,
+2,http://ebi.ac.uk#Pattern40,,"BFO_0000056 some 
+    (GO_0022410
+     and (has_quality some PATO_0001309))",1,,2,3,
+,http://ebi.ac.uk#Pattern41,,"NBO_0000308
+ and (is_about some PATO_0001241)",0,,7,8,
+,http://ebi.ac.uk#Pattern1121,,RO_0002211 some NBO_0000607,0,,4,5,
+,http://ebi.ac.uk#Pattern1120,,"Thing
+ and (in_response_to some (has_role some CHEBI_35703))",0,,9,10,
+,http://ebi.ac.uk#Pattern1123,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001018))))
+     and (qualifier some PATO_0001333))",0,,1,2,
+,http://ebi.ac.uk#Pattern1122,4,"PATO_0000001
+ and (RO_0000052 some GO_0007623)
+ and (qualifier some PATO_0000460)",1,4,,5,
+,http://ebi.ac.uk#Pattern48,,"NBO_0001632
+ and (in_response_to some NBO_0001952)",0,,1,2,
+,http://ebi.ac.uk#Pattern1125,,"PATO_0000001
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,3,,4,
+,http://ebi.ac.uk#Pattern49,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0001845))))",0,,11,12,
+,http://ebi.ac.uk#Pattern1124,,"Thing
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern46,,"BFO_0000056 some 
+    (GO_0051704
+     and (has_quality some PATO_0000044))",0,,1,2,
+,http://ebi.ac.uk#Pattern1127,,"NBO_0000208
+ and (is_about some Thing)",0,,4,5,
+3,http://ebi.ac.uk#Pattern47,,RO_0002211 some NBO_0001679,1,,3,4,
+,http://ebi.ac.uk#Pattern1126,,"GO_0007622
+ and (is_about some Thing)",0,,10,11,
+1,http://ebi.ac.uk#Pattern44,,"BFO_0000056 some 
+    (GO_0008050
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+1,http://ebi.ac.uk#Pattern1129,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0002304)
+         and (towards some NBO_0000130))))",1,,1,2,
+1,http://ebi.ac.uk#Pattern45,,"BFO_0000056 some 
+    (GO_0042748
+     and (has_quality some PATO_0000044))",1,,1,2,
+1,http://ebi.ac.uk#Pattern1128,,"NBO_0000041
+ and (by_means some UBERON_0004859)
+ and (is_about some GO_0070075)",1,,1,2,
+,http://ebi.ac.uk#Pattern175,,"NBO_0000327
+ and (in_response_to some GO_0050968)",0,,1,2,
+,http://ebi.ac.uk#Pattern174,,"NBO_0000327
+ and (in_response_to some GO_0050967)",0,,1,2,
+,http://ebi.ac.uk#Pattern173,,"NBO_0000327
+ and (in_response_to some GO_0050966)",0,,1,2,
+,http://ebi.ac.uk#Pattern172,,"NBO_0000327
+ and (in_response_to some GO_0050965)",0,,1,2,
+,http://ebi.ac.uk#Pattern171,,"PATO_0000001
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern170,,"Thing
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1318,,"NBO_0001728
+ and (in_response_to some NBO_0001845)",0,,4,5,
+,http://ebi.ac.uk#Pattern1317,,"PATO_0000001
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern1319,,"has_quality some 
+    (Thing
+     and (towards some GO_0042755))",0,,1,2,
+,http://ebi.ac.uk#Pattern1310,,"Thing
+ and (is_about some GO_0007623)",0,,10,11,
+,http://ebi.ac.uk#Pattern1312,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0001845))))",0,,2,3,
+1,http://ebi.ac.uk#Pattern169,,"NBO_0000011
+ and (is_about some NBO_0000037)",1,,1,2,
+,http://ebi.ac.uk#Pattern1311,,"NBO_0000330
+ and (in_response_to some GO_0032501)",0,,10,11,
+,http://ebi.ac.uk#Pattern168,,"BFO_0000056 some 
+    (NBO_0001632
+     and (has_quality some PATO_0000001))",0,,1,2,
+3,http://ebi.ac.uk#Pattern1314,,"NBO_0000308
+ and (is_about some PATO_0000117)",1,,3,4,
+,http://ebi.ac.uk#Pattern167,,"NBO_0001845
+ and (has_participant some CHEBI_32111)",0,,1,2,
+,http://ebi.ac.uk#Pattern1313,,"BFO_0000002
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some PATO_0000460)",0,1,,2,
+2,http://ebi.ac.uk#Pattern166,,"NBO_0000015
+ and (by_means some NBO_0000313)",1,,2,3,
+,http://ebi.ac.uk#Pattern1316,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some BFO_0000002))",0,,4,5,
+,http://ebi.ac.uk#Pattern165,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000313))))",0,,11,12,
+,http://ebi.ac.uk#Pattern1315,,"BFO_0000056 some 
+    (NBO_0000161
+     and (has_quality some Thing))",0,,3,4,
+,http://ebi.ac.uk#Pattern186,,"BFO_0000002
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern185,,"PATO_0000001
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some PATO_0000001)",0,1,,2,
+69,http://ebi.ac.uk#Pattern184,,"BFO_0000056 some 
+    (GO_0044707
+     and (has_quality some PATO_0000001))",1,,69,70,
+,http://ebi.ac.uk#Pattern183,,"Thing
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern182,,"NBO_0000130
+ and (has_participant some CHEBI_24835)",0,,1,2,
+,http://ebi.ac.uk#Pattern181,,"NBO_0000308
+ and (in_response_to some NBO_0001915)",0,,1,2,
+,http://ebi.ac.uk#Pattern180,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0001236
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1307,,"NBO_0000208
+ and (is_about some GO_0050882)",0,,2,3,
+,http://ebi.ac.uk#Pattern1306,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,4,,5,
+3,http://ebi.ac.uk#Pattern1309,,"BFO_0000056 some 
+    (NBO_0000036
+     and (has_quality some PATO_0000001))",3,,3,4,
+,http://ebi.ac.uk#Pattern1308,,"NBO_0000208
+ and (is_about some GO_0050881)",0,,2,3,
+,http://ebi.ac.uk#Pattern1301,,"NBO_0000355
+ and (has_participant some UBERON_0000061)",0,,1,2,
+,http://ebi.ac.uk#Pattern1300,,"NBO_0000225
+ and (is_about some Thing)",0,,3,4,
+,http://ebi.ac.uk#Pattern179,,"BFO_0000056 some 
+    (GO_0060273
+     and (has_quality some BFO_0000002))",0,,1,2,
+1,http://ebi.ac.uk#Pattern1303,,"NBO_0000355
+ and (has_participant some UBERON_0000060)",1,,1,2,
+,http://ebi.ac.uk#Pattern178,,"has_quality some 
+    (BFO_0000002
+     and (towards some GO_0042755))",0,,1,2,
+,http://ebi.ac.uk#Pattern1302,,"BFO_0000002
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some PATO_0000460)",0,3,,4,
+,http://ebi.ac.uk#Pattern177,1,"PATO_0000001
+ and (RO_0000052 some GO_0008344)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern1305,,"BFO_0000056 some 
+    (NBO_0000121
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern176,,"BFO_0000056 some 
+    (NBO_0000038
+     and (has_quality some Thing))",0,,3,4,
+,http://ebi.ac.uk#Pattern1304,1,"PATO_0000001
+ and (RO_0000052 some GO_0009649)
+ and (qualifier some PATO_0000460)",1,1,,2,
+1,http://ebi.ac.uk#Pattern153,,"BFO_0000056 some 
+    (GO_0009416
+     and (has_quality some PATO_0000001))",1,,1,2,
+2,http://ebi.ac.uk#Pattern395,,"NBO_0000313
+ and (in_response_to some PATO_0001305)",1,,2,3,
+,http://ebi.ac.uk#Pattern152,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0000069))",0,,1,2,
+,http://ebi.ac.uk#Pattern394,,"Thing
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern151,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0000068))",0,,1,2,
+,http://ebi.ac.uk#Pattern393,,"NBO_0000313
+ and (in_response_to some PATO_0001306)",0,,1,2,
+,http://ebi.ac.uk#Pattern150,,"Thing
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern392,,"NBO_0000313
+ and (in_response_to some GO_0007606)",0,,4,5,
+,http://ebi.ac.uk#Pattern391,,"PATO_0000001
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern390,,"NBO_0000313
+ and (in_response_to some GO_0007605)",0,,1,2,
+,http://ebi.ac.uk#Pattern1330,,"BFO_0000056 some 
+    (NBO_0000327
+     and (has_quality some BFO_0000002))",0,,11,12,
+6,http://ebi.ac.uk#Pattern1339,,"BFO_0000056 some 
+    (GO_0022410
+     and (has_quality some PATO_0000001))",1,,6,7,
+2,http://ebi.ac.uk#Pattern1332,,"BFO_0000056 some 
+    (NBO_0000038
+     and (has_quality some PATO_0000001))",2,,2,3,
+,http://ebi.ac.uk#Pattern149,,"BFO_0000056 some 
+    (NBO_0000037
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern1331,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0002062)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern148,,"PATO_0000001
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern1334,,"NBO_0000038
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0007588)",0,,1,2,
+,http://ebi.ac.uk#Pattern147,1,"PATO_0000001
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern389,,"NBO_0000313
+ and (in_response_to some GO_0007608)",0,,2,3,
+,http://ebi.ac.uk#Pattern1333,,"NBO_0000225
+ and (is_about some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,,3,4,
+,http://ebi.ac.uk#Pattern146,,"BFO_0000056 some 
+    (NBO_0000064
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001241)))))",0,,1,2,
+,http://ebi.ac.uk#Pattern388,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0008150
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1336,,"BFO_0000056 some 
+    (NBO_0002948
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",0,,1,2,
+1,http://ebi.ac.uk#Pattern145,,"NBO_0000327
+ and (in_response_to some GO_0050975)",1,,1,2,
+,http://ebi.ac.uk#Pattern387,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000001
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1335,,"NBO_0001632
+ and (in_response_to some NBO_0000131)",0,,1,2,
+1,http://ebi.ac.uk#Pattern144,,"BFO_0000056 some 
+    (NBO_0000022
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern386,,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001241))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1338,,"Thing
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern143,,"BFO_0000056 some 
+    (NBO_0000388
+     and (has_quality some Thing))",0,,14,15,
+,http://ebi.ac.uk#Pattern385,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000130))))",0,,6,7,
+,http://ebi.ac.uk#Pattern1337,,"Thing
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern164,,"BFO_0000056 some 
+    (GO_0007635
+     and (has_quality some Thing))",0,,2,3,
+,http://ebi.ac.uk#Pattern163,,"NBO_0000313
+ and (in_response_to some NBO_0000778)",0,,1,2,
+1,http://ebi.ac.uk#Pattern162,,"BFO_0000056 some 
+    (NBO_0000079
+     and (has_quality some PATO_0000912))",1,,1,2,
+,http://ebi.ac.uk#Pattern161,,"has_quality some 
+    (scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+     and (towards some NBO_0000230))",0,,1,2,
+,http://ebi.ac.uk#Pattern160,,"BFO_0000056 some 
+    (GO_0048511
+     and (has_quality some PATO_0000044))",0,,2,3,
+1,http://ebi.ac.uk#Pattern1329,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001309)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern1328,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0002300))",0,,1,2,
+1,http://ebi.ac.uk#Pattern1321,,"BFO_0000056 some 
+    (NBO_0002948
+     and (has_quality some PATO_0002062))",1,,1,2,
+,http://ebi.ac.uk#Pattern1320,,"BFO_0000056 some 
+    (GO_0042756
+     and (has_quality some BFO_0000002))",0,,15,16,
+,http://ebi.ac.uk#Pattern159,,"NBO_0000006
+ and (is_about some NBO_0000339)",0,,1,2,
+1,http://ebi.ac.uk#Pattern1323,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0002304))",1,,1,2,
+,http://ebi.ac.uk#Pattern158,,"NBO_0000388
+ and (by_means some GO_0050896)",0,,60,61,
+,http://ebi.ac.uk#Pattern1322,,"NBO_0000326
+ and (in_response_to some Thing)",0,,2,3,
+,http://ebi.ac.uk#Pattern157,,"Thing
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some PATO_0000460)",0,3,,4,
+,http://ebi.ac.uk#Pattern399,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (Thing
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1325,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some Thing)",0,4,,5,
+3,http://ebi.ac.uk#Pattern156,,RO_0002211 some NBO_0000134,2,,3,4,
+,http://ebi.ac.uk#Pattern398,,"NBO_0001845
+ and (has_participant some CHEBI_16236)",0,,1,2,
+,http://ebi.ac.uk#Pattern1324,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000130))))",0,,11,12,
+5,http://ebi.ac.uk#Pattern155,,"NBO_0001845
+ and ((has_participant some CHEBI_52211) or (has_participant some PATO_0000145))",1,,5,6,
+,http://ebi.ac.uk#Pattern397,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some PATO_0000044))",0,,9,10,
+,http://ebi.ac.uk#Pattern1327,,"has_quality some 
+    (PATO_0000001
+     and (towards some GO_0042755))",0,,1,2,
+,http://ebi.ac.uk#Pattern154,24,"PATO_0000001
+ and (RO_0000052 some GO_0050896)
+ and (qualifier some PATO_0000460)",1,24,,25,
+,http://ebi.ac.uk#Pattern396,,"PATO_0000001
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern1326,,"BFO_0000056 some 
+    (NBO_0000607
+     and (has_quality some Thing))",0,,27,28,
+,http://ebi.ac.uk#Pattern131,,"Thing
+ and (is_about some GO_0007588)",0,,3,4,
+1,http://ebi.ac.uk#Pattern373,,"BFO_0000056 some 
+    (NBO_0000170
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern130,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some PATO_0000912))",0,,6,7,
+3,http://ebi.ac.uk#Pattern372,,"NBO_0000322
+ and (in_response_to some GO_0032501)",2,,3,4,
+20,http://ebi.ac.uk#Pattern371,,"BFO_0000056 some 
+    (GO_0050882
+     and (has_quality some PATO_0000001))",1,,20,21,
+,http://ebi.ac.uk#Pattern370,,"PATO_0000001
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern129,,"Thing
+ and (is_about some GO_0007589)",0,,2,3,
+1,http://ebi.ac.uk#Pattern128,,"NBO_0001884
+ and (has_participant some CHEBI_25418)",1,,1,2,
+,http://ebi.ac.uk#Pattern127,,"NBO_0000313
+ and (is_about some NBO_0000749)",0,,1,2,
+,http://ebi.ac.uk#Pattern369,,"BFO_0000056 some 
+    (GO_0050881
+     and (has_quality some PATO_0000001))",0,,20,21,
+,http://ebi.ac.uk#Pattern126,,"NBO_0000035
+ and (is_about some Thing)",0,,5,6,
+,http://ebi.ac.uk#Pattern368,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some Thing))))",0,,11,12,
+,http://ebi.ac.uk#Pattern125,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",0,,1,2,
+,http://ebi.ac.uk#Pattern367,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0002300))",0,,1,2,
+,http://ebi.ac.uk#Pattern124,,"NBO_0000313
+ and (is_about some NBO_0000747)",0,,1,2,
+2,http://ebi.ac.uk#Pattern366,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0002302))",1,,2,3,
+,http://ebi.ac.uk#Pattern123,,"PATO_0000001
+ and (RO_0000052 some GO_0050789)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern365,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001236)
+         and (towards some NBO_0000130))))",0,,1,2,
+9,http://ebi.ac.uk#Pattern122,,"NBO_0001632
+ and (in_response_to some (has_role some CHEBI_24432))",1,,9,10,
+,http://ebi.ac.uk#Pattern364,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern121,,"GO_0051704
+ and (by_means some NBO_0000128)",0,,1,2,
+,http://ebi.ac.uk#Pattern363,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0002301))",0,,2,3,
+,http://ebi.ac.uk#Pattern142,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0000313))))",0,,3,4,
+,http://ebi.ac.uk#Pattern384,,"PATO_0000001
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern141,,"Thing
+ and (has_participant some CHEBI_33290)",0,,2,3,
+,http://ebi.ac.uk#Pattern383,,"NBO_0001884
+ and (has_participant some CHEBI_24921)",0,,1,2,
+,http://ebi.ac.uk#Pattern140,,"BFO_0000056 some 
+    (GO_0051704
+     and (has_quality some PATO_0000001))",0,,11,12,
+1,http://ebi.ac.uk#Pattern382,,"NBO_0000171
+ and (is_about some NBO_0000747)",1,,1,2,
+3,http://ebi.ac.uk#Pattern381,,"BFO_0000056 some 
+    (NBO_0000084
+     and (has_quality some PATO_0000001))",1,,3,4,
+,http://ebi.ac.uk#Pattern380,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002300
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern139,,"BFO_0000056 some 
+    (GO_0048512
+     and (has_quality some PATO_0000044))",0,,2,3,
+,http://ebi.ac.uk#Pattern138,,"BFO_0000056 some 
+    (GO_0007626
+     and (has_quality some BFO_0000002))",0,,13,14,
+,http://ebi.ac.uk#Pattern137,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0001845)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+1,http://ebi.ac.uk#Pattern379,,"NBO_0000171
+ and (is_about some NBO_0000749)",1,,1,2,
+1,http://ebi.ac.uk#Pattern136,,"BFO_0000056 some 
+    (GO_0007620
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+1,http://ebi.ac.uk#Pattern378,,"BFO_0000056 some 
+    (NBO_0002436
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",1,,1,2,
+,http://ebi.ac.uk#Pattern135,,"NBO_0000035
+ and (is_about some GO_0044707)",0,,5,6,
+,http://ebi.ac.uk#Pattern377,,"NBO_0001845
+ and (has_participant some CHEBI_15377)",0,,1,2,
+53,http://ebi.ac.uk#Pattern134,,"BFO_0000056 some 
+    (GO_0030431
+     and (has_quality some PATO_0000001))",1,,53,54,
+,http://ebi.ac.uk#Pattern376,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0050896 or (GO_0007610
+     and (BFO_0000050 some GO_0050896))))
+ and (qualifier some PATO_0000460)",0,24,,25,
+,http://ebi.ac.uk#Pattern133,,"BFO_0000056 some 
+    (GO_0032501
+     and (has_quality some PATO_0000001))",0,,69,70,
+,http://ebi.ac.uk#Pattern375,,"NBO_0000313
+ and (has_participant some UBERON_0002101)",0,,1,2,
+,http://ebi.ac.uk#Pattern132,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some PATO_0000911))",0,,4,5,
+1,http://ebi.ac.uk#Pattern374,,"BFO_0000056 some 
+    (GO_0045297
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern351,,"Thing
+ and (in_response_to some NBO_0000131)",0,,1,2,
+,http://ebi.ac.uk#Pattern593,,"NBO_0000308
+ and (in_response_to some NBO_0001952)",0,,1,2,
+,http://ebi.ac.uk#Pattern350,,"Thing
+ and (is_about some NBO_0000003)",0,,2,3,
+1,http://ebi.ac.uk#Pattern592,,"NBO_0000079
+ and (has_participant some CHEBI_15377)",1,,1,2,
+,http://ebi.ac.uk#Pattern591,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000001
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern590,,"NBO_0000022
+ and (is_about some NBO_0000091)",0,,1,2,
+,http://ebi.ac.uk#Pattern109,,"NBO_0000308
+ and (is_about some BFO_0000002)",0,,7,8,
+,http://ebi.ac.uk#Pattern108,,"Thing
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern107,,"NBO_0000355
+ and (has_participant some Thing)",0,,2,3,
+,http://ebi.ac.uk#Pattern349,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000069
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern106,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+1,http://ebi.ac.uk#Pattern348,,"NBO_0000208
+ and (is_about some NBO_0000007)",1,,1,2,
+,http://ebi.ac.uk#Pattern105,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some Thing))))",0,,1,2,
+,http://ebi.ac.uk#Pattern347,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some Thing))))",0,,3,4,
+1,http://ebi.ac.uk#Pattern589,,"BFO_0000056 some 
+    (GO_0060179
+     and (has_quality some PATO_0000001))",1,,1,2,
+,http://ebi.ac.uk#Pattern104,,"BFO_0000056 some 
+    (NBO_0000039
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern346,,"BFO_0000056 some 
+    (GO_0045297
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern588,,"Thing
+ and (by_means some UBERON_0002105)",0,,2,3,
+,http://ebi.ac.uk#Pattern103,,"NBO_0000607
+ and (is_about some NBO_0000091)",0,,1,2,
+,http://ebi.ac.uk#Pattern345,,"NBO_0000208
+ and (is_about some NBO_0000001)",0,,2,3,
+,http://ebi.ac.uk#Pattern587,,"NBO_0001632
+ and (in_response_to some (has_role some CHEBI_50906))",0,,9,10,
+1,http://ebi.ac.uk#Pattern102,,"NBO_0000308
+ and (in_response_to some GO_0050909)",1,,1,2,
+,http://ebi.ac.uk#Pattern344,,"NBO_0000208
+ and (is_about some NBO_0000003)",0,,1,2,
+,http://ebi.ac.uk#Pattern586,,"Thing
+ and (by_means some UBERON_0002104)",0,,1,2,
+3,http://ebi.ac.uk#Pattern101,,"NBO_0000322
+ and (in_response_to some GO_0008150)",2,,3,4,
+,http://ebi.ac.uk#Pattern343,,"PATO_0000001
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some Thing)",0,2,,3,
+,http://ebi.ac.uk#Pattern585,,"GO_0050896
+ and (by_means some NBO_0000128)",0,,1,2,
+1,http://ebi.ac.uk#Pattern100,,"BFO_0000056 some 
+    (NBO_0000322
+     and (has_quality some PATO_0000001))",1,,1,2,
+,http://ebi.ac.uk#Pattern342,,"NBO_0000171
+ and (in_response_to some NBO_0000171)",0,,1,2,
+,http://ebi.ac.uk#Pattern584,,"NBO_0000326
+ and (in_response_to some PATO_0001018)",0,,2,3,
+,http://ebi.ac.uk#Pattern341,,"PATO_0000001
+ and (RO_0000052 some GO_0032501)
+ and (qualifier some PATO_0000460)",0,7,,8,
+,http://ebi.ac.uk#Pattern583,,"PATO_0001995
+ and (RO_0000052 some FBbt_00000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern120,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0001845))))",0,,3,4,
+1,http://ebi.ac.uk#Pattern362,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0002304))",1,,1,2,
+,http://ebi.ac.uk#Pattern361,,"BFO_0000056 some 
+    (GO_0008049
+     and (has_quality some BFO_0000002))",0,,1,2,
+13,http://ebi.ac.uk#Pattern360,,"has_quality some 
+    (PATO_0002360
+     and (towards some NBO_0000085))",1,,13,14,
+,http://ebi.ac.uk#Pattern119,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some Thing))",0,,1,2,
+1,http://ebi.ac.uk#Pattern118,,"BFO_0000056 some 
+    (NBO_0000064
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0002305)))))",1,,1,2,
+,http://ebi.ac.uk#Pattern117,,"has_quality some 
+    (PATO_0002300
+     and (towards some NBO_0000085))",0,,13,14,
+,http://ebi.ac.uk#Pattern359,,"NBO_0000313
+ and (is_about some NBO_0000037)",0,,1,2,
+10,http://ebi.ac.uk#Pattern116,,"BFO_0000056 some 
+    (GO_0051705
+     and (has_quality some PATO_0000001))",2,,10,11,
+,http://ebi.ac.uk#Pattern358,,"NBO_0000313
+ and (is_about some GO_0042747)",0,,1,2,
+,http://ebi.ac.uk#Pattern115,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000001)",0,4,,5,
+,http://ebi.ac.uk#Pattern357,,"PATO_0000001
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern599,,"NBO_0000607
+ and (in_response_to some NBO_0002086)",0,,1,2,
+1,http://ebi.ac.uk#Pattern114,,"NBO_0000607
+ and (is_about some PATO_0001595)",1,,1,2,
+,http://ebi.ac.uk#Pattern356,,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001018))))",0,,1,2,
+,http://ebi.ac.uk#Pattern598,,"BFO_0000056 some 
+    (GO_0050896
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",0,,1,2,
+,http://ebi.ac.uk#Pattern113,,"BFO_0000056 some 
+    (NBO_0000064
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0002300)))))",0,,1,2,
+1,http://ebi.ac.uk#Pattern355,,"NBO_0000308
+ and (is_about some PATO_0001708)",1,,1,2,
+,http://ebi.ac.uk#Pattern597,,"BFO_0000056 some 
+    (NBO_0000008
+     and (has_quality some BFO_0000002))",0,,55,56,
+1,http://ebi.ac.uk#Pattern112,,"BFO_0000056 some 
+    (NBO_0000064
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0000125)))))",1,,1,2,
+1,http://ebi.ac.uk#Pattern354,,"NBO_0001845
+ and (has_participant some CHEBI_17303)",1,,1,2,
+,http://ebi.ac.uk#Pattern596,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern111,,"BFO_0000056 some 
+    (NBO_0000006
+     and (has_quality some BFO_0000002))",0,,3,4,
+,http://ebi.ac.uk#Pattern353,,"NBO_0000171
+ and (is_about some NBO_0000751)",0,,1,2,
+1,http://ebi.ac.uk#Pattern595,,"has_quality some 
+    (PATO_0001564
+     and (towards some GO_0042755))",1,,1,2,
+2,http://ebi.ac.uk#Pattern110,,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some PATO_0002062))",1,,2,3,
+,http://ebi.ac.uk#Pattern352,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0001845))))",0,,1,2,
+,http://ebi.ac.uk#Pattern594,,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some BFO_0000002))",0,,3,4,
+,http://ebi.ac.uk#Pattern571,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern570,,"GO_0007610
+ and (is_about some GO_0007623)",0,,10,11,
+,http://ebi.ac.uk#Pattern329,,"BFO_0000056 some 
+    (NBO_0000636
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern328,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000130))))",0,,3,4,
+34,http://ebi.ac.uk#Pattern327,,"BFO_0000056 some 
+    (GO_0044708
+     and (has_quality some PATO_0000001))",3,,34,35,
+1,http://ebi.ac.uk#Pattern569,,"NBO_0000041
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0006810)",1,,1,2,
+1,http://ebi.ac.uk#Pattern326,,"NBO_0001679
+ and (in_response_to some NBO_0001915)",1,,1,2,
+,http://ebi.ac.uk#Pattern568,,"NBO_0000313
+ and (has_participant some UBERON_0000309)",0,,1,2,
+1,http://ebi.ac.uk#Pattern325,,"BFO_0000056 some 
+    (GO_0007631
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",1,,1,2,
+,http://ebi.ac.uk#Pattern567,,"PATO_0000001
+ and (RO_0000052 some GO_0022414)
+ and (qualifier some PATO_0000460)",0,5,,6,
+1,http://ebi.ac.uk#Pattern324,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000911
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",1,,1,2,
+4,http://ebi.ac.uk#Pattern566,,"BFO_0000056 some 
+    (GO_0035176
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,4,5,
+1,http://ebi.ac.uk#Pattern323,,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (Thing
+         and (has_quality some PATO_0001563))))",1,,1,2,
+,http://ebi.ac.uk#Pattern565,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+         and (towards some NBO_0000130))))",0,,11,12,
+,http://ebi.ac.uk#Pattern322,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0001236
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern564,,"BFO_0000056 some 
+    (NBO_0000024
+     and (has_quality some Thing))",0,,53,54,
+3,http://ebi.ac.uk#Pattern321,,"BFO_0000056 some 
+    (NBO_0000006
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,3,4,
+3,http://ebi.ac.uk#Pattern563,,"BFO_0000056 some 
+    (GO_0030431
+     and (has_quality some PATO_0002062))",1,,3,4,
+,http://ebi.ac.uk#Pattern320,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0019098 or (GO_0007610
+     and (BFO_0000050 some GO_0019098))))
+ and (qualifier some PATO_0000460)",0,5,,6,
+1,http://ebi.ac.uk#Pattern562,,"BFO_0000056 some 
+    (NBO_0000161
+     and (has_quality some PATO_0000161))",1,,1,2,
+,http://ebi.ac.uk#Pattern561,,"has_quality some 
+    (PATO_0001558
+     and (towards some GO_0050896))",0,,1,2,
+1,http://ebi.ac.uk#Pattern340,,"NBO_0000313
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0070075)",1,,1,2,
+,http://ebi.ac.uk#Pattern582,,"BFO_0000056 some 
+    ((NBO_0000313
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+,http://ebi.ac.uk#Pattern581,,"NBO_0000308
+ and (in_response_to some GO_0050968)",0,,1,2,
+,http://ebi.ac.uk#Pattern580,,"NBO_0000308
+ and (in_response_to some GO_0050967)",0,,1,2,
+2,http://ebi.ac.uk#Pattern339,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some PATO_0000911))",1,,2,3,
+,http://ebi.ac.uk#Pattern338,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some PATO_0000912))",0,,2,3,
+,http://ebi.ac.uk#Pattern337,,"NBO_0000041
+ and (by_means some UBERON_0002530)
+ and (is_about some GO_0070075)",0,,1,2,
+1,http://ebi.ac.uk#Pattern579,,"BFO_0000056 some 
+    (NBO_0000042
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+3,http://ebi.ac.uk#Pattern336,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0000161))",2,,3,4,
+,http://ebi.ac.uk#Pattern578,,"NBO_0000308
+ and (in_response_to some GO_0050966)",0,,1,2,
+,http://ebi.ac.uk#Pattern335,,"NBO_0002169
+ and (has_participant some CHEBI_32111)",0,,1,2,
+,http://ebi.ac.uk#Pattern577,,"BFO_0000002
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some PATO_0000460)",0,4,,5,
+,http://ebi.ac.uk#Pattern334,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern576,,"NBO_0000308
+ and (in_response_to some GO_0050965)",0,,1,2,
+1,http://ebi.ac.uk#Pattern333,,"BFO_0000056 some 
+    (NBO_0000084
+     and (has_quality some PATO_0001309))",1,,1,2,
+1,http://ebi.ac.uk#Pattern575,,"BFO_0000056 some 
+    (NBO_0000024
+     and (has_quality some PATO_0001309))",1,,1,2,
+,http://ebi.ac.uk#Pattern332,,"NBO_0000308
+ and (in_response_to some GO_0019233)",0,,6,7,
+1,http://ebi.ac.uk#Pattern574,,"NBO_0000308
+ and (by_means some UBERON_0005725)",1,,1,2,
+,http://ebi.ac.uk#Pattern331,,"NBO_0001632
+ and (in_response_to some GO_0050909)",1,,,1,
+,http://ebi.ac.uk#Pattern573,,"BFO_0000056 some 
+    (GO_0044699
+     and (has_quality some PATO_0000001))",0,,74,75,
+15,http://ebi.ac.uk#Pattern330,,"BFO_0000056 some 
+    (BFO_0000003
+     and (has_quality some PATO_0000001))",1,,15,16,
+,http://ebi.ac.uk#Pattern572,,"has_quality some 
+    (PATO_0001236
+     and (towards some GO_0042755))",0,,1,2,
+,http://ebi.ac.uk#Pattern791,,"GO_0002118
+ and (by_means some NBO_0000011)",0,,1,2,
+1,http://ebi.ac.uk#Pattern790,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0000161))",1,,1,2,
+,http://ebi.ac.uk#Pattern309,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000068
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+3,http://ebi.ac.uk#Pattern308,,"BFO_0000056 some 
+    (GO_0042748
+     and (has_quality some PATO_0000001))",1,,3,4,
+1,http://ebi.ac.uk#Pattern307,,"GO_0030431
+ and (is_about some GO_0042747)",1,,1,2,
+3,http://ebi.ac.uk#Pattern549,,"NBO_0000313
+ and (is_about some GO_0007588)",1,,3,4,
+,http://ebi.ac.uk#Pattern306,,"NBO_0000607
+ and (is_about some NBO_0000037)",0,,1,2,
+2,http://ebi.ac.uk#Pattern548,,"NBO_0000326
+ and (in_response_to some PATO_0000146)",2,,2,3,
+1,http://ebi.ac.uk#Pattern305,,"NBO_0000006
+ and (is_about some NBO_0000745)",1,,1,2,
+,http://ebi.ac.uk#Pattern547,,"NBO_0000330
+ and (in_response_to some GO_0008150)",0,,10,11,
+,http://ebi.ac.uk#Pattern789,,"Thing
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern304,,RO_0002211 some NBO_0002169,0,,1,2,
+,http://ebi.ac.uk#Pattern546,,"NBO_0002169
+ and (has_participant some CHEBI_16236)",0,,1,2,
+,http://ebi.ac.uk#Pattern788,,"BFO_0000056 some 
+    (GO_0007635
+     and (has_quality some BFO_0000002))",0,,2,3,
+,http://ebi.ac.uk#Pattern303,,"BFO_0000056 some 
+    (NBO_0000635
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern545,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002300
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+54,http://ebi.ac.uk#Pattern787,,"BFO_0000056 some 
+    (NBO_0000008
+     and (has_quality some PATO_0000001))",2,,54,55,
+,http://ebi.ac.uk#Pattern302,,"BFO_0000056 some 
+    (GO_0048511
+     and (has_quality some PATO_0001309))",0,,2,3,
+,http://ebi.ac.uk#Pattern544,,"PATO_0000001
+ and (RO_0000052 some GO_0050877)
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern786,,"NBO_0000751
+ and (in_response_to some GO_0050955)",0,,3,4,
+,http://ebi.ac.uk#Pattern301,,"NBO_0001632
+ and (in_response_to some NBO_0001915)",0,,1,2,
+,http://ebi.ac.uk#Pattern543,,"BFO_0000056 some 
+    (GO_0035176
+     and (has_quality some Thing))",0,,4,5,
+,http://ebi.ac.uk#Pattern785,,"BFO_0000056 some 
+    (GO_0048583
+     and (has_quality some PATO_0000912))",0,,2,3,
+15,http://ebi.ac.uk#Pattern300,,"BFO_0000056 some 
+    (NBO_0000308
+     and (has_quality some PATO_0000001))",3,,15,16,
+2,http://ebi.ac.uk#Pattern542,,"NBO_0000038
+ and (is_about some Thing)",1,,2,3,
+3,http://ebi.ac.uk#Pattern784,,"NBO_0000607
+ and (in_response_to some GO_0007601)",1,,3,4,
+9,http://ebi.ac.uk#Pattern541,,"NBO_0000308
+ and (in_response_to some (has_role some CHEBI_35703))",1,,9,10,
+,http://ebi.ac.uk#Pattern783,,"BFO_0000056 some 
+    (GO_0048583
+     and (has_quality some PATO_0000911))",0,,1,2,
+,http://ebi.ac.uk#Pattern540,,"Thing
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern782,,"BFO_0000056 some 
+    (NBO_0000003
+     and (has_quality some Thing))",0,,14,15,
+,http://ebi.ac.uk#Pattern781,,"NBO_0000313
+ and (in_response_to some GO_0050975)",0,,1,2,
+,http://ebi.ac.uk#Pattern560,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002304
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern319,,"NBO_0001845
+ and (has_participant some CHEBI_33290)",0,,1,2,
+,http://ebi.ac.uk#Pattern318,,"has_quality some 
+    (PATO_0002361
+     and (towards some NBO_0000313))",0,,14,15,
+,http://ebi.ac.uk#Pattern317,1,"PATO_0000770
+ and (RO_0000052 some FBbt_00100313)",1,1,,2,
+,http://ebi.ac.uk#Pattern559,,"NBO_0001845
+ and ((has_participant some PATO_0000145) or (has_participant some Thing))",0,,8,9,
+1,http://ebi.ac.uk#Pattern316,,"NBO_0000022
+ and (is_about some NBO_0000339)",1,,1,2,
+18,http://ebi.ac.uk#Pattern558,,RO_0002211 some NBO_0001845,2,,18,19,
+,http://ebi.ac.uk#Pattern315,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0001845))))",0,,1,2,
+,http://ebi.ac.uk#Pattern557,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0000313))))",0,,2,3,
+14,http://ebi.ac.uk#Pattern799,,"BFO_0000056 some 
+    (NBO_0000388
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,14,15,
+,http://ebi.ac.uk#Pattern314,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern556,,"Thing
+ and (by_means some NBO_0000037)",0,,1,2,
+1,http://ebi.ac.uk#Pattern798,,"BFO_0000056 some 
+    (NBO_0000037
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern313,,"GO_0002118
+ and (by_means some NBO_0000313)",0,,1,2,
+3,http://ebi.ac.uk#Pattern555,,"BFO_0000056 some 
+    (GO_0007619
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,3,4,
+,http://ebi.ac.uk#Pattern797,,"PATO_0000001
+ and (RO_0000052 some GO_0009314)
+ and (qualifier some PATO_0000460)",0,3,,4,
+,http://ebi.ac.uk#Pattern312,,"PATO_0000001
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern554,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000069
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+5,http://ebi.ac.uk#Pattern796,,"NBO_0001845
+ and ((has_participant some CHEBI_50906) or (has_participant some PATO_0000145))",1,,5,6,
+74,http://ebi.ac.uk#Pattern311,,"BFO_0000056 some 
+    (GO_0007610
+     and (has_quality some PATO_0000001))",1,,74,75,
+,http://ebi.ac.uk#Pattern553,,"NBO_0000225
+ and (is_about some PATO_0001291)",0,,1,2,
+,http://ebi.ac.uk#Pattern795,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern310,1,"PATO_0000001
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern552,,"NBO_0000024
+ and (is_about some GO_0044708)",0,,2,3,
+1,http://ebi.ac.uk#Pattern794,,"NBO_0000041
+ and (by_means some UBERON_0001817)
+ and (is_about some Thing)",1,,1,2,
+,http://ebi.ac.uk#Pattern551,,"BFO_0000056 some 
+    (Thing
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",0,,1,2,
+,http://ebi.ac.uk#Pattern793,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002062
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+2,http://ebi.ac.uk#Pattern550,,"NBO_0000313
+ and (is_about some GO_0007589)",1,,2,3,
+,http://ebi.ac.uk#Pattern792,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some BFO_0000002)",0,2,,3,
+,http://ebi.ac.uk#Pattern529,,"NBO_0000326
+ and (in_response_to some PATO_0001241)",0,,2,3,
+1,http://ebi.ac.uk#Pattern528,,"NBO_0000130
+ and (has_participant some CHEBI_52625)",1,,1,2,
+,http://ebi.ac.uk#Pattern527,,"NBO_0000751
+ and (has_participant some UBERON_0000309)",0,,1,2,
+,http://ebi.ac.uk#Pattern769,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some PATO_0000912))",0,,5,6,
+,http://ebi.ac.uk#Pattern526,,"RO_0002211 some 
+    (NBO_0000079 or NBO_0000130)",0,,9,10,
+,http://ebi.ac.uk#Pattern768,,"NBO_0000608
+ and (by_means some Thing)",0,,3,4,
+,http://ebi.ac.uk#Pattern525,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern767,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some PATO_0001309))",0,,1,2,
+,http://ebi.ac.uk#Pattern524,,"BFO_0000056 some 
+    (NBO_0000338
+     and (has_quality some BFO_0000002))",0,,35,36,
+,http://ebi.ac.uk#Pattern766,,"NBO_0000607
+ and (in_response_to some GO_0007606)",0,,4,5,
+,http://ebi.ac.uk#Pattern523,,"NBO_0000208
+ and (is_about some GO_0044707)",0,,2,3,
+,http://ebi.ac.uk#Pattern765,,"NBO_0000607
+ and (in_response_to some GO_0007608)",0,,2,3,
+,http://ebi.ac.uk#Pattern522,,"NBO_0000171
+ and (is_about some NBO_0000327)",0,,1,2,
+1,http://ebi.ac.uk#Pattern764,,"NBO_0000041
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0044707)",1,,1,2,
+,http://ebi.ac.uk#Pattern521,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002300
+         and (towards some NBO_0000130))))",0,,5,6,
+,http://ebi.ac.uk#Pattern763,,RO_0002211 some Thing,0,,25,26,
+,http://ebi.ac.uk#Pattern520,,"NBO_0002660
+ and (has_participant some Thing)",0,,1,2,
+,http://ebi.ac.uk#Pattern762,,"Thing
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some PATO_0000460)",0,4,,5,
+,http://ebi.ac.uk#Pattern761,,"NBO_0000751
+ and (in_response_to some GO_0019233)",0,,6,7,
+,http://ebi.ac.uk#Pattern760,,"NBO_0000041
+ and (by_means some Thing)
+ and (is_about some GO_0070075)",0,,1,2,
+4,http://ebi.ac.uk#Pattern780,,"BFO_0000056 some 
+    (NBO_0000036
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,4,5,
+,http://ebi.ac.uk#Pattern539,,"PATO_0000001
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern538,,"has_quality some 
+    (PATO_0001558
+     and (towards some NBO_0000313))",0,,1,2,
+,http://ebi.ac.uk#Pattern537,,"PATO_0000001
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern779,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0000068))",0,,1,2,
+,http://ebi.ac.uk#Pattern536,,"PATO_0000001
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some BFO_0000002)",0,2,,3,
+,http://ebi.ac.uk#Pattern778,,"NBO_0000022
+ and (is_about some Thing)",0,,7,8,
+,http://ebi.ac.uk#Pattern535,,"NBO_0000006
+ and (is_about some NBO_0000003)",0,,2,3,
+,http://ebi.ac.uk#Pattern777,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0000069))",0,,1,2,
+,http://ebi.ac.uk#Pattern534,,"NBO_0000208
+ and (is_about some NBO_0000403)",0,,2,3,
+1,http://ebi.ac.uk#Pattern776,,"NBO_0000607
+ and (in_response_to some GO_0007605)",1,,1,2,
+,http://ebi.ac.uk#Pattern533,,"BFO_0000056 some 
+    (GO_0031223
+     and (has_quality some BFO_0000002))",0,,1,2,
+2,http://ebi.ac.uk#Pattern775,,"NBO_0000079
+ and (has_participant some CHEBI_52211)",1,,2,3,
+,http://ebi.ac.uk#Pattern532,,"NBO_0000038
+ and (by_means some UBERON_0001256)
+ and (is_about some Thing)",0,,1,2,
+,http://ebi.ac.uk#Pattern774,,"BFO_0000056 some 
+    (NBO_0000330
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern531,,"RO_0002211 some 
+    (NBO_0000079 or NBO_0000134)",0,,9,10,
+1,http://ebi.ac.uk#Pattern773,,"NBO_0000022
+ and (is_about some NBO_0000037)",1,,1,2,
+,http://ebi.ac.uk#Pattern530,,"Thing
+ and (is_about some NBO_0000091)",0,,1,2,
+,http://ebi.ac.uk#Pattern772,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some PATO_0000911))",0,,4,5,
+,http://ebi.ac.uk#Pattern771,2,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some PATO_0000460)",1,2,,3,
+,http://ebi.ac.uk#Pattern770,,"BFO_0000056 some 
+    (GO_0007620
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern509,1,"PATO_0000001
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern508,,"PATO_0000001
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern507,,"PATO_0000770
+ and (RO_0000052 some FBbt_00007016)",0,1,,2,
+,http://ebi.ac.uk#Pattern749,,"NBO_0000308
+ and (in_response_to some NBO_0002086)",0,,1,2,
+,http://ebi.ac.uk#Pattern506,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some BFO_0000002))",0,,3,4,
+,http://ebi.ac.uk#Pattern748,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some BFO_0000002)",0,4,,5,
+,http://ebi.ac.uk#Pattern505,,"PATO_0000001
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some PATO_0000001)",0,1,,2,
+1,http://ebi.ac.uk#Pattern747,,"NBO_0000171
+ and (is_about some NBO_0000091)",1,,1,2,
+,http://ebi.ac.uk#Pattern989,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern504,,"PATO_0000001
+ and (RO_0000052 some 
+    (Thing or (GO_0007610
+     and (BFO_0000050 some Thing))))
+ and (qualifier some PATO_0000460)",0,24,,25,
+3,http://ebi.ac.uk#Pattern746,,"NBO_0000171
+ and (in_response_to some Thing)",2,,3,4,
+,http://ebi.ac.uk#Pattern988,,"PATO_0000001
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some Thing)",0,24,,25,
+1,http://ebi.ac.uk#Pattern503,,"NBO_0000171
+ and (in_response_to some NBO_0000208)",1,,1,2,
+1,http://ebi.ac.uk#Pattern745,,"BFO_0000056 some 
+    (GO_0050795
+     and (has_quality some PATO_0000911))",1,,1,2,
+16,http://ebi.ac.uk#Pattern987,,"BFO_0000056 some 
+    (GO_0007622
+     and (has_quality some PATO_0000001))",1,,16,17,
+,http://ebi.ac.uk#Pattern502,,"NBO_0000308
+ and (is_about some Thing)",0,,7,8,
+,http://ebi.ac.uk#Pattern744,,RO_0002211 some NBO_0001786,0,,1,2,
+1,http://ebi.ac.uk#Pattern986,,"NBO_0000330
+ and (in_response_to some GO_0050954)",1,,1,2,
+,http://ebi.ac.uk#Pattern501,,"BFO_0000056 some 
+    (NBO_0002948
+     and (has_quality some PATO_0001236))",0,,1,2,
+2,http://ebi.ac.uk#Pattern743,,"BFO_0000056 some 
+    (GO_0050795
+     and (has_quality some PATO_0000912))",1,,2,3,
+,http://ebi.ac.uk#Pattern985,,"BFO_0000056 some 
+    (NBO_0000339
+     and (has_quality some Thing))",0,,5,6,
+,http://ebi.ac.uk#Pattern500,,"NBO_0000313
+ and (is_about some PATO_0000117)",0,,4,5,
+,http://ebi.ac.uk#Pattern742,,"NBO_0000022
+ and (is_about some NBO_0000011)",0,,1,2,
+3,http://ebi.ac.uk#Pattern984,,"NBO_0000330
+ and (in_response_to some GO_0050951)",1,,3,4,
+2,http://ebi.ac.uk#Pattern741,,"BFO_0000056 some 
+    (NBO_0000006
+     and (has_quality some PATO_0000001))",2,,2,3,
+,http://ebi.ac.uk#Pattern983,,"Thing
+ and (has_participant some CHEBI_15377)",0,,1,2,
+,http://ebi.ac.uk#Pattern740,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0001236))",0,,1,2,
+,http://ebi.ac.uk#Pattern982,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000001
+         and (towards some NBO_0000130))))",0,,3,4,
+1,http://ebi.ac.uk#Pattern981,,"NBO_0000330
+ and (in_response_to some PATO_0001306)",1,,1,2,
+3,http://ebi.ac.uk#Pattern980,,"NBO_0000035
+ and (is_about some GO_0003008)",1,,3,4,
+,http://ebi.ac.uk#Pattern519,5,"PATO_0000001
+ and (RO_0000052 some GO_0019098)
+ and (qualifier some PATO_0000460)",1,5,,6,
+6,http://ebi.ac.uk#Pattern518,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000079))))",1,,6,7,
+,http://ebi.ac.uk#Pattern517,,"NBO_0000313
+ and (is_about some NBO_0000091)",0,,1,2,
+,http://ebi.ac.uk#Pattern759,,"BFO_0000056 some 
+    (NBO_0000006
+     and (has_quality some Thing))",0,,3,4,
+,http://ebi.ac.uk#Pattern516,,"BFO_0000056 some 
+    (NBO_0000161
+     and (has_quality some PATO_0001236))",0,,2,3,
+1,http://ebi.ac.uk#Pattern758,,"BFO_0000056 some 
+    (NBO_0000039
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern515,,"PATO_0000001
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern757,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some Thing))",0,,4,5,
+,http://ebi.ac.uk#Pattern999,,"PATO_0000001
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern514,,"PATO_0000001
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,4,,5,
+,http://ebi.ac.uk#Pattern756,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0000001))",0,,4,5,
+,http://ebi.ac.uk#Pattern998,,"PATO_0000001
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern513,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0001236
+         and (towards some NBO_0000130))))",0,,11,12,
+,http://ebi.ac.uk#Pattern755,,"BFO_0000056 some 
+    (GO_0007622
+     and (has_quality some PATO_0001309))",0,,2,3,
+,http://ebi.ac.uk#Pattern997,1,"PATO_0000001
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern512,,"PATO_0000001
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some PATO_0000068)",0,1,,2,
+1,http://ebi.ac.uk#Pattern754,,"NBO_0001884
+ and (has_participant some CHEBI_37332)",1,,1,2,
+,http://ebi.ac.uk#Pattern996,2,"PATO_0000001
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some PATO_0000069)",1,2,,3,
+,http://ebi.ac.uk#Pattern511,1,"PATO_0000001
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some PATO_0000069)",1,1,,2,
+1,http://ebi.ac.uk#Pattern753,,"NBO_0000308
+ and (is_about some PATO_0000052)",1,,1,2,
+,http://ebi.ac.uk#Pattern995,,"PATO_0000001
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some PATO_0000068)",0,1,,2,
+4,http://ebi.ac.uk#Pattern510,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0002062))",1,,4,5,
+,http://ebi.ac.uk#Pattern752,,"BFO_0000056 some 
+    (NBO_0000036
+     and (has_quality some BFO_0000002))",0,,4,5,
+,http://ebi.ac.uk#Pattern994,,"PATO_0000001
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some PATO_0000068)",0,2,,3,
+6,http://ebi.ac.uk#Pattern751,,"NBO_0000308
+ and (is_about some PATO_0000051)",2,,6,7,
+,http://ebi.ac.uk#Pattern993,4,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some PATO_0000460)",1,4,,5,
+,http://ebi.ac.uk#Pattern750,,"BFO_0000056 some 
+    (NBO_0000063
+     and (has_quality some PATO_0000912))",0,,1,2,
+,http://ebi.ac.uk#Pattern992,,"PATO_0000001
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern991,,"Thing
+ and (in_response_to some NBO_0001915)",0,,1,2,
+,http://ebi.ac.uk#Pattern990,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern609,,"NBO_0000388
+ and (by_means some Thing)",0,,60,61,
+,http://ebi.ac.uk#Pattern608,,"NBO_0000313
+ and (is_about some NBO_0000003)",0,,2,3,
+,http://ebi.ac.uk#Pattern607,,"BFO_0000056 some 
+    (GO_0008049
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern849,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some PATO_0000161))",0,,13,14,
+,http://ebi.ac.uk#Pattern606,,"Thing
+ and (has_participant some UBERON_0000309)",0,,1,2,
+,http://ebi.ac.uk#Pattern848,,"BFO_0000056 some 
+    (NBO_0000079
+     and (has_quality some BFO_0000002))",0,,26,27,
+,http://ebi.ac.uk#Pattern605,,"BFO_0000056 some 
+    (NBO_0000022
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern847,,"PATO_0000001
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern604,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some PATO_0001309))",0,,3,4,
+,http://ebi.ac.uk#Pattern846,1,"PATO_0000001
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern603,,"NBO_0000308
+ and (in_response_to some GO_0050955)",0,,3,4,
+,http://ebi.ac.uk#Pattern845,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some PATO_0000460)",1,1,,2,
+2,http://ebi.ac.uk#Pattern602,,"NBO_0000308
+ and (in_response_to some GO_0050954)",1,,2,3,
+,http://ebi.ac.uk#Pattern844,,"NBO_0000011
+ and (is_about some NBO_0000747)",0,,1,2,
+,http://ebi.ac.uk#Pattern601,,"Thing
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0060073)",0,,1,2,
+,http://ebi.ac.uk#Pattern843,,"BFO_0000056 some 
+    (NBO_0000403
+     and (has_quality some Thing))",0,,20,21,
+3,http://ebi.ac.uk#Pattern600,,"NBO_0000308
+ and (in_response_to some GO_0050953)",1,,3,4,
+,http://ebi.ac.uk#Pattern842,,"PATO_0000001
+ and (RO_0000052 some GO_0007613)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern841,,"PATO_0000001
+ and (RO_0000052 some GO_0007637)
+ and (qualifier some PATO_0000001)",0,2,,3,
+,http://ebi.ac.uk#Pattern840,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern619,,"BFO_0000056 some 
+    (GO_0007617
+     and (has_quality some PATO_0002062))",0,,1,2,
+1,http://ebi.ac.uk#Pattern618,,"BFO_0000056 some 
+    (NBO_0000040
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+1,http://ebi.ac.uk#Pattern617,,"NBO_0000308
+ and (is_about some PATO_0000014)",1,,1,2,
+1,http://ebi.ac.uk#Pattern859,,"NBO_0000331
+ and (in_response_to some GO_0050907)",1,,1,2,
+,http://ebi.ac.uk#Pattern616,,"PATO_0000001
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some BFO_0000002)",0,2,,3,
+9,http://ebi.ac.uk#Pattern858,,RO_0002211 some NBO_0000079,2,,9,10,
+,http://ebi.ac.uk#Pattern615,,"BFO_0000056 some 
+    (GO_0009314
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern857,,"NBO_0000331
+ and (in_response_to some GO_0050906)",0,,4,5,
+,http://ebi.ac.uk#Pattern614,,"PATO_0000001
+ and (RO_0000052 some GO_0042752)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern856,,"NBO_0000313
+ and (has_participant some CHEBI_17303)",0,,1,2,
+,http://ebi.ac.uk#Pattern613,,"BFO_0000056 some 
+    (NBO_0000042
+     and (has_quality some Thing))",0,,1,2,
+1,http://ebi.ac.uk#Pattern855,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000912
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern612,,"BFO_0000002
+ and (RO_0000052 some FBbt_00000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern854,,"BFO_0000056 some 
+    (NBO_0000008
+     and (has_quality some PATO_0000044))",0,,1,2,
+,http://ebi.ac.uk#Pattern611,,"BFO_0000056 some 
+    (NBO_0000403
+     and (has_quality some BFO_0000002))",0,,20,21,
+,http://ebi.ac.uk#Pattern853,,"NBO_0000011
+ and (is_about some NBO_0000749)",0,,1,2,
+,http://ebi.ac.uk#Pattern610,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0051705 or (GO_0007610
+     and (BFO_0000050 some GO_0051705))))
+ and (qualifier some PATO_0000460)",0,2,,3,
+11,http://ebi.ac.uk#Pattern852,,"BFO_0000056 some 
+    (NBO_0000327
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,11,12,
+,http://ebi.ac.uk#Pattern851,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000068
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern850,,"PATO_0000001
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern829,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0001845))))",0,,6,7,
+,http://ebi.ac.uk#Pattern828,,"PATO_0000770
+ and (RO_0000052 some FBbt_10000000)",0,1,,2,
+10,http://ebi.ac.uk#Pattern827,,"GO_0044708
+ and (is_about some GO_0007623)",1,,10,11,
+,http://ebi.ac.uk#Pattern826,,"Thing
+ and (in_response_to some GO_0019233)",0,,6,7,
+,http://ebi.ac.uk#Pattern825,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some BFO_0000002))",0,,1,2,
+165,http://ebi.ac.uk#Pattern824,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some PATO_0000001))",5,,165,166,
+4,http://ebi.ac.uk#Pattern823,,"BFO_0000056 some 
+    (NBO_0000034
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,4,5,
+3,http://ebi.ac.uk#Pattern822,,"NBO_0000024
+ and (is_about some Thing)",1,,3,4,
+,http://ebi.ac.uk#Pattern821,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some Thing))",0,,1,2,
+1,http://ebi.ac.uk#Pattern820,,"NBO_0000130
+ and (has_participant some CHEBI_37176)",1,,1,2,
+,http://ebi.ac.uk#Pattern839,,"NBO_0002436
+ and (has_participant some CHEBI_16236)",0,,1,2,
+34,http://ebi.ac.uk#Pattern838,,"BFO_0000056 some 
+    (NBO_0000338
+     and (has_quality some PATO_0000001))",2,,34,35,
+,http://ebi.ac.uk#Pattern837,,"NBO_0000079
+ and (has_participant some CHEBI_50906)",0,,2,3,
+,http://ebi.ac.uk#Pattern836,,"NBO_0000607
+ and (is_about some NBO_0000339)",0,,1,2,
+,http://ebi.ac.uk#Pattern835,,"NBO_0000751
+ and (in_response_to some GO_0050966)",0,,1,2,
+,http://ebi.ac.uk#Pattern834,,"NBO_0000751
+ and (in_response_to some GO_0050965)",0,,1,2,
+,http://ebi.ac.uk#Pattern833,,"NBO_0000751
+ and (in_response_to some GO_0050968)",0,,1,2,
+,http://ebi.ac.uk#Pattern832,,"NBO_0000751
+ and (in_response_to some GO_0050967)",0,,1,2,
+10,http://ebi.ac.uk#Pattern831,,"BFO_0000056 some 
+    (NBO_0000035
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,10,11,
+,http://ebi.ac.uk#Pattern830,,"has_quality some 
+    (PATO_0002361
+     and (towards some NBO_0000607))",0,,1,2,
+,http://ebi.ac.uk#Pattern1071,,"BFO_0000002
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some PATO_0000460)",0,24,,25,
+3,http://ebi.ac.uk#Pattern1070,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0000079))))",1,,3,4,
+,http://ebi.ac.uk#Pattern1073,,"NBO_0000607
+ and (in_response_to some GO_0050966)",0,,1,2,
+,http://ebi.ac.uk#Pattern1072,,"BFO_0000002
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1075,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000313))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1074,,"NBO_0000607
+ and (in_response_to some GO_0050965)",0,,1,2,
+3,http://ebi.ac.uk#Pattern1077,,"NBO_0001728
+ and (in_response_to some NBO_0001884)",3,,3,4,
+,http://ebi.ac.uk#Pattern1076,,"NBO_0000607
+ and (in_response_to some GO_0050968)",0,,1,2,
+,http://ebi.ac.uk#Pattern809,,"has_quality some 
+    (PATO_0001558
+     and (towards some Thing))",0,,2,3,
+1,http://ebi.ac.uk#Pattern808,,"BFO_0000056 some 
+    (GO_0007632
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern807,,"PATO_0000001
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern806,,"NBO_0000313
+ and (in_response_to some GO_0050968)",0,,1,2,
+,http://ebi.ac.uk#Pattern805,,"NBO_0000313
+ and (in_response_to some GO_0050967)",0,,1,2,
+1,http://ebi.ac.uk#Pattern804,,"has_quality some 
+    (PATO_0001558
+     and (towards some NBO_0000003))",1,,1,2,
+3,http://ebi.ac.uk#Pattern803,,"NBO_0000322
+ and (in_response_to some GO_0050877)",2,,3,4,
+,http://ebi.ac.uk#Pattern802,,"NBO_0000313
+ and (in_response_to some GO_0050966)",0,,1,2,
+,http://ebi.ac.uk#Pattern801,,"BFO_0000056 some 
+    (GO_0044699
+     and (has_quality some PATO_0001309))",0,,3,4,
+,http://ebi.ac.uk#Pattern800,,"NBO_0000313
+ and (in_response_to some GO_0050965)",0,,1,2,
+,http://ebi.ac.uk#Pattern1079,,"NBO_0001728
+ and (in_response_to some NBO_0000313)",0,,4,5,
+,http://ebi.ac.uk#Pattern1078,,"NBO_0000607
+ and (in_response_to some GO_0050967)",0,,1,2,
+,http://ebi.ac.uk#Pattern1060,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000313))))",0,,2,3,
+2,http://ebi.ac.uk#Pattern1062,,"NBO_0000024
+ and (is_about some GO_0022410)",2,,2,3,
+,http://ebi.ac.uk#Pattern1061,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000068
+         and (towards some NBO_0000130))))",0,,8,9,
+,http://ebi.ac.uk#Pattern1064,,"BFO_0000056 some 
+    (NBO_0000308
+     and (has_quality some BFO_0000002))",0,,16,17,
+,http://ebi.ac.uk#Pattern1063,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0002323)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern8,,"GO_0044707
+ and (is_about some GO_0042747)",0,,1,2,
+1,http://ebi.ac.uk#Pattern1066,,"NBO_0001884
+ and (has_participant some CHEBI_33308)",1,,1,2,
+,http://ebi.ac.uk#Pattern9,,"BFO_0000056 some 
+    (NBO_0000003
+     and (has_quality some BFO_0000002))",0,,14,15,
+1,http://ebi.ac.uk#Pattern1065,,"NBO_0000225
+ and (is_about some PATO_0001300)",1,,1,2,
+,http://ebi.ac.uk#Pattern6,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern7,,"BFO_0000056 some 
+    (GO_0007620
+     and (has_quality some BFO_0000002))",0,,1,2,
+3,http://ebi.ac.uk#Pattern4,,"NBO_0000746
+ and (is_about some PATO_0001241)",1,,3,4,
+,http://ebi.ac.uk#Pattern5,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0008150 or (GO_0007610
+     and (BFO_0000050 some GO_0008150))))
+ and (qualifier some PATO_0000460)",0,24,,25,
+,http://ebi.ac.uk#Pattern2,,"BFO_0000056 some 
+    (NBO_0000015
+     and (has_quality some PATO_0000001))",0,,1,2,
+2,http://ebi.ac.uk#Pattern3,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0002304
+         and (towards some NBO_0000130))))",1,,2,3,
+,http://ebi.ac.uk#Pattern1,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (BFO_0000002
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern819,,"NBO_0000751
+ and (in_response_to some GO_0050975)",0,,1,2,
+1,http://ebi.ac.uk#Pattern818,,"NBO_0001884
+ and (has_participant some CHEBI_26416)",1,,1,2,
+,http://ebi.ac.uk#Pattern817,24,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some PATO_0000460)",1,24,,25,
+,http://ebi.ac.uk#Pattern816,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern815,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (Thing
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern814,,"NBO_0001632
+ and (in_response_to some GO_0050877)",0,,4,5,
+,http://ebi.ac.uk#Pattern813,,"NBO_0000035
+ and (is_about some GO_0030421)",1,,,1,
+4,http://ebi.ac.uk#Pattern812,,"NBO_0000607
+ and (is_about some PATO_0000117)",1,,4,5,
+,http://ebi.ac.uk#Pattern811,,"NBO_0000313
+ and (in_response_to some GO_0019233)",0,,6,7,
+2,http://ebi.ac.uk#Pattern810,,"NBO_0000313
+ and (has_participant some CHEBI_27958)",1,,2,3,
+,http://ebi.ac.uk#Pattern1068,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000161
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+3,http://ebi.ac.uk#Pattern1067,,"NBO_0000322
+ and (in_response_to some Thing)",2,,3,4,
+,http://ebi.ac.uk#Pattern1069,,"Thing
+ and (by_means some GO_0060004)",0,,60,61,
+,http://ebi.ac.uk#Pattern1093,,"NBO_0000607
+ and (is_about some NBO_0000749)",0,,1,2,
+4,http://ebi.ac.uk#Pattern1092,,"NBO_0001632
+ and (in_response_to some GO_0007600)",1,,4,5,
+,http://ebi.ac.uk#Pattern1095,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",0,,3,4,
+,http://ebi.ac.uk#Pattern1094,,"BFO_0000056 some 
+    (NBO_0000549
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern1097,,"NBO_0000607
+ and (in_response_to some NBO_0001952)",0,,1,2,
+,http://ebi.ac.uk#Pattern1096,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (BFO_0000002
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+1,http://ebi.ac.uk#Pattern1099,,"NBO_0000313
+ and (is_about some GO_0030421)",1,,1,2,
+,http://ebi.ac.uk#Pattern1098,,"NBO_0000308
+ and (has_participant some UBERON_0000309)",0,,1,2,
+,http://ebi.ac.uk#Pattern1091,,"NBO_0000607
+ and (is_about some NBO_0000747)",0,,1,2,
+,http://ebi.ac.uk#Pattern1090,,"has_quality some 
+    (Thing
+     and (towards some NBO_0000085))",0,,13,14,
+,http://ebi.ac.uk#Pattern1082,,"has_quality some 
+    (PATO_0002361
+     and (towards some Thing))",0,,14,15,
+1,http://ebi.ac.uk#Pattern1081,,"NBO_0002743
+ and (has_participant some CHEBI_55505)",1,,1,2,
+1,http://ebi.ac.uk#Pattern1084,,"NBO_0001632
+ and (in_response_to some GO_0007608)",1,,1,2,
+,http://ebi.ac.uk#Pattern1083,,"NBO_0001632
+ and (in_response_to some GO_0003008)",0,,4,5,
+3,http://ebi.ac.uk#Pattern1086,,"NBO_0000024
+ and (is_about some GO_0044699)",1,,3,4,
+,http://ebi.ac.uk#Pattern1085,2,"PATO_0000001
+ and (RO_0000052 some GO_0060004)
+ and (qualifier some PATO_0000460)",1,2,,3,
+,http://ebi.ac.uk#Pattern1088,,"Thing
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0070075)",0,,1,2,
+,http://ebi.ac.uk#Pattern1087,,"NBO_0000607
+ and (by_means some UBERON_0005725)",0,,1,2,
+,http://ebi.ac.uk#Pattern1080,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some PATO_0000161))",0,,20,21,
+,http://ebi.ac.uk#Pattern1089,,"NBO_0000035
+ and (is_about some GO_0065008)",0,,2,3,
+,http://ebi.ac.uk#Pattern1271,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002062
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1270,,"Thing
+ and (is_about some PATO_0000052)",0,,2,3,
+,http://ebi.ac.uk#Pattern1031,,"NBO_0001884
+ and (has_participant some CHEBI_35701)",0,,1,2,
+,http://ebi.ac.uk#Pattern1273,,"NBO_0000041
+ and (by_means some UBERON_0000061)
+ and (is_about some GO_0070075)",0,,1,2,
+,http://ebi.ac.uk#Pattern1030,,"NBO_0001845
+ and ((has_participant some CHEBI_33290) or (has_participant some Thing))",0,,8,9,
+3,http://ebi.ac.uk#Pattern1272,,"BFO_0000056 some 
+    (NBO_0000161
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,3,4,
+,http://ebi.ac.uk#Pattern1033,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (Thing
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern1275,,"BFO_0000002
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1032,,"BFO_0000002
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some PATO_0000460)",0,2,,3,
+4,http://ebi.ac.uk#Pattern1274,,"NBO_0000308
+ and (in_response_to some GO_0007606)",1,,4,5,
+,http://ebi.ac.uk#Pattern1035,,"PATO_0000001
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+1,http://ebi.ac.uk#Pattern1277,,"NBO_0001679
+ and (in_response_to some NBO_0000131)",1,,1,2,
+,http://ebi.ac.uk#Pattern1034,,"PATO_0000001
+ and (RO_0000052 some GO_0009628)
+ and (qualifier some PATO_0000460)",0,3,,4,
+2,http://ebi.ac.uk#Pattern1276,,"NBO_0000308
+ and (in_response_to some GO_0007608)",1,,2,3,
+,http://ebi.ac.uk#Pattern1037,,"has_quality some 
+    (PATO_0002300
+     and (towards some NBO_0000304))",0,,1,2,
+,http://ebi.ac.uk#Pattern1279,1,"PATO_0000001
+ and (RO_0000052 some GO_0009648)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern1036,,"PATO_0000001
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern1278,,"BFO_0000056 some 
+    (GO_0022414
+     and (has_quality some PATO_0000001))",0,,13,14,
+,http://ebi.ac.uk#Pattern1039,,"PATO_0000001
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some BFO_0000002)",0,1,,2,
+2,http://ebi.ac.uk#Pattern1038,,"NBO_0000038
+ and (is_about some GO_0007588)",1,,2,3,
+19,http://ebi.ac.uk#Pattern1260,,"RO_0002211 some 
+    (NBO_0000134 or NBO_0001845)",1,,19,20,
+,http://ebi.ac.uk#Pattern1020,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0048609 or (GO_0007610
+     and (BFO_0000050 some GO_0048609))))
+ and (qualifier some PATO_0000460)",0,5,,6,
+4,http://ebi.ac.uk#Pattern1262,,"BFO_0000056 some 
+    (NBO_0000010
+     and (has_quality some PATO_0000001))",1,,4,5,
+25,http://ebi.ac.uk#Pattern1261,,"RO_0002211 some 
+    (NBO_0000130 or NBO_0000313)",1,,25,26,
+,http://ebi.ac.uk#Pattern1022,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000130))))",0,,11,12,
+,http://ebi.ac.uk#Pattern1264,,"BFO_0000056 some 
+    (NBO_0000548
+     and (has_quality some BFO_0000002))",0,,1,2,
+1,http://ebi.ac.uk#Pattern1021,,"NBO_0000331
+ and (in_response_to some GO_0050963)",1,,1,2,
+13,http://ebi.ac.uk#Pattern1263,,"BFO_0000056 some 
+    (GO_0007626
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,13,14,
+,http://ebi.ac.uk#Pattern1024,,"BFO_0000056 some 
+    (NBO_0001786
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1266,,"NBO_0000130
+ and (has_participant some Thing)",0,,2,3,
+,http://ebi.ac.uk#Pattern1023,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000069
+         and (towards some NBO_0000130))))",0,,8,9,
+1,http://ebi.ac.uk#Pattern1265,,"has_quality some 
+    (PATO_0002305
+     and (towards some NBO_0000304))",1,,1,2,
+,http://ebi.ac.uk#Pattern1026,,"Thing
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some PATO_0000460)",0,4,,5,
+,http://ebi.ac.uk#Pattern1268,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern1025,,"NBO_0000038
+ and (by_means some UBERON_0000061)
+ and (is_about some GO_0060073)",0,,1,2,
+27,http://ebi.ac.uk#Pattern1267,,"BFO_0000056 some 
+    (NBO_0000607
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,27,28,
+,http://ebi.ac.uk#Pattern1028,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1027,,"has_quality some 
+    (PATO_0001727
+     and (towards some NBO_0000085))",0,,13,14,
+,http://ebi.ac.uk#Pattern1269,,"Thing
+ and (by_means some NBO_0000128)",0,,1,2,
+,http://ebi.ac.uk#Pattern1029,,"NBO_0001632
+ and (in_response_to some Thing)",0,,13,14,
+4,http://ebi.ac.uk#Pattern1291,,"NBO_0000208
+ and (is_about some NBO_0000313)",1,,4,5,
+,http://ebi.ac.uk#Pattern1290,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1051,,"RO_0002211 some 
+    (NBO_0000134 or Thing)",0,,25,26,
+,http://ebi.ac.uk#Pattern1293,,"BFO_0000056 some 
+    (NBO_0000632
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern1050,,"BFO_0000002
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1292,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0051704 or (GO_0007610
+     and (BFO_0000050 some GO_0051704))))
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern1053,,"NBO_0000134
+ and (has_participant some CHEBI_37947)",0,,1,2,
+,http://ebi.ac.uk#Pattern1295,,"BFO_0000056 some 
+    (NBO_0001845
+     and (has_quality some PATO_0000912))",0,,1,2,
+,http://ebi.ac.uk#Pattern1052,,"BFO_0000002
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1294,,"NBO_0001786
+ and (has_participant some CHEBI_32111)",0,,1,2,
+,http://ebi.ac.uk#Pattern1055,,"NBO_0000130
+ and (has_participant some CHEBI_15734)",0,,1,2,
+,http://ebi.ac.uk#Pattern1297,,"PATO_0000001
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern1054,,"PATO_0000001
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,2,,3,
+,http://ebi.ac.uk#Pattern1296,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some Thing))))",0,,6,7,
+,http://ebi.ac.uk#Pattern1057,,"PATO_0000001
+ and (RO_0000052 some GO_0009605)
+ and (qualifier some PATO_0000460)",0,3,,4,
+,http://ebi.ac.uk#Pattern1299,,"Thing
+ and (is_about some GO_0030421)",0,,1,2,
+,http://ebi.ac.uk#Pattern1056,,"NBO_0000038
+ and (by_means some Thing)
+ and (is_about some GO_0060073)",0,,1,2,
+,http://ebi.ac.uk#Pattern1298,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000130))))",0,,5,6,
+5,http://ebi.ac.uk#Pattern1059,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000130))))",2,,5,6,
+1,http://ebi.ac.uk#Pattern1058,,"BFO_0000056 some 
+    (GO_0060180
+     and (has_quality some PATO_0000001))",1,,1,2,
+,http://ebi.ac.uk#Pattern1280,,"NBO_0000308
+ and (in_response_to some GO_0003008)",0,,18,19,
+,http://ebi.ac.uk#Pattern1040,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000313))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1282,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0001845))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1281,,"BFO_0000056 some 
+    (NBO_0000011
+     and (has_quality some PATO_0000001))",0,,1,2,
+1,http://ebi.ac.uk#Pattern1042,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0002305))))
+     and (qualifier some PATO_0001333))",1,,1,2,
+,http://ebi.ac.uk#Pattern1284,,"NBO_0000308
+ and (in_response_to some GO_0007600)",0,,18,19,
+,http://ebi.ac.uk#Pattern1041,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0002300)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1283,,"PATO_0000001
+ and (RO_0000052 some Thing)
+ and (qualifier some PATO_0000460)",0,24,,25,
+10,http://ebi.ac.uk#Pattern1044,,"NBO_0000313
+ and ((has_participant some CHEBI_33290) or (has_participant some PATO_0000145))",1,,10,11,
+9,http://ebi.ac.uk#Pattern1286,,"BFO_0000056 some 
+    (NBO_0000035
+     and (has_quality some PATO_0000001))",3,,9,10,
+1,http://ebi.ac.uk#Pattern1043,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0002324)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern1285,,"PATO_0000001
+ and (RO_0000052 some GO_0060179)
+ and (qualifier some PATO_0000460)",0,1,,2,
+1,http://ebi.ac.uk#Pattern1046,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0000125))))
+     and (qualifier some PATO_0001333))",1,,1,2,
+,http://ebi.ac.uk#Pattern1288,,"NBO_0000607
+ and (in_response_to some GO_0050909)",0,,1,2,
+,http://ebi.ac.uk#Pattern1045,,"NBO_0000225
+ and (is_about some PATO_0000001)",0,,3,4,
+,http://ebi.ac.uk#Pattern1287,,"BFO_0000056 some 
+    (NBO_0000079
+     and (has_quality some Thing))",0,,26,27,
+,http://ebi.ac.uk#Pattern1048,,"BFO_0000056 some 
+    (NBO_0002948
+     and (has_quality some Thing))",0,,1,2,
+1,http://ebi.ac.uk#Pattern1047,,"NBO_0000038
+ and (by_means some UBERON_0000060)
+ and (is_about some GO_0060073)",1,,1,2,
+,http://ebi.ac.uk#Pattern1289,,"BFO_0000056 some 
+    (GO_0045297
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern1049,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0000001))",0,,3,4,
+2,http://ebi.ac.uk#Pattern1231,,"NBO_0000225
+ and (is_about some PATO_0000051)",2,,2,3,
+,http://ebi.ac.uk#Pattern1230,,"NBO_0000011
+ and (is_about some NBO_0000091)",0,,1,2,
+,http://ebi.ac.uk#Pattern1233,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0002062))",0,,3,4,
+1,http://ebi.ac.uk#Pattern1232,,"NBO_0000121
+ and (by_means some NBO_0000037)",1,,1,2,
+,http://ebi.ac.uk#Pattern1235,,"BFO_0000056 some 
+    (GO_0048512
+     and (has_quality some Thing))",0,,16,17,
+,http://ebi.ac.uk#Pattern1234,,"NBO_0000208
+ and (is_about some GO_0050879)",0,,2,3,
+,http://ebi.ac.uk#Pattern1237,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern1236,,"NBO_0000313
+ and (is_about some NBO_0000339)",0,,1,2,
+,http://ebi.ac.uk#Pattern1239,,"has_quality some 
+    (PATO_0000001
+     and (towards some NBO_0000230))",0,,1,2,
+,http://ebi.ac.uk#Pattern1238,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0050896
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000460)",0,1,,2,
+2,http://ebi.ac.uk#Pattern1220,,"BFO_0000056 some 
+    (GO_0042221
+     and (has_quality some PATO_0000001))",1,,2,3,
+,http://ebi.ac.uk#Pattern1229,,"NBO_0000313
+ and (is_about some PATO_0001595)",0,,1,2,
+1,http://ebi.ac.uk#Pattern1222,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000079))))",1,,1,2,
+,http://ebi.ac.uk#Pattern1221,,"BFO_0000056 some 
+    ((NBO_0002436
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+1,http://ebi.ac.uk#Pattern1224,,"NBO_0000064
+ and (has_participant some CHEBI_16236)",1,,1,2,
+1,http://ebi.ac.uk#Pattern1223,,"NBO_0000130
+ and (has_participant some CHEBI_50584)",1,,1,2,
+1,http://ebi.ac.uk#Pattern1226,,"BFO_0000056 some 
+    (NBO_0002743
+     and (has_quality some PATO_0000912))",1,,1,2,
+,http://ebi.ac.uk#Pattern1225,,"BFO_0000056 some 
+    (NBO_0000036
+     and (has_quality some Thing))",0,,4,5,
+,http://ebi.ac.uk#Pattern1228,,"Thing
+ and (by_means some UBERON_0005725)",0,,1,2,
+,http://ebi.ac.uk#Pattern1227,,"NBO_0000038
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0044707)",0,,1,2,
+,http://ebi.ac.uk#Pattern197,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern196,,"NBO_0000308
+ and (is_about some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,,7,8,
+1,http://ebi.ac.uk#Pattern195,,"NBO_0001728
+ and (in_response_to some NBO_0000130)",1,,1,2,
+,http://ebi.ac.uk#Pattern194,,"BFO_0000056 some 
+    (NBO_0000548
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern193,,"NBO_0000024
+ and (is_about some GO_0048511)",0,,2,3,
+1,http://ebi.ac.uk#Pattern1251,,"BFO_0000056 some 
+    (GO_0031223
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern192,,"Thing
+ and (in_response_to some NBO_0000778)",0,,1,2,
+,http://ebi.ac.uk#Pattern1250,,"BFO_0000056 some 
+    (GO_0050896
+     and (has_quality some PATO_0000044))",0,,3,4,
+,http://ebi.ac.uk#Pattern191,,"NBO_0000024
+ and (is_about some GO_0048512)",0,,2,3,
+,http://ebi.ac.uk#Pattern1011,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1253,,"BFO_0000056 some 
+    (NBO_0000034
+     and (has_quality some Thing))",0,,4,5,
+1,http://ebi.ac.uk#Pattern190,,"BFO_0000056 some 
+    (GO_0042748
+     and (has_quality some PATO_0001309))",1,,1,2,
+,http://ebi.ac.uk#Pattern1010,,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0002300))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1252,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000313))))",0,,6,7,
+,http://ebi.ac.uk#Pattern1013,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000130))))",0,,3,4,
+3,http://ebi.ac.uk#Pattern1255,,"BFO_0000056 some 
+    (NBO_0000034
+     and (has_quality some PATO_0000001))",3,,3,4,
+,http://ebi.ac.uk#Pattern1012,,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some PATO_0001236))",0,,2,3,
+,http://ebi.ac.uk#Pattern1254,,"has_quality some 
+    (Thing
+     and (towards some NBO_0000230))",0,,1,2,
+,http://ebi.ac.uk#Pattern1015,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some Thing)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1257,,"NBO_0000308
+ and (in_response_to some PATO_0001306)",0,,1,2,
+,http://ebi.ac.uk#Pattern1014,3,"PATO_0000001
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some PATO_0000069)",1,3,,4,
+26,http://ebi.ac.uk#Pattern1256,,"BFO_0000056 some 
+    (NBO_0000079
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,26,27,
+,http://ebi.ac.uk#Pattern1017,,"PATO_0000001
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern1259,,"NBO_0000308
+ and (in_response_to some PATO_0001305)",0,,1,2,
+1,http://ebi.ac.uk#Pattern189,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",1,,1,2,
+3,http://ebi.ac.uk#Pattern1016,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0000130))))",1,,3,4,
+1,http://ebi.ac.uk#Pattern1258,,"BFO_0000056 some 
+    (GO_0019098
+     and (has_quality some PATO_0000044))",1,,1,2,
+,http://ebi.ac.uk#Pattern188,,"NBO_0001786
+ and (has_participant some CHEBI_16236)",0,,1,2,
+,http://ebi.ac.uk#Pattern1019,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000380
+         and (towards some NBO_0000130))))",0,,3,4,
+1,http://ebi.ac.uk#Pattern187,,"NBO_0000130
+ and (has_participant some CHEBI_23982)",1,,1,2,
+1,http://ebi.ac.uk#Pattern1018,,"NBO_0000331
+ and (in_response_to some GO_0050961)",1,,1,2,
+2,http://ebi.ac.uk#Pattern1240,,"NBO_0000038
+ and (is_about some GO_0044707)",1,,2,3,
+,http://ebi.ac.uk#Pattern1000,1,"PATO_0000001
+ and (RO_0000052 some GO_0008062)
+ and (qualifier some PATO_0000069)",1,1,,2,
+,http://ebi.ac.uk#Pattern1242,,"BFO_0000056 some 
+    (NBO_0000323
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern1241,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000161
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern1009,,"NBO_0000313
+ and (in_response_to some GO_0050909)",0,,1,2,
+,http://ebi.ac.uk#Pattern1002,,"NBO_0000313
+ and (in_response_to some NBO_0001915)",0,,1,2,
+2,http://ebi.ac.uk#Pattern1244,,"BFO_0000056 some 
+    (GO_0022410
+     and (has_quality some PATO_0000044))",1,,2,3,
+,http://ebi.ac.uk#Pattern1001,,"NBO_0001728
+ and (in_response_to some NBO_0000079)",0,,1,2,
+,http://ebi.ac.uk#Pattern1243,,"Thing
+ and (is_about some PATO_0000040)",0,,1,2,
+11,http://ebi.ac.uk#Pattern1004,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000130))))",1,,11,12,
+,http://ebi.ac.uk#Pattern1246,,"NBO_0000011
+ and (by_means some NBO_0000037)",0,,1,2,
+26,http://ebi.ac.uk#Pattern1003,,"BFO_0000056 some 
+    (NBO_0001845
+     and (has_quality some PATO_0000001))",1,,26,27,
+,http://ebi.ac.uk#Pattern1245,2,"PATO_0000001
+ and (RO_0000052 some GO_0044704)
+ and (qualifier some PATO_0000460)",1,2,,3,
+1,http://ebi.ac.uk#Pattern1006,,"NBO_0000331
+ and (in_response_to some GO_0050974)",1,,1,2,
+1,http://ebi.ac.uk#Pattern1248,,"NBO_0000308
+ and (by_means some UBERON_0002104)",1,,1,2,
+,http://ebi.ac.uk#Pattern1005,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some NBO_0000130))))",0,,2,3,
+2,http://ebi.ac.uk#Pattern1247,,"NBO_0000308
+ and (by_means some UBERON_0002105)",2,,2,3,
+5,http://ebi.ac.uk#Pattern199,,"BFO_0000056 some 
+    (GO_0007617
+     and (has_quality some PATO_0000001))",2,,5,6,
+16,http://ebi.ac.uk#Pattern1008,,"BFO_0000056 some 
+    (GO_0007623
+     and (has_quality some PATO_0000001))",1,,16,17,
+9,http://ebi.ac.uk#Pattern198,,"BFO_0000056 some 
+    (NBO_0000317
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,9,10,
+,http://ebi.ac.uk#Pattern1007,,"NBO_0001632
+ and (in_response_to some (has_role some Thing))",0,,9,10,
+,http://ebi.ac.uk#Pattern1249,,"BFO_0000056 some 
+    (GO_0048609
+     and (has_quality some PATO_0000044))",0,,1,2,
+,http://ebi.ac.uk#Pattern296,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0001236))",0,,4,5,
+,http://ebi.ac.uk#Pattern295,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001241))))
+     and (qualifier some PATO_0001333))",0,,1,2,
+,http://ebi.ac.uk#Pattern294,,"BFO_0000056 some 
+    (NBO_0000022
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern293,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some Thing)
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern292,,"PATO_0000001
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some PATO_0000001)",0,4,,5,
+,http://ebi.ac.uk#Pattern291,,"PATO_0000001
+ and (RO_0000052 some GO_0050890)
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern290,,"NBO_0000607
+ and (is_about some NBO_0000003)",0,,2,3,
+,http://ebi.ac.uk#Pattern289,,"BFO_0000056 some 
+    (NBO_0002794
+     and (has_quality some PATO_0002062))",0,,1,2,
+3,http://ebi.ac.uk#Pattern288,,"NBO_0000608
+ and (by_means some UBERON_0001032)",3,,3,4,
+,http://ebi.ac.uk#Pattern287,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000079)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+1,http://ebi.ac.uk#Pattern286,,"has_quality some 
+    (PATO_0002360
+     and (towards some NBO_0000304))",1,,1,2,
+,http://ebi.ac.uk#Pattern299,,"NBO_0000313
+ and (has_participant some CHEBI_18723)",0,,1,2,
+,http://ebi.ac.uk#Pattern298,,"BFO_0000056 some 
+    (NBO_0000327
+     and (has_quality some Thing))",0,,11,12,
+,http://ebi.ac.uk#Pattern297,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern274,,"BFO_0000056 some 
+    (GO_0044707
+     and (has_quality some PATO_0000044))",0,,1,2,
+,http://ebi.ac.uk#Pattern273,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0002300
+         and (towards some NBO_0000130))))",0,,2,3,
+,http://ebi.ac.uk#Pattern272,,"PATO_0000001
+ and (RO_0000052 some GO_0030534)
+ and (qualifier some PATO_0000460)",0,1,,2,
+35,http://ebi.ac.uk#Pattern271,,"BFO_0000056 some 
+    (NBO_0000338
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,35,36,
+1,http://ebi.ac.uk#Pattern270,,"NBO_0000022
+ and (in_response_to some NBO_0000778)",1,,1,2,
+,http://ebi.ac.uk#Pattern1219,,"PATO_0000001
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some BFO_0000002)",0,4,,5,
+,http://ebi.ac.uk#Pattern1218,,"BFO_0000056 some 
+    (NBO_0000064
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001018)))))",0,,1,2,
+2,http://ebi.ac.uk#Pattern1211,,RO_0002211 some NBO_0001728,2,,2,3,
+,http://ebi.ac.uk#Pattern1210,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0050896
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000460)",0,2,,3,
+,http://ebi.ac.uk#Pattern269,,"Thing
+ and (in_response_to some PATO_0001305)",0,,2,3,
+,http://ebi.ac.uk#Pattern1213,,"BFO_0000056 some 
+    (NBO_0002169
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+2,http://ebi.ac.uk#Pattern268,,"NBO_0000607
+ and (is_about some PATO_0000052)",1,,2,3,
+1,http://ebi.ac.uk#Pattern1212,,"NBO_0000208
+ and (is_about some NBO_0000750)",1,,1,2,
+,http://ebi.ac.uk#Pattern267,,"BFO_0000056 some 
+    (NBO_0000632
+     and (has_quality some Thing))",0,,1,2,
+3,http://ebi.ac.uk#Pattern1215,,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,3,4,
+,http://ebi.ac.uk#Pattern266,,"PATO_0000770
+ and (RO_0000052 some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern1214,,"NBO_0002743
+ and (has_participant some CHEBI_37947)",0,,1,2,
+,http://ebi.ac.uk#Pattern265,,"BFO_0000056 some 
+    (NBO_0000040
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern1217,,"NBO_0000313
+ and (is_about some PATO_0000052)",0,,2,3,
+,http://ebi.ac.uk#Pattern264,3,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000460)",1,3,,4,
+,http://ebi.ac.uk#Pattern1216,,"Thing
+ and (is_about some PATO_0001595)",0,,1,2,
+1,http://ebi.ac.uk#Pattern285,,"NBO_0000134
+ and (has_participant some CHEBI_55505)",1,,1,2,
+55,http://ebi.ac.uk#Pattern284,,"BFO_0000056 some 
+    (NBO_0000008
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,55,56,
+,http://ebi.ac.uk#Pattern283,,"PATO_0000001
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern282,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (PATO_0000044
+         and (towards some NBO_0000130))))",0,,6,7,
+,http://ebi.ac.uk#Pattern281,,"PATO_0000001
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some PATO_0000068)",0,1,,2,
+,http://ebi.ac.uk#Pattern280,,"NBO_0000022
+ and (is_about some NBO_0000313)",0,,7,8,
+,http://ebi.ac.uk#Pattern1208,,"NBO_0000308
+ and (in_response_to some Thing)",0,,27,28,
+,http://ebi.ac.uk#Pattern1207,,"BFO_0000056 some 
+    (NBO_0000035
+     and (has_quality some Thing))",0,,10,11,
+,http://ebi.ac.uk#Pattern1209,,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some Thing))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1200,,"PATO_0000001
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some BFO_0000002)",0,1,,2,
+1,http://ebi.ac.uk#Pattern1202,,"NBO_0000041
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0050878)",1,,1,2,
+,http://ebi.ac.uk#Pattern279,,"BFO_0000056 some 
+    (GO_0008150
+     and (has_quality some PATO_0001309))",0,,3,4,
+,http://ebi.ac.uk#Pattern1201,,"Thing
+ and (is_about some PATO_0000014)",0,,1,2,
+,http://ebi.ac.uk#Pattern278,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern1204,,"BFO_0000056 some 
+    (GO_0050879
+     and (has_quality some PATO_0000001))",0,,20,21,
+,http://ebi.ac.uk#Pattern277,,"Thing
+ and (RO_0000052 some GO_0007630)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern1203,,"BFO_0000056 some 
+    (GO_0022414
+     and (has_quality some PATO_0000044))",0,,1,2,
+2,http://ebi.ac.uk#Pattern276,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000044
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",2,,2,3,
+,http://ebi.ac.uk#Pattern1206,,"NBO_0000331
+ and (in_response_to some GO_0009593)",0,,1,2,
+,http://ebi.ac.uk#Pattern275,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000130))))",0,,5,6,
+,http://ebi.ac.uk#Pattern1205,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some Thing)",0,2,,3,
+,http://ebi.ac.uk#Pattern252,,"PATO_0000001
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some Thing)",0,1,,2,
+1,http://ebi.ac.uk#Pattern494,,"BFO_0000056 some 
+    (NBO_0000632
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern251,,"Thing
+ and (in_response_to some PATO_0001306)",0,,1,2,
+,http://ebi.ac.uk#Pattern493,,"NBO_0000038
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0003008)",0,,1,2,
+13,http://ebi.ac.uk#Pattern250,,"BFO_0000056 some 
+    (GO_0019098
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,13,14,
+,http://ebi.ac.uk#Pattern492,,"BFO_0000056 some 
+    (NBO_0000308
+     and (has_quality some Thing))",0,,16,17,
+,http://ebi.ac.uk#Pattern491,,"NBO_0000326
+ and (in_response_to some PATO_0002301)",0,,1,2,
+,http://ebi.ac.uk#Pattern490,,"NBO_0000326
+ and (in_response_to some PATO_0002300)",0,,1,2,
+5,http://ebi.ac.uk#Pattern249,,"BFO_0000056 some 
+    (NBO_0000339
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,5,6,
+,http://ebi.ac.uk#Pattern248,,"BFO_0000056 some 
+    (NBO_0000741
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern247,,"PATO_0000186
+ and (RO_0000052 some FBbt_00000001)",0,1,,2,
+1,http://ebi.ac.uk#Pattern489,,"NBO_0000326
+ and (in_response_to some PATO_0002303)",1,,1,2,
+,http://ebi.ac.uk#Pattern246,,"BFO_0000056 some 
+    (GO_0008150
+     and (has_quality some PATO_0000001))",0,,114,115,
+,http://ebi.ac.uk#Pattern488,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0002323))",0,,1,2,
+,http://ebi.ac.uk#Pattern245,,"NBO_0000024
+ and (is_about some GO_0007623)",0,,2,3,
+,http://ebi.ac.uk#Pattern487,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001236))",0,,1,2,
+,http://ebi.ac.uk#Pattern244,,"NBO_0000024
+ and (is_about some GO_0007622)",0,,2,3,
+,http://ebi.ac.uk#Pattern486,,"Thing
+ and (is_about some PATO_0000117)",0,,4,5,
+,http://ebi.ac.uk#Pattern243,,"Thing
+ and (is_about some NBO_0000747)",0,,1,2,
+,http://ebi.ac.uk#Pattern485,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some PATO_0000001))",0,,176,177,
+,http://ebi.ac.uk#Pattern242,,"Thing
+ and (is_about some NBO_0000749)",0,,1,2,
+1,http://ebi.ac.uk#Pattern484,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0002324))",1,,1,2,
+,http://ebi.ac.uk#Pattern263,,"PATO_0000001
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some PATO_0000001)",0,4,,5,
+,http://ebi.ac.uk#Pattern262,,"BFO_0000056 some 
+    (GO_0048511
+     and (has_quality some PATO_0000001))",0,,16,17,
+,http://ebi.ac.uk#Pattern261,,"PATO_0000001
+ and (RO_0000052 some GO_0044699)
+ and (qualifier some PATO_0000460)",0,16,,17,
+,http://ebi.ac.uk#Pattern260,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007619 or (GO_0007610
+     and (BFO_0000050 some GO_0007619))))
+ and (qualifier some PATO_0000001)",0,2,,3,
+,http://ebi.ac.uk#Pattern259,,"Thing
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some PATO_0000460)",0,1,,2,
+2,http://ebi.ac.uk#Pattern258,,"BFO_0000056 some 
+    (GO_0044704
+     and (has_quality some PATO_0000001))",2,,2,3,
+,http://ebi.ac.uk#Pattern257,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern499,,"PATO_0000001
+ and (RO_0000052 some GO_0048609)
+ and (qualifier some PATO_0000460)",0,5,,6,
+,http://ebi.ac.uk#Pattern256,,"BFO_0000056 some 
+    (GO_0030431
+     and (has_quality some PATO_0001309))",0,,1,2,
+,http://ebi.ac.uk#Pattern498,,"BFO_0000056 some 
+    (GO_0008150
+     and (has_quality some PATO_0000044))",0,,3,4,
+,http://ebi.ac.uk#Pattern255,3,"PATO_0000001
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some PATO_0000460)",3,3,,4,
+1,http://ebi.ac.uk#Pattern497,,"BFO_0000056 some 
+    (NBO_0000549
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern254,1,"PATO_0000001
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some PATO_0000069)",1,1,,2,
+1,http://ebi.ac.uk#Pattern496,,"NBO_0000326
+ and (in_response_to some PATO_0002305)",1,,1,2,
+,http://ebi.ac.uk#Pattern253,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some PATO_0000161))",0,,15,16,
+1,http://ebi.ac.uk#Pattern495,,"BFO_0000056 some 
+    (NBO_0000041
+     and (has_quality some PATO_0000001))",1,,1,2,
+,http://ebi.ac.uk#Pattern230,,"Thing
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some PATO_0000460)",0,2,,3,
+1,http://ebi.ac.uk#Pattern472,,"BFO_0000056 some 
+    (NBO_0000084
+     and (has_quality some PATO_0000044))",1,,1,2,
+,http://ebi.ac.uk#Pattern471,,"PATO_0001241
+ and (RO_0000052 some FBbt_00000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern470,,"NBO_0000171
+ and (is_about some NBO_0000308)",0,,1,2,
+,http://ebi.ac.uk#Pattern229,,"PATO_0000001
+ and (RO_0000052 some GO_0048511)
+ and (qualifier some PATO_0000460)",0,4,,5,
+,http://ebi.ac.uk#Pattern228,,"BFO_0000056 some 
+    (GO_0007610
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",0,,1,2,
+,http://ebi.ac.uk#Pattern227,,"NBO_0000308
+ and (in_response_to some GO_0008150)",0,,18,19,
+1,http://ebi.ac.uk#Pattern469,,"NBO_0000317
+ and (has_participant some UBERON_0002101)",1,,1,2,
+1,http://ebi.ac.uk#Pattern226,,"BFO_0000056 some 
+    (GO_0060273
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+10,http://ebi.ac.uk#Pattern468,,"BFO_0000056 some 
+    (GO_0042755
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,10,11,
+,http://ebi.ac.uk#Pattern225,,"NBO_0000313
+ and (in_response_to some NBO_0002086)",0,,1,2,
+,http://ebi.ac.uk#Pattern467,,"PATO_0000770
+ and (RO_0000052 some FBbt_00007001)",0,1,,2,
+1,http://ebi.ac.uk#Pattern224,,"BFO_0000056 some 
+    (GO_0007638
+     and (has_quality some PATO_0000001))",1,,1,2,
+,http://ebi.ac.uk#Pattern466,,"PATO_0000001
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern223,,"PATO_0000001
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some Thing)",0,4,,5,
+,http://ebi.ac.uk#Pattern465,,"PATO_0000001
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,4,,5,
+1,http://ebi.ac.uk#Pattern222,,"BFO_0000056 some 
+    (NBO_0000631
+     and (has_quality some PATO_0000001))",1,,1,2,
+,http://ebi.ac.uk#Pattern464,,"BFO_0000002
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern221,,"BFO_0000056 some 
+    (GO_0007610
+     and (has_quality some PATO_0000044))",0,,3,4,
+,http://ebi.ac.uk#Pattern463,,"Thing
+ and (has_participant some UBERON_0002101)",0,,1,2,
+,http://ebi.ac.uk#Pattern220,,"NBO_0000022
+ and (is_about some NBO_0000749)",0,,1,2,
+,http://ebi.ac.uk#Pattern462,23,"PATO_0000001
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some PATO_0000460)",4,23,,24,
+,http://ebi.ac.uk#Pattern241,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0022414 or (GO_0007610
+     and (BFO_0000050 some GO_0022414))))
+ and (qualifier some PATO_0000460)",0,5,,6,
+,http://ebi.ac.uk#Pattern483,,"PATO_0000001
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+,http://ebi.ac.uk#Pattern240,,"NBO_0000607
+ and (is_about some PATO_0000040)",0,,1,2,
+,http://ebi.ac.uk#Pattern482,,"PATO_0000001
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some PATO_0000001)",0,24,,25,
+,http://ebi.ac.uk#Pattern481,,"PATO_0000001
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some PATO_0000001)",0,3,,4,
+,http://ebi.ac.uk#Pattern480,,"NBO_0000751
+ and (has_participant some UBERON_0002101)",0,,1,2,
+,http://ebi.ac.uk#Pattern239,,"Thing
+ and (is_about some NBO_0000745)",0,,1,2,
+,http://ebi.ac.uk#Pattern238,,"NBO_0000308
+ and (has_participant some UBERON_0002101)",0,,1,2,
+2,http://ebi.ac.uk#Pattern237,,"BFO_0000056 some 
+    (GO_0044707
+     and (has_quality some PATO_0001309))",1,,2,3,
+,http://ebi.ac.uk#Pattern479,,"NBO_0000079
+ and (has_participant some CHEBI_24432)",0,,2,3,
+,http://ebi.ac.uk#Pattern236,1,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some PATO_0000460)",1,1,,2,
+1,http://ebi.ac.uk#Pattern478,,"NBO_0000038
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0003014)",1,,1,2,
+,http://ebi.ac.uk#Pattern235,,"BFO_0000056 some 
+    (NBO_0000041
+     and (has_quality some BFO_0000002))",0,,2,3,
+1,http://ebi.ac.uk#Pattern477,,"BFO_0000056 some 
+    (GO_0007618
+     and (has_quality some PATO_0000001))",1,,1,2,
+,http://ebi.ac.uk#Pattern234,,"BFO_0000002
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000460)",0,4,,5,
+,http://ebi.ac.uk#Pattern476,,"NBO_0000330
+ and (in_response_to some Thing)",0,,10,11,
+15,http://ebi.ac.uk#Pattern233,,"BFO_0000056 some 
+    (GO_0048512
+     and (has_quality some PATO_0000001))",1,,15,16,
+,http://ebi.ac.uk#Pattern475,,"PATO_0000001
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some Thing)",0,4,,5,
+1,http://ebi.ac.uk#Pattern232,,"GO_0002118
+ and (by_means some NBO_0000121)",1,,1,2,
+1,http://ebi.ac.uk#Pattern474,,"BFO_0000056 some 
+    (NBO_0000548
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern231,4,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some PATO_0000460)",1,4,,5,
+,http://ebi.ac.uk#Pattern473,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002302
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern450,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002301
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern692,,"NBO_0000607
+ and (in_response_to some (has_role some CHEBI_35703))",0,,9,10,
+,http://ebi.ac.uk#Pattern691,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern690,,"BFO_0000056 some 
+    (GO_0008050
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern209,,"NBO_0000022
+ and (is_about some NBO_0000747)",0,,1,2,
+,http://ebi.ac.uk#Pattern208,,"PATO_0000001
+ and (RO_0000052 some 
+    (BFO_0000003 or (GO_0007610
+     and (BFO_0000050 some BFO_0000003))))
+ and (qualifier some PATO_0000460)",0,10,,11,
+,http://ebi.ac.uk#Pattern207,,"BFO_0000056 some 
+    (GO_0044708
+     and (has_quality some PATO_0001309))",0,,2,3,
+,http://ebi.ac.uk#Pattern449,,"NBO_0000607
+ and (in_response_to some NBO_0000778)",0,,1,2,
+,http://ebi.ac.uk#Pattern206,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000130))))",0,,11,12,
+1,http://ebi.ac.uk#Pattern448,,"BFO_0000056 some 
+    (GO_0008049
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,1,2,
+,http://ebi.ac.uk#Pattern205,,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some PATO_0000001))",0,,2,3,
+,http://ebi.ac.uk#Pattern447,,"PATO_0000001
+ and (RO_0000052 some GO_0045433)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern689,,"BFO_0000002
+ and (RO_0000052 some GO_0018991)
+ and (qualifier some PATO_0000460)",0,1,,2,
+10,http://ebi.ac.uk#Pattern204,,"NBO_0000330
+ and (in_response_to some GO_0007600)",1,,10,11,
+15,http://ebi.ac.uk#Pattern446,,"BFO_0000056 some 
+    (GO_0042756
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,15,16,
+,http://ebi.ac.uk#Pattern688,,"Thing
+ and (in_response_to some GO_0050909)",0,,1,2,
+,http://ebi.ac.uk#Pattern203,,"NBO_0000330
+ and (in_response_to some GO_0003008)",0,,10,11,
+,http://ebi.ac.uk#Pattern445,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0002300))",0,,1,2,
+,http://ebi.ac.uk#Pattern687,,"BFO_0000056 some 
+    (GO_0007632
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern202,3,"PATO_0000001
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some PATO_0000460)",2,3,,4,
+,http://ebi.ac.uk#Pattern444,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000313))))",0,,1,2,
+,http://ebi.ac.uk#Pattern686,,"BFO_0000056 some 
+    (NBO_0000039
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern201,,"BFO_0000056 some 
+    (GO_0048512
+     and (has_quality some PATO_0001309))",0,,2,3,
+1,http://ebi.ac.uk#Pattern443,,"NBO_0002660
+ and (has_participant some CHEBI_23982)",1,,1,2,
+,http://ebi.ac.uk#Pattern685,,"NBO_0000022
+ and (is_about some NBO_0000003)",0,,2,3,
+10,http://ebi.ac.uk#Pattern200,,"BFO_0000056 some 
+    (NBO_0000327
+     and (has_quality some PATO_0000001))",2,,10,11,
+,http://ebi.ac.uk#Pattern442,,"NBO_0001884
+ and (has_participant some CHEBI_38295)",0,,1,2,
+,http://ebi.ac.uk#Pattern684,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some Thing))))
+     and (qualifier some PATO_0001333))",0,,1,2,
+,http://ebi.ac.uk#Pattern441,,"GO_0007610
+ and (by_means some NBO_0000128)",0,,1,2,
+1,http://ebi.ac.uk#Pattern683,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000079))))",1,,1,2,
+,http://ebi.ac.uk#Pattern440,,"NBO_0000313
+ and (by_means some NBO_0000037)",0,,1,2,
+,http://ebi.ac.uk#Pattern682,,"BFO_0000056 some 
+    (GO_0030431
+     and (has_quality some PATO_0001236))",0,,3,4,
+,http://ebi.ac.uk#Pattern461,,"BFO_0000056 some 
+    ((Thing
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+,http://ebi.ac.uk#Pattern460,,"PATO_0000001
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern219,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern218,,"BFO_0000056 some 
+    (GO_0019098
+     and (has_quality some BFO_0000002))",0,,13,14,
+,http://ebi.ac.uk#Pattern217,,"Thing
+ and (has_participant some CHEBI_18723)",0,,1,2,
+3,http://ebi.ac.uk#Pattern459,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0000161))",2,,3,4,
+,http://ebi.ac.uk#Pattern216,,"BFO_0000056 some 
+    (NBO_0000549
+     and (has_quality some Thing))",0,,1,2,
+5,http://ebi.ac.uk#Pattern458,,"NBO_0000331
+ and (in_response_to some Thing)",1,,5,6,
+,http://ebi.ac.uk#Pattern215,2,"PATO_0000001
+ and (RO_0000052 some GO_0051780)
+ and (qualifier some PATO_0000460)",1,2,,3,
+,http://ebi.ac.uk#Pattern457,,"NBO_0000225
+ and (is_about some PATO_0001018)",0,,1,2,
+2,http://ebi.ac.uk#Pattern699,,RO_0002211 some NBO_0000010,1,,2,3,
+,http://ebi.ac.uk#Pattern214,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some PATO_0000911))",0,,5,6,
+,http://ebi.ac.uk#Pattern456,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002302
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern698,,"BFO_0000056 some 
+    (GO_0007623
+     and (has_quality some PATO_0001309))",0,,2,3,
+,http://ebi.ac.uk#Pattern213,,"BFO_0000056 some 
+    (Thing
+     and (has_quality some PATO_0000912))",0,,8,9,
+,http://ebi.ac.uk#Pattern455,,"NBO_0001632
+ and (in_response_to some GO_0032501)",0,,4,5,
+1,http://ebi.ac.uk#Pattern697,,"NBO_0000041
+ and (by_means some UBERON_0002365)
+ and (is_about some GO_0070075)",1,,1,2,
+,http://ebi.ac.uk#Pattern212,,"Thing
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some PATO_0000460)",0,24,,25,
+,http://ebi.ac.uk#Pattern454,,"PATO_0000001
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some Thing)",0,1,,2,
+,http://ebi.ac.uk#Pattern696,,"BFO_0000056 some 
+    ((NBO_0001786
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,,1,
+1,http://ebi.ac.uk#Pattern211,,"NBO_0000079
+ and (has_participant some CHEBI_32111)",1,,1,2,
+,http://ebi.ac.uk#Pattern453,,"BFO_0000056 some 
+    (NBO_0000087
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern695,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000130))))",0,,5,6,
+,http://ebi.ac.uk#Pattern210,,"BFO_0000056 some 
+    (NBO_0000042
+     and (has_quality some BFO_0000002))",0,,1,2,
+1,http://ebi.ac.uk#Pattern452,,"NBO_0000038
+ and (by_means some UBERON_0000078)
+ and (is_about some GO_0060073)",1,,1,2,
+,http://ebi.ac.uk#Pattern694,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (Thing
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000460)",0,2,,3,
+1,http://ebi.ac.uk#Pattern451,,"NBO_0000171
+ and (is_about some NBO_0000317)",1,,1,2,
+11,http://ebi.ac.uk#Pattern693,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0002062
+         and (towards some NBO_0000130))))",1,,11,12,
+,http://ebi.ac.uk#Pattern670,,"NBO_0000171
+ and (in_response_to some NBO_0000607)",0,,1,2,
+,http://ebi.ac.uk#Pattern429,,"PATO_0000001
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0008150
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000460)",0,2,,3,
+16,http://ebi.ac.uk#Pattern428,,"BFO_0000056 some 
+    (NBO_0000308
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,16,17,
+1,http://ebi.ac.uk#Pattern427,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (Thing
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,,1,2,
+,http://ebi.ac.uk#Pattern669,,"NBO_0002436
+ and (has_participant some CHEBI_32111)",0,,1,2,
+,http://ebi.ac.uk#Pattern426,,"NBO_0000006
+ and (is_about some NBO_0000091)",0,,1,2,
+,http://ebi.ac.uk#Pattern668,,"BFO_0000056 some 
+    (GO_0044699
+     and (has_quality some PATO_0000044))",0,,2,3,
+,http://ebi.ac.uk#Pattern425,,"BFO_0000056 some 
+    (GO_0042756
+     and (has_quality some Thing))",0,,15,16,
+6,http://ebi.ac.uk#Pattern667,,"BFO_0000056 some 
+    (GO_0007617
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,6,7,
+,http://ebi.ac.uk#Pattern424,,"NBO_0000607
+ and (by_means some UBERON_0002105)",0,,2,3,
+,http://ebi.ac.uk#Pattern666,,"NBO_0000308
+ and (is_about some PATO_0000001)",0,,7,8,
+,http://ebi.ac.uk#Pattern423,,"NBO_0000607
+ and (by_means some UBERON_0002104)",0,,1,2,
+,http://ebi.ac.uk#Pattern665,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (towards some Thing))))",0,,2,3,
+,http://ebi.ac.uk#Pattern422,,"NBO_0000313
+ and (in_response_to some GO_0007601)",0,,3,4,
+,http://ebi.ac.uk#Pattern664,,"BFO_0000056 some 
+    (GO_0007619
+     and (has_quality some Thing))",0,,3,4,
+,http://ebi.ac.uk#Pattern421,1,"PATO_0000001
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern663,,"NBO_0000313
+ and (in_response_to some NBO_0000131)",0,,1,2,
+,http://ebi.ac.uk#Pattern420,,"PATO_0000001
+ and (RO_0000052 some GO_0007631)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern662,,"BFO_0000056 some 
+    (NBO_0000041
+     and (has_quality some Thing))",0,,2,3,
+,http://ebi.ac.uk#Pattern661,,"BFO_0000056 some 
+    (NBO_0000339
+     and (has_quality some BFO_0000002))",0,,5,6,
+1,http://ebi.ac.uk#Pattern660,,"has_quality some 
+    (PATO_0001564
+     and (towards some NBO_0000230))",1,,1,2,
+,http://ebi.ac.uk#Pattern681,1,"PATO_0000001
+ and (RO_0000052 some GO_0008049)
+ and (qualifier some PATO_0000460)",1,1,,2,
+,http://ebi.ac.uk#Pattern680,,"Thing
+ and (RO_0000052 some 
+    (GO_0007617 or (GO_0007610
+     and (BFO_0000050 some GO_0007617))))
+ and (qualifier some PATO_0000460)",0,4,,5,
+1,http://ebi.ac.uk#Pattern439,,"BFO_0000056 some 
+    ((NBO_0000064
+     and (RO_0002211 some NBO_0000130)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0002304))",1,,1,2,
+,http://ebi.ac.uk#Pattern438,,"BFO_0000056 some 
+    (NBO_0000313
+     and (RO_0002211 some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",0,,1,2,
+,http://ebi.ac.uk#Pattern437,,"NBO_0000751
+ and (in_response_to some PATO_0001305)",0,,1,2,
+,http://ebi.ac.uk#Pattern679,,"NBO_0002660
+ and (has_participant some CHEBI_15734)",0,,1,2,
+,http://ebi.ac.uk#Pattern436,,"NBO_0000171
+ and (is_about some NBO_0000313)",0,,6,7,
+1,http://ebi.ac.uk#Pattern678,,"NBO_0000008
+ and (is_about some GO_0042747)",1,,1,2,
+,http://ebi.ac.uk#Pattern435,,"NBO_0000751
+ and (in_response_to some PATO_0001306)",0,,1,2,
+,http://ebi.ac.uk#Pattern677,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0002062
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern434,,"PATO_0000001
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some PATO_0000001)",0,2,,3,
+3,http://ebi.ac.uk#Pattern676,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000911
+         and (towards some NBO_0000130))))",2,,3,4,
+,http://ebi.ac.uk#Pattern433,,"NBO_0000225
+ and (is_about some PATO_0001241)",0,,3,4,
+,http://ebi.ac.uk#Pattern675,,"NBO_0000041
+ and (by_means some UBERON_0004121)
+ and (is_about some GO_0070075)",0,,1,2,
+,http://ebi.ac.uk#Pattern432,,"BFO_0000056 some 
+    (GO_0044703
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern674,,"Thing
+ and (has_participant some CHEBI_32111)",0,,2,3,
+,http://ebi.ac.uk#Pattern431,2,"PATO_0000001
+ and (RO_0000052 some GO_0007611)
+ and (qualifier some PATO_0000460)",2,2,,3,
+,http://ebi.ac.uk#Pattern673,,"BFO_0000002
+ and (RO_0000052 some GO_0007625)
+ and (qualifier some PATO_0000460)",0,1,,2,
+,http://ebi.ac.uk#Pattern430,2,"PATO_0000001
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some PATO_0000460)",1,2,,3,
+,http://ebi.ac.uk#Pattern672,,"PATO_0000001
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern671,,"NBO_0002660
+ and (has_participant some CHEBI_2571)",0,,1,2,
+,http://ebi.ac.uk#Pattern890,2,"PATO_0000001
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some PATO_0000069)",1,2,,3,
+,http://ebi.ac.uk#Pattern409,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some PATO_0000912))",0,,6,7,
+,http://ebi.ac.uk#Pattern408,,"Thing
+ and (in_response_to some GO_0007608)",0,,2,3,
+,http://ebi.ac.uk#Pattern407,,"BFO_0000056 some 
+    (NBO_0000170
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern649,,"PATO_0000001
+ and (RO_0000052 some GO_0007610)
+ and (qualifier some BFO_0000002)",0,24,,25,
+,http://ebi.ac.uk#Pattern406,,"Thing
+ and (in_response_to some GO_0007606)",0,,4,5,
+1,http://ebi.ac.uk#Pattern648,,"NBO_0000317
+ and (has_participant some UBERON_0000309)",1,,1,2,
+,http://ebi.ac.uk#Pattern405,,"PATO_0000001
+ and (RO_0000052 some FBbt_00000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern647,,RO_0002211 some NBO_0001632,0,,3,4,
+2,http://ebi.ac.uk#Pattern889,,"NBO_0000038
+ and (is_about some GO_0003008)",1,,2,3,
+,http://ebi.ac.uk#Pattern404,,"Thing
+ and (in_response_to some GO_0007605)",0,,1,2,
+,http://ebi.ac.uk#Pattern646,,"NBO_0000313
+ and (has_participant some CHEBI_32111)",0,,2,3,
+,http://ebi.ac.uk#Pattern888,,"NBO_0000388
+ and (by_means some GO_0008150)",0,,60,61,
+,http://ebi.ac.uk#Pattern403,,"Thing
+ and (has_participant some CHEBI_16236)",0,,2,3,
+,http://ebi.ac.uk#Pattern645,,"BFO_0000056 some 
+    (NBO_0000040
+     and (has_quality some Thing))",0,,1,2,
+,http://ebi.ac.uk#Pattern887,,"BFO_0000056 some 
+    (NBO_0000313
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern402,,"PATO_0000001
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some BFO_0000002)",0,1,,2,
+5,http://ebi.ac.uk#Pattern644,,"NBO_0000079
+ and (has_participant some Thing)",1,,5,6,
+,http://ebi.ac.uk#Pattern886,,"BFO_0000056 some 
+    (NBO_0000607
+     and (has_quality some BFO_0000002))",0,,27,28,
+,http://ebi.ac.uk#Pattern401,,"PATO_0000001
+ and (RO_0000052 some GO_0045475)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern643,,"NBO_0000015
+ and (by_means some Thing)",0,,2,3,
+1,http://ebi.ac.uk#Pattern885,,"NBO_0000041
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0046903)",1,,1,2,
+,http://ebi.ac.uk#Pattern400,,"BFO_0000056 some 
+    (GO_0042755
+     and (has_quality some Thing))",0,,10,11,
+,http://ebi.ac.uk#Pattern642,,"has_quality some 
+    (PATO_0001236
+     and (towards some NBO_0000230))",0,,1,2,
+,http://ebi.ac.uk#Pattern884,,"has_quality some 
+    (PATO_0001241
+     and (towards some NBO_0000304))",0,,1,2,
+1,http://ebi.ac.uk#Pattern641,,"NBO_0001884
+ and (has_participant some CHEBI_46775)",1,,1,2,
+,http://ebi.ac.uk#Pattern883,,"NBO_0000308
+ and (in_response_to some GO_0032501)",0,,18,19,
+52,http://ebi.ac.uk#Pattern640,,"BFO_0000056 some 
+    (NBO_0000024
+     and (has_quality some PATO_0000001))",7,,52,53,
+1,http://ebi.ac.uk#Pattern882,,"NBO_0000041
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0007589)",1,,1,2,
+,http://ebi.ac.uk#Pattern881,2,"PATO_0000001
+ and (RO_0000052 some GO_0007617)
+ and (qualifier some PATO_0000460)",1,2,,3,
+,http://ebi.ac.uk#Pattern880,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0002062))",0,,1,2,
+1,http://ebi.ac.uk#Pattern419,,"NBO_0000208
+ and (is_about some NBO_0000018)",1,,1,2,
+,http://ebi.ac.uk#Pattern418,,"BFO_0000056 some 
+    (GO_0048583
+     and (has_quality some PATO_0000161))",0,,4,5,
+,http://ebi.ac.uk#Pattern417,4,"PATO_0000001
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some PATO_0000069)",1,4,,5,
+5,http://ebi.ac.uk#Pattern659,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some NBO_0000130))))",2,,5,6,
+,http://ebi.ac.uk#Pattern416,,"PATO_0000001
+ and (RO_0000052 some GO_0048512)
+ and (qualifier some PATO_0000068)",0,4,,5,
+,http://ebi.ac.uk#Pattern658,,"BFO_0000056 some 
+    (NBO_0000134
+     and (has_quality some PATO_0000001))",0,,1,2,
+,http://ebi.ac.uk#Pattern415,,"Thing
+ and (in_response_to some GO_0007601)",0,,3,4,
+,http://ebi.ac.uk#Pattern657,,"Thing
+ and (is_about some GO_0042747)",0,,1,2,
+,http://ebi.ac.uk#Pattern899,,"Thing
+ and (in_response_to some GO_0050966)",0,,1,2,
+,http://ebi.ac.uk#Pattern414,,"NBO_0000225
+ and (is_about some BFO_0000002)",0,,3,4,
+60,http://ebi.ac.uk#Pattern656,,"NBO_0000388
+ and (by_means some GO_0009605)",1,,60,61,
+,http://ebi.ac.uk#Pattern898,,"Thing
+ and (in_response_to some GO_0050967)",0,,1,2,
+,http://ebi.ac.uk#Pattern413,,"BFO_0000056 some 
+    (NBO_0001786
+     and (has_quality some PATO_0000911))",0,,4,5,
+1,http://ebi.ac.uk#Pattern655,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000079))))",1,,1,2,
+1,http://ebi.ac.uk#Pattern897,,"BFO_0000056 some 
+    (NBO_0002436
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001863)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern412,,"GO_0008150
+ and (is_about some GO_0007623)",0,,10,11,
+,http://ebi.ac.uk#Pattern654,,"BFO_0000002
+ and (RO_0000052 some GO_0007626)
+ and (qualifier some PATO_0000460)",0,4,,5,
+1,http://ebi.ac.uk#Pattern896,,"NBO_0000038
+ and (by_means some UBERON_0006554)
+ and (is_about some GO_0060073)",1,,1,2,
+,http://ebi.ac.uk#Pattern411,,"BFO_0000056 some 
+    (NBO_0002948
+     and (has_quality some BFO_0000002))",0,,1,2,
+,http://ebi.ac.uk#Pattern653,,"PATO_0000001
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some BFO_0000002)",0,3,,4,
+,http://ebi.ac.uk#Pattern895,,"NBO_0000130
+ and (has_participant some CHEBI_33692)",0,,1,2,
+,http://ebi.ac.uk#Pattern410,,"BFO_0000056 some 
+    (NBO_0002702
+     and (has_quality some PATO_0001236))",0,,3,4,
+,http://ebi.ac.uk#Pattern652,3,"PATO_0000001
+ and (RO_0000052 some GO_0009416)
+ and (qualifier some PATO_0000460)",1,3,,4,
+,http://ebi.ac.uk#Pattern894,,"NBO_0001632
+ and (in_response_to some NBO_0002086)",0,,1,2,
+,http://ebi.ac.uk#Pattern651,,"NBO_0000208
+ and (is_about some NBO_0000469)",0,,1,2,
+1,http://ebi.ac.uk#Pattern893,,"NBO_0000130
+ and (has_participant some CHEBI_33693)",1,,1,2,
+4,http://ebi.ac.uk#Pattern650,,RO_0002211 some NBO_0000308,1,,4,5,
+,http://ebi.ac.uk#Pattern892,,"PATO_0000001
+ and (RO_0000052 some GO_0007632)
+ and (qualifier some PATO_0000068)",0,2,,3,
+,http://ebi.ac.uk#Pattern891,,"NBO_0000171
+ and (in_response_to some NBO_0000022)",0,,1,2,
+,http://ebi.ac.uk#Pattern629,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0002062)
+         and (towards some NBO_0000130))))",0,,1,2,
+,http://ebi.ac.uk#Pattern628,,"BFO_0000002
+ and (RO_0000052 some GO_0035648)
+ and (qualifier some PATO_0000460)",0,1,,2,
+24,http://ebi.ac.uk#Pattern627,,RO_0002211 some NBO_0000313,1,,24,25,
+,http://ebi.ac.uk#Pattern869,,"Thing
+ and (in_response_to some GO_0050975)",0,,1,2,
+,http://ebi.ac.uk#Pattern626,,"BFO_0000056 some 
+    (NBO_0000317
+     and (has_quality some BFO_0000002))",0,,9,10,
+,http://ebi.ac.uk#Pattern868,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0000068))",0,,3,4,
+1,http://ebi.ac.uk#Pattern625,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000381
+         and (qualifier some PATO_0001309)
+         and (towards some NBO_0000130))))",1,,1,2,
+,http://ebi.ac.uk#Pattern867,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000069
+         and (towards some NBO_0000130))))",0,,3,4,
+,http://ebi.ac.uk#Pattern624,,"NBO_0000313
+ and (by_means some UBERON_0002104)",0,,1,2,
+3,http://ebi.ac.uk#Pattern866,,"NBO_0000746
+ and (is_about some Thing)",1,,3,4,
+,http://ebi.ac.uk#Pattern623,,"NBO_0000313
+ and (by_means some UBERON_0002105)",0,,2,3,
+,http://ebi.ac.uk#Pattern865,3,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some GO_0007635)
+ and (qualifier some PATO_0000460)",1,3,,4,
+,http://ebi.ac.uk#Pattern622,,"NBO_0001884
+ and (has_participant some CHEBI_22315)",0,,2,3,
+,http://ebi.ac.uk#Pattern864,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000380
+         and (qualifier some PATO_0001333)
+         and (towards some NBO_0001845))))",0,,1,2,
+,http://ebi.ac.uk#Pattern621,,"PATO_0000001
+ and (RO_0000052 some GO_0035187)
+ and (qualifier some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84)",0,1,,2,
+1,http://ebi.ac.uk#Pattern863,,"BFO_0000056 some 
+    (NBO_0000064
+     and (RO_0002211 some (has-input some 
+        (Thing
+         and (has_quality some PATO_0001563)))))",1,,1,2,
+,http://ebi.ac.uk#Pattern620,,"NBO_0000035
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0070075)",1,,,1,
+,http://ebi.ac.uk#Pattern862,,"PATO_0000001
+ and (RO_0000052 some GO_0007612)
+ and (qualifier some PATO_0000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern861,,"GO_0007622
+ and (is_about some GO_0044699)",0,,10,11,
+,http://ebi.ac.uk#Pattern860,,"scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84
+ and (RO_0000052 some FBbt_00000001)",0,1,,2,
+,http://ebi.ac.uk#Pattern639,,"BFO_0000002
+ and (RO_0000052 some GO_0043153)
+ and (qualifier some PATO_0000460)",0,1,,2,
+10,http://ebi.ac.uk#Pattern638,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (PATO_0000161
+         and (towards some NBO_0000130))))",2,,10,11,
+2,http://ebi.ac.uk#Pattern637,,"BFO_0000056 some 
+    (NBO_0000041
+     and (has_quality some scratch_bc9cd657_1b16_481d_a157_0ee9d4fb3b84))",1,,2,3,
+,http://ebi.ac.uk#Pattern879,,"GO_0007622
+ and (is_about some GO_0008150)",0,,10,11,
+,http://ebi.ac.uk#Pattern636,,"NBO_0000308
+ and (in_response_to some GO_0050975)",0,,1,2,
+,http://ebi.ac.uk#Pattern878,3,"PATO_0000001
+ and (RO_0000052 some GO_0042221)
+ and (qualifier some PATO_0000460)",1,3,,4,
+,http://ebi.ac.uk#Pattern635,,"BFO_0000056 some 
+    (GO_0030431
+     and (has_quality some Thing))",0,,53,54,
+,http://ebi.ac.uk#Pattern877,,"NBO_0000313
+ and (has_participant some CHEBI_15377)",0,,1,2,
+,http://ebi.ac.uk#Pattern634,,"PATO_0000001
+ and (RO_0000052 some GO_0007634)
+ and (qualifier some BFO_0000002)",0,1,,2,
+,http://ebi.ac.uk#Pattern876,,"BFO_0000056 some 
+    (GO_0007622
+     and (has_quality some PATO_0000044))",0,,2,3,
+,http://ebi.ac.uk#Pattern633,,"Thing
+ and (is_about some NBO_0000037)",0,,1,2,
+,http://ebi.ac.uk#Pattern875,,"BFO_0000056 some 
+    (GO_0048512
+     and (has_quality some BFO_0000002))",0,,16,17,
+,http://ebi.ac.uk#Pattern632,,"BFO_0000056 some 
+    (GO_0007617
+     and (has_quality some Thing))",0,,6,7,
+,http://ebi.ac.uk#Pattern874,,"BFO_0000056 some 
+    (NBO_0002660
+     and (has_quality some 
+        (PATO_0000912
+         and (towards some Thing))))",0,,2,3,
+,http://ebi.ac.uk#Pattern631,,"NBO_0000006
+ and (is_about some NBO_0000037)",0,,1,2,
+11,http://ebi.ac.uk#Pattern873,,"BFO_0000056 some 
+    (NBO_0000751
+     and (has_quality some PATO_0000001))",1,,11,12,
+7,http://ebi.ac.uk#Pattern630,,RO_0002211 some NBO_0001884,5,,7,8,
+,http://ebi.ac.uk#Pattern872,,"BFO_0000056 some 
+    (NBO_0000064
+     and (has_quality some 
+        (BFO_0000002
+         and (towards some NBO_0000130))))",0,,11,12,
+,http://ebi.ac.uk#Pattern871,,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some PATO_0000069))",0,,3,4,
+,http://ebi.ac.uk#Pattern870,,"NBO_0000225
+ and (is_about some PATO_0001739)",0,,1,2,
