@@ -3,9 +3,9 @@
 Report only considers patterns with at least 100 indirect instances.
 See generated dataset for complete view of the data.
 http://ebi.ac.uk#Pattern824
-BFO_0000056 some 
-    (NBO_0000313
-     and (has_quality some PATO_0000001))
+BFO_0000056 some . 
+    (NBO_0000313 . 
+     and (has_quality some PATO_0000001)) . 
 Direct SubClasses overall: 5
 Indirect SubClasses overall: 166
 Direct SubClasses nbo.owl: 5
