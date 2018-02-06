@@ -38,247 +38,247 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/uberon#has_quality>]
 ### http://purl.obolibrary.org/obo/uberon#has_quality
-1. mating preference EquivalentTo BFO_0000056 some   
+* mating preference EquivalentTo BFO_0000056 some   
 (regulation of mating preference and (has_quality some rate))
   * nbo.owl
-1. behavioral control of lacrimation phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of lacrimation phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of lacrimation and (has_quality some quality))
   * nbo.owl
-1. voluntary movement behavior phenotype EquivalentTo BFO_0000056 some   
+* voluntary movement behavior phenotype EquivalentTo BFO_0000056 some   
 (voluntary movement behavior and (has_quality some quality))
   * nbo.owl
-1. increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
+* increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (regulates some (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))))
   * nbo.owl
-1. NREM frequency EquivalentTo BFO_0000056 some   
+* NREM frequency EquivalentTo BFO_0000056 some   
 (non-rapid eye movement sleep behavior and (has_quality some frequency))
   * nbo.owl
-1. circadian behavior phenotype EquivalentTo BFO_0000056 some   
+* circadian behavior phenotype EquivalentTo BFO_0000056 some   
 (circadian behavior and (has_quality some quality))
   * nbo.owl
-1. emotional behavior phenotype EquivalentTo BFO_0000056 some   
+* emotional behavior phenotype EquivalentTo BFO_0000056 some   
 (emotional behavior and (has_quality some quality))
   * nbo.owl
-1. aphagia EquivalentTo has_quality some   
+* aphagia EquivalentTo has_quality some   
 (lacking processual parts and (towards some GO_0042755))
   * nbo.owl
-1. liquid aversion EquivalentTo BFO_0000056 some   
+* liquid aversion EquivalentTo BFO_0000056 some   
 (regulation of drinking preference behavior and (has_quality some   
 (decreased rate and (towards some liquid consumption))))
   * nbo.owl
-1. liquid preference EquivalentTo BFO_0000056 some   
+* liquid preference EquivalentTo BFO_0000056 some   
 (regulation of drinking preference behavior and (has_quality some   
 (increased rate and (towards some liquid consumption))))
   * nbo.owl
-1. mating behavior phenotype EquivalentTo BFO_0000056 some   
+* mating behavior phenotype EquivalentTo BFO_0000056 some   
 (mating behavior and (has_quality some quality))
   * nbo.owl
-1. emission behavior phenotype EquivalentTo BFO_0000056 some   
+* emission behavior phenotype EquivalentTo BFO_0000056 some   
 (emission behavior and (has_quality some quality))
   * nbo.owl
-1. adipsia EquivalentTo BFO_0000056 some   
+* adipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (decreased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
-1. behavioral control of excretion phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of excretion phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of excretion and (has_quality some quality))
   * nbo.owl
-1. social behavior phenotype EquivalentTo BFO_0000056 some   
+* social behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0035176 and (has_quality some quality))
   * nbo.owl
-1. rhythmic behavior phenotype EquivalentTo BFO_0000056 some   
+* rhythmic behavior phenotype EquivalentTo BFO_0000056 some   
 (rhythmic behavior and (has_quality some quality))
   * nbo.owl
-1. memory behavior behavior EquivalentTo BFO_0000056 some   
+* memory behavior behavior EquivalentTo BFO_0000056 some   
 (memory behavior and (has_quality some quality))
   * nbo.owl
-1. food aversion EquivalentTo BFO_0000056 some   
+* food aversion EquivalentTo BFO_0000056 some   
 (GO_0060259 and (has_quality some decreased rate))
   * nbo.owl
-1. sensation behavior phenotype EquivalentTo BFO_0000056 some   
+* sensation behavior phenotype EquivalentTo BFO_0000056 some   
 (sensation behavior and (has_quality some quality))
   * nbo.owl
-1. alcohol aversion EquivalentTo BFO_0000056 some   
+* alcohol aversion EquivalentTo BFO_0000056 some   
 (regulation of alcohol preference behavior and (has_quality some decreased rate))
   * nbo.owl
-1. sleeping behavior phenotype EquivalentTo BFO_0000056 some   
+* sleeping behavior phenotype EquivalentTo BFO_0000056 some   
 (sleeping behavior and (has_quality some quality))
   * nbo.owl
-1. reproductive behavior phenotype EquivalentTo BFO_0000056 some   
+* reproductive behavior phenotype EquivalentTo BFO_0000056 some   
 (reproductive behavior and (has_quality some quality))
   * nbo.owl
-1. post-mating behavior phenotype EquivalentTo BFO_0000056 some   
+* post-mating behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0045297 and (has_quality some quality))
   * nbo.owl
-1. copulation phenotype EquivalentTo BFO_0000056 some   
+* copulation phenotype EquivalentTo BFO_0000056 some   
 (copulation and (has_quality some quality))
   * nbo.owl
-1. male courtship behavior phenotype EquivalentTo BFO_0000056 some   
+* male courtship behavior phenotype EquivalentTo BFO_0000056 some   
 (male courtship behavior and (has_quality some quality))
   * nbo.owl
-1. frequency of drinking EquivalentTo BFO_0000056 some   
+* frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (frequency and (towards some liquid consumption))))
   * nbo.owl
-1. decreased frequency of drinking EquivalentTo BFO_0000056 some   
+* decreased frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (decreased frequency and (towards some liquid consumption))))
   * nbo.owl
-1. behavioral control of production of sound phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of production of sound phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of production of sound and (has_quality some quality))
   * nbo.owl
-1. increased amount of liquid in a single drinking act EquivalentTo BFO_0000056 some   
+* increased amount of liquid in a single drinking act EquivalentTo BFO_0000056 some   
 (GO_0042756 and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563))))
   * nbo.owl
-1. crying behavior phenotype EquivalentTo BFO_0000056 some   
+* crying behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0060273 and (has_quality some quality))
   * nbo.owl
-1. dipsosis EquivalentTo BFO_0000056 some   
+* dipsosis EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
-1. depressive disorder EquivalentTo has_quality some   
+* depressive disorder EquivalentTo has_quality some   
 (PATO_0002361 and (towards some depression behavior))
   * nbo.owl
-1. chemosensory behavior phenotype EquivalentTo BFO_0000056 some   
+* chemosensory behavior phenotype EquivalentTo BFO_0000056 some   
 (chemosensory behavior and (has_quality some quality))
   * nbo.owl
-1. vocalization behavior phenotype EquivalentTo BFO_0000056 some   
+* vocalization behavior phenotype EquivalentTo BFO_0000056 some   
 (vocalization behavior and (has_quality some quality))
   * nbo.owl
-1. mating frequency EquivalentTo BFO_0000056 some   
+* mating frequency EquivalentTo BFO_0000056 some   
 (mating behavior and (has_quality some frequency))
   * nbo.owl
-1. rapid eye movement sleep phenotype EquivalentTo BFO_0000056 some   
+* rapid eye movement sleep phenotype EquivalentTo BFO_0000056 some   
 (GO_0042747 and (has_quality some quality))
   * nbo.owl
-1. liquid preference/aversion EquivalentTo BFO_0000056 some   
+* liquid preference/aversion EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (rate and (towards some liquid consumption))))
   * nbo.owl
-1. food preference EquivalentTo BFO_0000056 some   
+* food preference EquivalentTo BFO_0000056 some   
 (GO_0060259 and (has_quality some increased rate))
   * nbo.owl
-1. locomotory behavior phenotype EquivalentTo BFO_0000056 some   
+* locomotory behavior phenotype EquivalentTo BFO_0000056 some   
 (locomotory behavior and (has_quality some quality))
   * nbo.owl
-1. behavioral control of urination phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of urination phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of urination and (has_quality some quality))
   * nbo.owl
-1. involuntary movement behavior phenotype EquivalentTo BFO_0000056 some   
+* involuntary movement behavior phenotype EquivalentTo BFO_0000056 some   
 (involuntary movement behavior and (has_quality some quality))
   * nbo.owl
-1. auditory behavior phenotype EquivalentTo BFO_0000056 some   
+* auditory behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0031223 and (has_quality some quality))
   * nbo.owl
-1. cutaneous sensation behavior phenotype EquivalentTo BFO_0000056 some   
+* cutaneous sensation behavior phenotype EquivalentTo BFO_0000056 some   
 (cutaneous sensation behavior and (has_quality some quality))
   * nbo.owl
-1. forgetfulness EquivalentTo has_quality some   
+* forgetfulness EquivalentTo has_quality some   
 (PATO_0002361 and (towards some memory loss behavior))
   * nbo.owl
-1. increased frequency of drinking EquivalentTo BFO_0000056 some   
+* increased frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (towards some liquid consumption))))
   * nbo.owl
-1. hyperdipsia EquivalentTo BFO_0000056 some   
+* hyperdipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001333) and (towards some liquid consumption))))
   * nbo.owl
-1. drinking behavior phenotype EquivalentTo BFO_0000056 some   
+* drinking behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0042756 and (has_quality some quality))
   * nbo.owl
-1. anhedonia EquivalentTo has_quality some   
+* anhedonia EquivalentTo has_quality some   
 (lacking processual parts and (towards some pleasure behavior))
   * nbo.owl
-1. polyphagia EquivalentTo BFO_0000056 some   
+* polyphagia EquivalentTo BFO_0000056 some   
 (food consumption and (has_quality some increased rate))
   * nbo.owl
-1. REM frequency EquivalentTo BFO_0000056 some   
+* REM frequency EquivalentTo BFO_0000056 some   
 (GO_0042747 and (has_quality some frequency))
   * nbo.owl
-1. female courtship behavior phenotype EquivalentTo BFO_0000056 some   
+* female courtship behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0008050 and (has_quality some quality))
   * nbo.owl
-1. courtship behavior phenotype EquivalentTo BFO_0000056 some   
+* courtship behavior phenotype EquivalentTo BFO_0000056 some   
 (courtship behavior and (has_quality some quality))
   * nbo.owl
-1. somatic sensation related behavior phenotype EquivalentTo BFO_0000056 some   
+* somatic sensation related behavior phenotype EquivalentTo BFO_0000056 some   
 (somatic sensation related behavior and (has_quality some quality))
   * nbo.owl
-1. visual behavior phenotype EquivalentTo BFO_0000056 some   
+* visual behavior phenotype EquivalentTo BFO_0000056 some   
 (visual behavior and (has_quality some quality))
   * nbo.owl
-1. sleep duration EquivalentTo BFO_0000056 some   
+* sleep duration EquivalentTo BFO_0000056 some   
 (sleep and (has_quality some PATO_0001309))
   * nbo.owl
-1. alcohol preference EquivalentTo BFO_0000056 some   
+* alcohol preference EquivalentTo BFO_0000056 some   
 (regulation of alcohol preference behavior and (has_quality some increased rate))
   * nbo.owl
-1. kinesthetic behavior phenotype EquivalentTo BFO_0000056 some   
+* kinesthetic behavior phenotype EquivalentTo BFO_0000056 some   
 (kinesthetic behavior and (has_quality some quality))
   * nbo.owl
-1. cognitive behavior phenotype EquivalentTo BFO_0000056 some   
+* cognitive behavior phenotype EquivalentTo BFO_0000056 some   
 (cognitive behavior and (has_quality some quality))
   * nbo.owl
-1. NREM duration EquivalentTo BFO_0000056 some   
+* NREM duration EquivalentTo BFO_0000056 some   
 (non-rapid eye movement sleep behavior and (has_quality some PATO_0001309))
   * nbo.owl
-1. male sexual activity phenotype EquivalentTo BFO_0000056 some   
+* male sexual activity phenotype EquivalentTo BFO_0000056 some   
 (male sexual activity and (has_quality some quality))
   * nbo.owl
-1. female sexual activity phenotype EquivalentTo BFO_0000056 some   
+* female sexual activity phenotype EquivalentTo BFO_0000056 some   
 (female sexual activity and (has_quality some quality))
   * nbo.owl
-1. REM duration EquivalentTo BFO_0000056 some   
+* REM duration EquivalentTo BFO_0000056 some   
 (GO_0042747 and (has_quality some PATO_0001309))
   * nbo.owl
-1. learning behavior phenotype EquivalentTo BFO_0000056 some   
+* learning behavior phenotype EquivalentTo BFO_0000056 some   
 (learning behavior and (has_quality some quality))
   * nbo.owl
-1. food preference/aversion EquivalentTo BFO_0000056 some   
+* food preference/aversion EquivalentTo BFO_0000056 some   
 (GO_0060259 and (has_quality some rate))
   * nbo.owl
-1. behavioral control of defecation phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of defecation phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of defecation and (has_quality some quality))
   * nbo.owl
-1. feeding behavior phenotype EquivalentTo BFO_0000056 some   
+* feeding behavior phenotype EquivalentTo BFO_0000056 some   
 (feeding behavior and (has_quality some quality))
   * nbo.owl
-1. sexual activity phenotype EquivalentTo BFO_0000056 some   
+* sexual activity phenotype EquivalentTo BFO_0000056 some   
 (sexual activity and (has_quality some quality))
   * nbo.owl
-1. eating behavior phenotype EquivalentTo BFO_0000056 some   
+* eating behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0042755 and (has_quality some quality))
   * nbo.owl
-1. learning and/or memory behavior phenotype EquivalentTo BFO_0000056 some   
+* learning and/or memory behavior phenotype EquivalentTo BFO_0000056 some   
 (learning and/or memory behavior and (has_quality some quality))
   * nbo.owl
-1. non-rapid eye movement sleep behavior phenotype EquivalentTo BFO_0000056 some   
+* non-rapid eye movement sleep behavior phenotype EquivalentTo BFO_0000056 some   
 (non-rapid eye movement sleep behavior and (has_quality some quality))
   * nbo.owl
-1. vestibular behavior phenotype EquivalentTo BFO_0000056 some   
+* vestibular behavior phenotype EquivalentTo BFO_0000056 some   
 (vestibular behavior and (has_quality some quality))
   * nbo.owl
-1. motor coordination phenotype EquivalentTo BFO_0000056 some   
+* motor coordination phenotype EquivalentTo BFO_0000056 some   
 (motor coordination and (has_quality some quality))
   * nbo.owl
-1. saccharin preference EquivalentTo BFO_0000056 some   
+* saccharin preference EquivalentTo BFO_0000056 some   
 (regulation of saccharin preference behavior and (has_quality some increased rate))
   * nbo.owl
-1. polydipsia EquivalentTo BFO_0000056 some   
+* polydipsia EquivalentTo BFO_0000056 some   
 ((regulation of drinking behavior and (regulates some liquid consumption) and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))) and (qualifier some PATO_0001333))
   * nbo.owl
-1. behavioral control of external secretion phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of external secretion phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of external secretion and (has_quality some quality))
   * nbo.owl
-1. olfactory behavior phenotype EquivalentTo BFO_0000056 some   
+* olfactory behavior phenotype EquivalentTo BFO_0000056 some   
 (olfactory behavior and (has_quality some quality))
   * nbo.owl
-1. mobbing calling phenotype EquivalentTo BFO_0000056 some   
+* mobbing calling phenotype EquivalentTo BFO_0000056 some   
 (mobbing calling and (has_quality some quality))
   * nbo.owl
 
@@ -287,235 +287,235 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/BFO_0000056>]
 ### http://purl.obolibrary.org/obo/BFO_0000056
-1. mating preference EquivalentTo BFO_0000056 some   
+* mating preference EquivalentTo BFO_0000056 some   
 (regulation of mating preference and (has_quality some rate))
   * nbo.owl
-1. behavioral control of lacrimation phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of lacrimation phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of lacrimation and (has_quality some quality))
   * nbo.owl
-1. voluntary movement behavior phenotype EquivalentTo BFO_0000056 some   
+* voluntary movement behavior phenotype EquivalentTo BFO_0000056 some   
 (voluntary movement behavior and (has_quality some quality))
   * nbo.owl
-1. increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
+* increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (regulates some (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))))
   * nbo.owl
-1. NREM frequency EquivalentTo BFO_0000056 some   
+* NREM frequency EquivalentTo BFO_0000056 some   
 (non-rapid eye movement sleep behavior and (has_quality some frequency))
   * nbo.owl
-1. circadian behavior phenotype EquivalentTo BFO_0000056 some   
+* circadian behavior phenotype EquivalentTo BFO_0000056 some   
 (circadian behavior and (has_quality some quality))
   * nbo.owl
-1. emotional behavior phenotype EquivalentTo BFO_0000056 some   
+* emotional behavior phenotype EquivalentTo BFO_0000056 some   
 (emotional behavior and (has_quality some quality))
   * nbo.owl
-1. liquid aversion EquivalentTo BFO_0000056 some   
+* liquid aversion EquivalentTo BFO_0000056 some   
 (regulation of drinking preference behavior and (has_quality some   
 (decreased rate and (towards some liquid consumption))))
   * nbo.owl
-1. liquid preference EquivalentTo BFO_0000056 some   
+* liquid preference EquivalentTo BFO_0000056 some   
 (regulation of drinking preference behavior and (has_quality some   
 (increased rate and (towards some liquid consumption))))
   * nbo.owl
-1. mating behavior phenotype EquivalentTo BFO_0000056 some   
+* mating behavior phenotype EquivalentTo BFO_0000056 some   
 (mating behavior and (has_quality some quality))
   * nbo.owl
-1. emission behavior phenotype EquivalentTo BFO_0000056 some   
+* emission behavior phenotype EquivalentTo BFO_0000056 some   
 (emission behavior and (has_quality some quality))
   * nbo.owl
-1. adipsia EquivalentTo BFO_0000056 some   
+* adipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (decreased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
-1. behavioral control of excretion phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of excretion phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of excretion and (has_quality some quality))
   * nbo.owl
-1. social behavior phenotype EquivalentTo BFO_0000056 some   
+* social behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0035176 and (has_quality some quality))
   * nbo.owl
-1. rhythmic behavior phenotype EquivalentTo BFO_0000056 some   
+* rhythmic behavior phenotype EquivalentTo BFO_0000056 some   
 (rhythmic behavior and (has_quality some quality))
   * nbo.owl
-1. memory behavior behavior EquivalentTo BFO_0000056 some   
+* memory behavior behavior EquivalentTo BFO_0000056 some   
 (memory behavior and (has_quality some quality))
   * nbo.owl
-1. food aversion EquivalentTo BFO_0000056 some   
+* food aversion EquivalentTo BFO_0000056 some   
 (GO_0060259 and (has_quality some decreased rate))
   * nbo.owl
-1. sensation behavior phenotype EquivalentTo BFO_0000056 some   
+* sensation behavior phenotype EquivalentTo BFO_0000056 some   
 (sensation behavior and (has_quality some quality))
   * nbo.owl
-1. alcohol aversion EquivalentTo BFO_0000056 some   
+* alcohol aversion EquivalentTo BFO_0000056 some   
 (regulation of alcohol preference behavior and (has_quality some decreased rate))
   * nbo.owl
-1. sleeping behavior phenotype EquivalentTo BFO_0000056 some   
+* sleeping behavior phenotype EquivalentTo BFO_0000056 some   
 (sleeping behavior and (has_quality some quality))
   * nbo.owl
-1. reproductive behavior phenotype EquivalentTo BFO_0000056 some   
+* reproductive behavior phenotype EquivalentTo BFO_0000056 some   
 (reproductive behavior and (has_quality some quality))
   * nbo.owl
-1. post-mating behavior phenotype EquivalentTo BFO_0000056 some   
+* post-mating behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0045297 and (has_quality some quality))
   * nbo.owl
-1. copulation phenotype EquivalentTo BFO_0000056 some   
+* copulation phenotype EquivalentTo BFO_0000056 some   
 (copulation and (has_quality some quality))
   * nbo.owl
-1. male courtship behavior phenotype EquivalentTo BFO_0000056 some   
+* male courtship behavior phenotype EquivalentTo BFO_0000056 some   
 (male courtship behavior and (has_quality some quality))
   * nbo.owl
-1. frequency of drinking EquivalentTo BFO_0000056 some   
+* frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (frequency and (towards some liquid consumption))))
   * nbo.owl
-1. decreased frequency of drinking EquivalentTo BFO_0000056 some   
+* decreased frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (decreased frequency and (towards some liquid consumption))))
   * nbo.owl
-1. behavioral control of production of sound phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of production of sound phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of production of sound and (has_quality some quality))
   * nbo.owl
-1. increased amount of liquid in a single drinking act EquivalentTo BFO_0000056 some   
+* increased amount of liquid in a single drinking act EquivalentTo BFO_0000056 some   
 (GO_0042756 and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563))))
   * nbo.owl
-1. crying behavior phenotype EquivalentTo BFO_0000056 some   
+* crying behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0060273 and (has_quality some quality))
   * nbo.owl
-1. dipsosis EquivalentTo BFO_0000056 some   
+* dipsosis EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
-1. chemosensory behavior phenotype EquivalentTo BFO_0000056 some   
+* chemosensory behavior phenotype EquivalentTo BFO_0000056 some   
 (chemosensory behavior and (has_quality some quality))
   * nbo.owl
-1. vocalization behavior phenotype EquivalentTo BFO_0000056 some   
+* vocalization behavior phenotype EquivalentTo BFO_0000056 some   
 (vocalization behavior and (has_quality some quality))
   * nbo.owl
-1. mating frequency EquivalentTo BFO_0000056 some   
+* mating frequency EquivalentTo BFO_0000056 some   
 (mating behavior and (has_quality some frequency))
   * nbo.owl
-1. rapid eye movement sleep phenotype EquivalentTo BFO_0000056 some   
+* rapid eye movement sleep phenotype EquivalentTo BFO_0000056 some   
 (GO_0042747 and (has_quality some quality))
   * nbo.owl
-1. liquid preference/aversion EquivalentTo BFO_0000056 some   
+* liquid preference/aversion EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (rate and (towards some liquid consumption))))
   * nbo.owl
-1. food preference EquivalentTo BFO_0000056 some   
+* food preference EquivalentTo BFO_0000056 some   
 (GO_0060259 and (has_quality some increased rate))
   * nbo.owl
-1. locomotory behavior phenotype EquivalentTo BFO_0000056 some   
+* locomotory behavior phenotype EquivalentTo BFO_0000056 some   
 (locomotory behavior and (has_quality some quality))
   * nbo.owl
-1. behavioral control of urination phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of urination phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of urination and (has_quality some quality))
   * nbo.owl
-1. involuntary movement behavior phenotype EquivalentTo BFO_0000056 some   
+* involuntary movement behavior phenotype EquivalentTo BFO_0000056 some   
 (involuntary movement behavior and (has_quality some quality))
   * nbo.owl
-1. auditory behavior phenotype EquivalentTo BFO_0000056 some   
+* auditory behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0031223 and (has_quality some quality))
   * nbo.owl
-1. cutaneous sensation behavior phenotype EquivalentTo BFO_0000056 some   
+* cutaneous sensation behavior phenotype EquivalentTo BFO_0000056 some   
 (cutaneous sensation behavior and (has_quality some quality))
   * nbo.owl
-1. increased frequency of drinking EquivalentTo BFO_0000056 some   
+* increased frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (towards some liquid consumption))))
   * nbo.owl
-1. hyperdipsia EquivalentTo BFO_0000056 some   
+* hyperdipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001333) and (towards some liquid consumption))))
   * nbo.owl
-1. drinking behavior phenotype EquivalentTo BFO_0000056 some   
+* drinking behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0042756 and (has_quality some quality))
   * nbo.owl
-1. polyphagia EquivalentTo BFO_0000056 some   
+* polyphagia EquivalentTo BFO_0000056 some   
 (food consumption and (has_quality some increased rate))
   * nbo.owl
-1. REM frequency EquivalentTo BFO_0000056 some   
+* REM frequency EquivalentTo BFO_0000056 some   
 (GO_0042747 and (has_quality some frequency))
   * nbo.owl
-1. female courtship behavior phenotype EquivalentTo BFO_0000056 some   
+* female courtship behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0008050 and (has_quality some quality))
   * nbo.owl
-1. courtship behavior phenotype EquivalentTo BFO_0000056 some   
+* courtship behavior phenotype EquivalentTo BFO_0000056 some   
 (courtship behavior and (has_quality some quality))
   * nbo.owl
-1. somatic sensation related behavior phenotype EquivalentTo BFO_0000056 some   
+* somatic sensation related behavior phenotype EquivalentTo BFO_0000056 some   
 (somatic sensation related behavior and (has_quality some quality))
   * nbo.owl
-1. visual behavior phenotype EquivalentTo BFO_0000056 some   
+* visual behavior phenotype EquivalentTo BFO_0000056 some   
 (visual behavior and (has_quality some quality))
   * nbo.owl
-1. sleep duration EquivalentTo BFO_0000056 some   
+* sleep duration EquivalentTo BFO_0000056 some   
 (sleep and (has_quality some PATO_0001309))
   * nbo.owl
-1. alcohol preference EquivalentTo BFO_0000056 some   
+* alcohol preference EquivalentTo BFO_0000056 some   
 (regulation of alcohol preference behavior and (has_quality some increased rate))
   * nbo.owl
-1. kinesthetic behavior phenotype EquivalentTo BFO_0000056 some   
+* kinesthetic behavior phenotype EquivalentTo BFO_0000056 some   
 (kinesthetic behavior and (has_quality some quality))
   * nbo.owl
-1. cognitive behavior phenotype EquivalentTo BFO_0000056 some   
+* cognitive behavior phenotype EquivalentTo BFO_0000056 some   
 (cognitive behavior and (has_quality some quality))
   * nbo.owl
-1. NREM duration EquivalentTo BFO_0000056 some   
+* NREM duration EquivalentTo BFO_0000056 some   
 (non-rapid eye movement sleep behavior and (has_quality some PATO_0001309))
   * nbo.owl
-1. male sexual activity phenotype EquivalentTo BFO_0000056 some   
+* male sexual activity phenotype EquivalentTo BFO_0000056 some   
 (male sexual activity and (has_quality some quality))
   * nbo.owl
-1. female sexual activity phenotype EquivalentTo BFO_0000056 some   
+* female sexual activity phenotype EquivalentTo BFO_0000056 some   
 (female sexual activity and (has_quality some quality))
   * nbo.owl
-1. REM duration EquivalentTo BFO_0000056 some   
+* REM duration EquivalentTo BFO_0000056 some   
 (GO_0042747 and (has_quality some PATO_0001309))
   * nbo.owl
-1. learning behavior phenotype EquivalentTo BFO_0000056 some   
+* learning behavior phenotype EquivalentTo BFO_0000056 some   
 (learning behavior and (has_quality some quality))
   * nbo.owl
-1. food preference/aversion EquivalentTo BFO_0000056 some   
+* food preference/aversion EquivalentTo BFO_0000056 some   
 (GO_0060259 and (has_quality some rate))
   * nbo.owl
-1. behavioral control of defecation phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of defecation phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of defecation and (has_quality some quality))
   * nbo.owl
-1. feeding behavior phenotype EquivalentTo BFO_0000056 some   
+* feeding behavior phenotype EquivalentTo BFO_0000056 some   
 (feeding behavior and (has_quality some quality))
   * nbo.owl
-1. sexual activity phenotype EquivalentTo BFO_0000056 some   
+* sexual activity phenotype EquivalentTo BFO_0000056 some   
 (sexual activity and (has_quality some quality))
   * nbo.owl
-1. eating behavior phenotype EquivalentTo BFO_0000056 some   
+* eating behavior phenotype EquivalentTo BFO_0000056 some   
 (GO_0042755 and (has_quality some quality))
   * nbo.owl
-1. learning and/or memory behavior phenotype EquivalentTo BFO_0000056 some   
+* learning and/or memory behavior phenotype EquivalentTo BFO_0000056 some   
 (learning and/or memory behavior and (has_quality some quality))
   * nbo.owl
-1. non-rapid eye movement sleep behavior phenotype EquivalentTo BFO_0000056 some   
+* non-rapid eye movement sleep behavior phenotype EquivalentTo BFO_0000056 some   
 (non-rapid eye movement sleep behavior and (has_quality some quality))
   * nbo.owl
-1. vestibular behavior phenotype EquivalentTo BFO_0000056 some   
+* vestibular behavior phenotype EquivalentTo BFO_0000056 some   
 (vestibular behavior and (has_quality some quality))
   * nbo.owl
-1. motor coordination phenotype EquivalentTo BFO_0000056 some   
+* motor coordination phenotype EquivalentTo BFO_0000056 some   
 (motor coordination and (has_quality some quality))
   * nbo.owl
-1. saccharin preference EquivalentTo BFO_0000056 some   
+* saccharin preference EquivalentTo BFO_0000056 some   
 (regulation of saccharin preference behavior and (has_quality some increased rate))
   * nbo.owl
-1. polydipsia EquivalentTo BFO_0000056 some   
+* polydipsia EquivalentTo BFO_0000056 some   
 ((regulation of drinking behavior and (regulates some liquid consumption) and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))) and (qualifier some PATO_0001333))
   * nbo.owl
-1. behavioral control of external secretion phenotype EquivalentTo BFO_0000056 some   
+* behavioral control of external secretion phenotype EquivalentTo BFO_0000056 some   
 (behavioral control of external secretion and (has_quality some quality))
   * nbo.owl
-1. olfactory behavior phenotype EquivalentTo BFO_0000056 some   
+* olfactory behavior phenotype EquivalentTo BFO_0000056 some   
 (olfactory behavior and (has_quality some quality))
   * nbo.owl
-1. mobbing calling phenotype EquivalentTo BFO_0000056 some   
+* mobbing calling phenotype EquivalentTo BFO_0000056 some   
 (mobbing calling and (has_quality some quality))
   * nbo.owl
 
@@ -524,66 +524,66 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [dpo.owl, nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/nbo#qualifier>, <http://purl.obolibrary.org/obo/fbcv#qualifier>]
 ### http://purl.obolibrary.org/obo/nbo#qualifier
-1. hyperdipsia EquivalentTo BFO_0000056 some   
+* hyperdipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001333) and (towards some liquid consumption))))
   * nbo.owl
-1. dipsosis EquivalentTo BFO_0000056 some   
+* dipsosis EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
-1. polydipsia EquivalentTo BFO_0000056 some   
+* polydipsia EquivalentTo BFO_0000056 some   
 ((regulation of drinking behavior and (regulates some liquid consumption) and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))) and (qualifier some PATO_0001333))
   * nbo.owl
-1. adipsia EquivalentTo BFO_0000056 some   
+* adipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (decreased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
 ### http://purl.obolibrary.org/obo/fbcv#qualifier
-1. chemosensitive behavior defective EquivalentTo quality and (inheres_in some chemosensory behavior) and (qualifier some abnormal)
+* chemosensitive behavior defective EquivalentTo quality and (inheres_in some chemosensory behavior) and (qualifier some abnormal)
   * dpo.owl
-1. mating behavior defective EquivalentTo quality and (inheres_in some   
+* mating behavior defective EquivalentTo quality and (inheres_in some   
 (mating behavior or (behavior and (part_of some mating behavior)))) and (qualifier some abnormal)
   * dpo.owl
-1. locomotor behavior defective EquivalentTo quality and (inheres_in some locomotory behavior) and (qualifier some abnormal)
+* locomotor behavior defective EquivalentTo quality and (inheres_in some locomotory behavior) and (qualifier some abnormal)
   * dpo.owl
-1. feeding behavior defective EquivalentTo quality and (inheres_in some feeding behavior) and (qualifier some abnormal)
+* feeding behavior defective EquivalentTo quality and (inheres_in some feeding behavior) and (qualifier some abnormal)
   * dpo.owl
-1. hatching behavior defective EquivalentTo quality and (inheres_in some hatching behavior) and (qualifier some abnormal)
+* hatching behavior defective EquivalentTo quality and (inheres_in some hatching behavior) and (qualifier some abnormal)
   * dpo.owl
-1. memory defective EquivalentTo quality and (inheres_in some memory) and (qualifier some abnormal)
+* memory defective EquivalentTo quality and (inheres_in some memory) and (qualifier some abnormal)
   * dpo.owl
-1. behavior defective EquivalentTo quality and (inheres_in some behavior) and (qualifier some abnormal)
+* behavior defective EquivalentTo quality and (inheres_in some behavior) and (qualifier some abnormal)
   * dpo.owl
-1. mating rhythm defective EquivalentTo quality and (inheres_in some circadian mating behavior) and (qualifier some abnormal)
+* mating rhythm defective EquivalentTo quality and (inheres_in some circadian mating behavior) and (qualifier some abnormal)
   * dpo.owl
-1. learning defective EquivalentTo quality and (inheres_in some learning) and (qualifier some abnormal)
+* learning defective EquivalentTo quality and (inheres_in some learning) and (qualifier some abnormal)
   * dpo.owl
-1. courtship behavior defective EquivalentTo quality and (inheres_in some   
+* courtship behavior defective EquivalentTo quality and (inheres_in some   
 (courtship behavior or (behavior and (part_of some courtship behavior)))) and (qualifier some abnormal)
   * dpo.owl
-1. eclosion rhythm defective EquivalentTo quality and (inheres_in some eclosion rhythm) and (qualifier some abnormal)
+* eclosion rhythm defective EquivalentTo quality and (inheres_in some eclosion rhythm) and (qualifier some abnormal)
   * dpo.owl
-1. locomotor rhythm defective EquivalentTo quality and (inheres_in some locomotor rhythm) and (qualifier some abnormal)
+* locomotor rhythm defective EquivalentTo quality and (inheres_in some locomotor rhythm) and (qualifier some abnormal)
   * dpo.owl
-1. jump response defective EquivalentTo quality and (inheres_in some jump response) and (qualifier some abnormal)
+* jump response defective EquivalentTo quality and (inheres_in some jump response) and (qualifier some abnormal)
   * dpo.owl
-1. song defective EquivalentTo quality and (inheres_in some male courtship behavior, veined wing generated song production) and (qualifier some abnormal)
+* song defective EquivalentTo quality and (inheres_in some male courtship behavior, veined wing generated song production) and (qualifier some abnormal)
   * dpo.owl
-1. visual behavior defective EquivalentTo quality and (inheres_in some visual behavior) and (qualifier some abnormal)
+* visual behavior defective EquivalentTo quality and (inheres_in some visual behavior) and (qualifier some abnormal)
   * dpo.owl
-1. proboscis extension reflex defective EquivalentTo quality and (inheres_in some proboscis extension reflex) and (qualifier some abnormal)
+* proboscis extension reflex defective EquivalentTo quality and (inheres_in some proboscis extension reflex) and (qualifier some abnormal)
   * dpo.owl
-1. circadian behavior defective EquivalentTo quality and (inheres_in some circadian behavior) and (qualifier some abnormal)
+* circadian behavior defective EquivalentTo quality and (inheres_in some circadian behavior) and (qualifier some abnormal)
   * dpo.owl
-1. grooming behavior defective EquivalentTo quality and (inheres_in some grooming behavior) and (qualifier some abnormal)
+* grooming behavior defective EquivalentTo quality and (inheres_in some grooming behavior) and (qualifier some abnormal)
   * dpo.owl
-1. optomotor response defective EquivalentTo quality and (inheres_in some optokinetic behavior) and (qualifier some abnormal)
+* optomotor response defective EquivalentTo quality and (inheres_in some optokinetic behavior) and (qualifier some abnormal)
   * dpo.owl
-1. oviposition defective EquivalentTo quality and (inheres_in some oviposition) and (qualifier some abnormal)
+* oviposition defective EquivalentTo quality and (inheres_in some oviposition) and (qualifier some abnormal)
   * dpo.owl
-1. photoperiod response variant EquivalentTo quality and (inheres_in some entrainment of circadian clock by photoperiod) and (qualifier some abnormal)
+* photoperiod response variant EquivalentTo quality and (inheres_in some entrainment of circadian clock by photoperiod) and (qualifier some abnormal)
   * dpo.owl
 
 ## inheres_in (label)
@@ -591,51 +591,51 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [dpo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/RO_0000052>]
 ### http://purl.obolibrary.org/obo/RO_0000052
-1. chemosensitive behavior defective EquivalentTo quality and (inheres_in some chemosensory behavior) and (qualifier some abnormal)
+* chemosensitive behavior defective EquivalentTo quality and (inheres_in some chemosensory behavior) and (qualifier some abnormal)
   * dpo.owl
-1. mating behavior defective EquivalentTo quality and (inheres_in some   
+* mating behavior defective EquivalentTo quality and (inheres_in some   
 (mating behavior or (behavior and (part_of some mating behavior)))) and (qualifier some abnormal)
   * dpo.owl
-1. locomotor behavior defective EquivalentTo quality and (inheres_in some locomotory behavior) and (qualifier some abnormal)
+* locomotor behavior defective EquivalentTo quality and (inheres_in some locomotory behavior) and (qualifier some abnormal)
   * dpo.owl
-1. feeding behavior defective EquivalentTo quality and (inheres_in some feeding behavior) and (qualifier some abnormal)
+* feeding behavior defective EquivalentTo quality and (inheres_in some feeding behavior) and (qualifier some abnormal)
   * dpo.owl
-1. hatching behavior defective EquivalentTo quality and (inheres_in some hatching behavior) and (qualifier some abnormal)
+* hatching behavior defective EquivalentTo quality and (inheres_in some hatching behavior) and (qualifier some abnormal)
   * dpo.owl
-1. memory defective EquivalentTo quality and (inheres_in some memory) and (qualifier some abnormal)
+* memory defective EquivalentTo quality and (inheres_in some memory) and (qualifier some abnormal)
   * dpo.owl
-1. behavior defective EquivalentTo quality and (inheres_in some behavior) and (qualifier some abnormal)
+* behavior defective EquivalentTo quality and (inheres_in some behavior) and (qualifier some abnormal)
   * dpo.owl
-1. mating rhythm defective EquivalentTo quality and (inheres_in some circadian mating behavior) and (qualifier some abnormal)
+* mating rhythm defective EquivalentTo quality and (inheres_in some circadian mating behavior) and (qualifier some abnormal)
   * dpo.owl
-1. learning defective EquivalentTo quality and (inheres_in some learning) and (qualifier some abnormal)
+* learning defective EquivalentTo quality and (inheres_in some learning) and (qualifier some abnormal)
   * dpo.owl
-1. courtship behavior defective EquivalentTo quality and (inheres_in some   
+* courtship behavior defective EquivalentTo quality and (inheres_in some   
 (courtship behavior or (behavior and (part_of some courtship behavior)))) and (qualifier some abnormal)
   * dpo.owl
-1. eclosion rhythm defective EquivalentTo quality and (inheres_in some eclosion rhythm) and (qualifier some abnormal)
+* eclosion rhythm defective EquivalentTo quality and (inheres_in some eclosion rhythm) and (qualifier some abnormal)
   * dpo.owl
-1. locomotor rhythm defective EquivalentTo quality and (inheres_in some locomotor rhythm) and (qualifier some abnormal)
+* locomotor rhythm defective EquivalentTo quality and (inheres_in some locomotor rhythm) and (qualifier some abnormal)
   * dpo.owl
-1. jump response defective EquivalentTo quality and (inheres_in some jump response) and (qualifier some abnormal)
+* jump response defective EquivalentTo quality and (inheres_in some jump response) and (qualifier some abnormal)
   * dpo.owl
-1. song defective EquivalentTo quality and (inheres_in some male courtship behavior, veined wing generated song production) and (qualifier some abnormal)
+* song defective EquivalentTo quality and (inheres_in some male courtship behavior, veined wing generated song production) and (qualifier some abnormal)
   * dpo.owl
-1. visual behavior defective EquivalentTo quality and (inheres_in some visual behavior) and (qualifier some abnormal)
+* visual behavior defective EquivalentTo quality and (inheres_in some visual behavior) and (qualifier some abnormal)
   * dpo.owl
-1. proboscis extension reflex defective EquivalentTo quality and (inheres_in some proboscis extension reflex) and (qualifier some abnormal)
+* proboscis extension reflex defective EquivalentTo quality and (inheres_in some proboscis extension reflex) and (qualifier some abnormal)
   * dpo.owl
-1. circadian behavior defective EquivalentTo quality and (inheres_in some circadian behavior) and (qualifier some abnormal)
+* circadian behavior defective EquivalentTo quality and (inheres_in some circadian behavior) and (qualifier some abnormal)
   * dpo.owl
-1. grooming behavior defective EquivalentTo quality and (inheres_in some grooming behavior) and (qualifier some abnormal)
+* grooming behavior defective EquivalentTo quality and (inheres_in some grooming behavior) and (qualifier some abnormal)
   * dpo.owl
-1. optomotor response defective EquivalentTo quality and (inheres_in some optokinetic behavior) and (qualifier some abnormal)
+* optomotor response defective EquivalentTo quality and (inheres_in some optokinetic behavior) and (qualifier some abnormal)
   * dpo.owl
-1. uncoordinated EquivalentTo uncoordinated and (inheres_in some organism)
+* uncoordinated EquivalentTo uncoordinated and (inheres_in some organism)
   * dpo.owl
-1. oviposition defective EquivalentTo quality and (inheres_in some oviposition) and (qualifier some abnormal)
+* oviposition defective EquivalentTo quality and (inheres_in some oviposition) and (qualifier some abnormal)
   * dpo.owl
-1. photoperiod response variant EquivalentTo quality and (inheres_in some entrainment of circadian clock by photoperiod) and (qualifier some abnormal)
+* photoperiod response variant EquivalentTo quality and (inheres_in some entrainment of circadian clock by photoperiod) and (qualifier some abnormal)
   * dpo.owl
 
 ## is_about (label)
@@ -643,47 +643,47 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/nbo#is_about>]
 ### http://purl.obolibrary.org/obo/nbo#is_about
-1. behavioral control of urination EquivalentTo behavioral control of excretion and (by_means some UBERON_0001256) and (is_about some GO_0060073)
+* behavioral control of urination EquivalentTo behavioral control of excretion and (by_means some UBERON_0001256) and (is_about some GO_0060073)
   * nbo.owl
-1. behavioral control of lacrimation EquivalentTo behavioral control of external secretion and (by_means some UBERON_0001817) and (is_about some GO_0070075)
+* behavioral control of lacrimation EquivalentTo behavioral control of external secretion and (by_means some UBERON_0001817) and (is_about some GO_0070075)
   * nbo.owl
-1. vocal learning EquivalentTo associative learning behavior and (is_about some vocalization behavior)
+* vocal learning EquivalentTo associative learning behavior and (is_about some vocalization behavior)
   * nbo.owl
-1. behavioral control of external secretion EquivalentTo emission behavior and (is_about some GO_0007589)
+* behavioral control of external secretion EquivalentTo emission behavior and (is_about some GO_0007589)
   * nbo.owl
-1. colour constancy behavior EquivalentTo perceptual constancy behavior and (is_about some color)
+* colour constancy behavior EquivalentTo perceptual constancy behavior and (is_about some color)
   * nbo.owl
-1. rapid eye movement sleep EquivalentTo sleeping behavior and (is_about some GO_0042747)
+* rapid eye movement sleep EquivalentTo sleeping behavior and (is_about some GO_0042747)
   * nbo.owl
-1. size constancy behavior EquivalentTo perceptual constancy behavior and (is_about some size)
+* size constancy behavior EquivalentTo perceptual constancy behavior and (is_about some size)
   * nbo.owl
-1. form perception behavior EquivalentTo sensation behavior and (is_about some shape)
+* form perception behavior EquivalentTo sensation behavior and (is_about some shape)
   * nbo.owl
-1. shape constancy behavior EquivalentTo perceptual constancy behavior and (is_about some shape)
+* shape constancy behavior EquivalentTo perceptual constancy behavior and (is_about some shape)
   * nbo.owl
-1. emotional conditioning EquivalentTo classical conditioning and (is_about some emotional behavior)
+* emotional conditioning EquivalentTo classical conditioning and (is_about some emotional behavior)
   * nbo.owl
-1. motor learning EquivalentTo associative learning behavior and (is_about some motor coordination)
+* motor learning EquivalentTo associative learning behavior and (is_about some motor coordination)
   * nbo.owl
-1. behavioral control of defecation EquivalentTo behavioral control of excretion and (is_about some GO_0030421)
+* behavioral control of defecation EquivalentTo behavioral control of excretion and (is_about some GO_0030421)
   * nbo.owl
-1. spatial perception EquivalentTo sensation behavior and (is_about some size)
+* spatial perception EquivalentTo sensation behavior and (is_about some size)
   * nbo.owl
-1. circadian behavior EquivalentTo rhythmic behavior and (is_about some circadian rhythm)
+* circadian behavior EquivalentTo rhythmic behavior and (is_about some circadian rhythm)
   * nbo.owl
-1. depth perception behavior EquivalentTo sensation behavior and (is_about some PATO_0001595)
+* depth perception behavior EquivalentTo sensation behavior and (is_about some PATO_0001595)
   * nbo.owl
-1. eye blink conditioning behavior EquivalentTo classical conditioning and (is_about some blinking)
+* eye blink conditioning behavior EquivalentTo classical conditioning and (is_about some blinking)
   * nbo.owl
-1. jaw movement conditioning behavior EquivalentTo classical conditioning and (is_about some jaw movement)
+* jaw movement conditioning behavior EquivalentTo classical conditioning and (is_about some jaw movement)
   * nbo.owl
-1. fear conditioning EquivalentTo classical conditioning and (is_about some fear-related behavior)
+* fear conditioning EquivalentTo classical conditioning and (is_about some fear-related behavior)
   * nbo.owl
-1. language learning behavior EquivalentTo learning behavior and (is_about some language communication behavior)
+* language learning behavior EquivalentTo learning behavior and (is_about some language communication behavior)
   * nbo.owl
-1. distance perception behavior EquivalentTo spatial perception and (is_about some PATO_0000040)
+* distance perception behavior EquivalentTo spatial perception and (is_about some PATO_0000040)
   * nbo.owl
-1. behavioral control of excretion EquivalentTo emission behavior and (is_about some GO_0007588)
+* behavioral control of excretion EquivalentTo emission behavior and (is_about some GO_0007588)
   * nbo.owl
 
 ## in_response_to (label)
@@ -691,45 +691,45 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/nbo#in_response_to>]
 ### http://purl.obolibrary.org/obo/nbo#in_response_to
-1. visual behavior EquivalentTo sensation behavior and (in_response_to some GO_0007601)
+* visual behavior EquivalentTo sensation behavior and (in_response_to some GO_0007601)
   * nbo.owl
-1. thermosensory behavior EquivalentTo cutaneous sensation behavior and (in_response_to some GO_0050955)
+* thermosensory behavior EquivalentTo cutaneous sensation behavior and (in_response_to some GO_0050955)
   * nbo.owl
-1. cold sensation behavior EquivalentTo thermosensory behavior and (in_response_to some PATO_0001306)
+* cold sensation behavior EquivalentTo thermosensory behavior and (in_response_to some PATO_0001306)
   * nbo.owl
-1. hot sensation behavior EquivalentTo thermosensory behavior and (in_response_to some PATO_0001305)
+* hot sensation behavior EquivalentTo thermosensory behavior and (in_response_to some PATO_0001305)
   * nbo.owl
-1. thermal nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050965)
+* thermal nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050965)
   * nbo.owl
-1. behavioral response to morphine EquivalentTo behavioral response to addictive substance and (in_response_to some morphine consumption)
+* behavioral response to morphine EquivalentTo behavioral response to addictive substance and (in_response_to some morphine consumption)
   * nbo.owl
-1. nociceptive behavior EquivalentTo cutaneous sensation behavior and (in_response_to some GO_0019233)
+* nociceptive behavior EquivalentTo cutaneous sensation behavior and (in_response_to some GO_0019233)
   * nbo.owl
-1. behavioral response to xenobiotics EquivalentTo behavioral response to chemical stimulus and (in_response_to some (has_role some CHEBI_35703))
+* behavioral response to xenobiotics EquivalentTo behavioral response to chemical stimulus and (in_response_to some (has_role some CHEBI_35703))
   * nbo.owl
-1. electrical nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050967)
+* electrical nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050967)
   * nbo.owl
-1. taste behavior EquivalentTo chemosensory behavior and (in_response_to some sensory perception of taste)
+* taste behavior EquivalentTo chemosensory behavior and (in_response_to some sensory perception of taste)
   * nbo.owl
-1. chemical nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050968)
+* chemical nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050968)
   * nbo.owl
-1. mechanical nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050966)
+* mechanical nociceptive behavior EquivalentTo nociceptive behavior and (in_response_to some GO_0050966)
   * nbo.owl
-1. olfactory behavior EquivalentTo chemosensory behavior and (in_response_to some sensory perception of smell)
+* olfactory behavior EquivalentTo chemosensory behavior and (in_response_to some sensory perception of smell)
   * nbo.owl
-1. behavioral response to alcohol EquivalentTo behavioral response to addictive substance and (in_response_to some alcohol consumption)
+* behavioral response to alcohol EquivalentTo behavioral response to addictive substance and (in_response_to some alcohol consumption)
   * nbo.owl
-1. touch related behavior EquivalentTo cutaneous sensation behavior and (in_response_to some sensory perception of touch)
+* touch related behavior EquivalentTo cutaneous sensation behavior and (in_response_to some sensory perception of touch)
   * nbo.owl
-1. chemosensory behavior EquivalentTo behavioral response to chemical stimulus and (in_response_to some sensory perception of chemical stimulus)
+* chemosensory behavior EquivalentTo behavioral response to chemical stimulus and (in_response_to some sensory perception of chemical stimulus)
   * nbo.owl
-1. conditioned emotional response EquivalentTo associative learning behavior and (in_response_to some emotional conditioning)
+* conditioned emotional response EquivalentTo associative learning behavior and (in_response_to some emotional conditioning)
   * nbo.owl
-1. behavioral response to cocaine EquivalentTo behavioral response to addictive substance and (in_response_to some cocaine consumption)
+* behavioral response to cocaine EquivalentTo behavioral response to addictive substance and (in_response_to some cocaine consumption)
   * nbo.owl
-1. behavioral response to nicotine EquivalentTo behavioral response to addictive substance and (in_response_to some nicotine consumption)
+* behavioral response to nicotine EquivalentTo behavioral response to addictive substance and (in_response_to some nicotine consumption)
   * nbo.owl
-1. auditory behavior EquivalentTo sensation behavior and (in_response_to some sensory perception of sound)
+* auditory behavior EquivalentTo sensation behavior and (in_response_to some sensory perception of sound)
   * nbo.owl
 
 ## regulates (label)
@@ -737,48 +737,48 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/RO_0002211>]
 ### http://purl.obolibrary.org/obo/RO_0002211
-1. regulation of addiction response EquivalentTo regulates some addiction response
+* regulation of addiction response EquivalentTo regulates some addiction response
   * nbo.owl
-1. regulation of water consumption EquivalentTo regulates some water consumption
+* regulation of water consumption EquivalentTo regulates some water consumption
   * nbo.owl
-1. increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
+* increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (regulates some (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))))
   * nbo.owl
-1. regulation of nicotine consumption EquivalentTo regulates some nicotine consumption
+* regulation of nicotine consumption EquivalentTo regulates some nicotine consumption
   * nbo.owl
-1. regulation of alcohol consumption EquivalentTo regulates some alcohol consumption
+* regulation of alcohol consumption EquivalentTo regulates some alcohol consumption
   * nbo.owl
-1. regulation of drinking behavior EquivalentTo regulates some liquid consumption
+* regulation of drinking behavior EquivalentTo regulates some liquid consumption
   * nbo.owl
-1. regulation of feeding behavior EquivalentTo regulates some   
+* regulation of feeding behavior EquivalentTo regulates some   
 (liquid consumption or food consumption)
   * nbo.owl
-1. regulation of withdrawal response EquivalentTo regulates some withdrawal response
+* regulation of withdrawal response EquivalentTo regulates some withdrawal response
   * nbo.owl
-1. regulation of morphine consumption EquivalentTo regulates some morphine consumption
+* regulation of morphine consumption EquivalentTo regulates some morphine consumption
   * nbo.owl
-1. regulation of sexual activity EquivalentTo regulates some sexual activity
+* regulation of sexual activity EquivalentTo regulates some sexual activity
   * nbo.owl
-1. regulation of behavioral response to chemical stimulus EquivalentTo regulates some behavioral response to chemical stimulus
+* regulation of behavioral response to chemical stimulus EquivalentTo regulates some behavioral response to chemical stimulus
   * nbo.owl
-1. regulation of consumption behavior EquivalentTo regulates some consumption behavior
+* regulation of consumption behavior EquivalentTo regulates some consumption behavior
   * nbo.owl
-1. regulation of eating behavior EquivalentTo regulates some food consumption
+* regulation of eating behavior EquivalentTo regulates some food consumption
   * nbo.owl
-1. regulation of cocaine consumption EquivalentTo regulates some cocaine consumption
+* regulation of cocaine consumption EquivalentTo regulates some cocaine consumption
   * nbo.owl
-1. regulation of consumption of an addictive substance EquivalentTo regulates some consumption of an addictive substance
+* regulation of consumption of an addictive substance EquivalentTo regulates some consumption of an addictive substance
   * nbo.owl
-1. regulation of saccharin consumption EquivalentTo regulates some saccharin consumption
+* regulation of saccharin consumption EquivalentTo regulates some saccharin consumption
   * nbo.owl
-1. polydipsia EquivalentTo BFO_0000056 some   
+* polydipsia EquivalentTo BFO_0000056 some   
 ((regulation of drinking behavior and (regulates some liquid consumption) and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))) and (qualifier some PATO_0001333))
   * nbo.owl
-1. regulation of behavioral response to addictive substance EquivalentTo regulates some behavioral response to addictive substance
+* regulation of behavioral response to addictive substance EquivalentTo regulates some behavioral response to addictive substance
   * nbo.owl
-1. regulation of behavior EquivalentTo regulates some behavior
+* regulation of behavior EquivalentTo regulates some behavior
   * nbo.owl
 
 ## towards (label)
@@ -786,51 +786,51 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/pato#towards>]
 ### http://purl.obolibrary.org/obo/pato#towards
-1. increased frequency of drinking EquivalentTo BFO_0000056 some   
+* increased frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (towards some liquid consumption))))
   * nbo.owl
-1. hyperdipsia EquivalentTo BFO_0000056 some   
+* hyperdipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001333) and (towards some liquid consumption))))
   * nbo.owl
-1. decreased frequency of drinking EquivalentTo BFO_0000056 some   
+* decreased frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (decreased frequency and (towards some liquid consumption))))
   * nbo.owl
-1. anhedonia EquivalentTo has_quality some   
+* anhedonia EquivalentTo has_quality some   
 (lacking processual parts and (towards some pleasure behavior))
   * nbo.owl
-1. dipsosis EquivalentTo BFO_0000056 some   
+* dipsosis EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (increased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
-1. depressive disorder EquivalentTo has_quality some   
+* depressive disorder EquivalentTo has_quality some   
 (PATO_0002361 and (towards some depression behavior))
   * nbo.owl
-1. aphagia EquivalentTo has_quality some   
+* aphagia EquivalentTo has_quality some   
 (lacking processual parts and (towards some GO_0042755))
   * nbo.owl
-1. liquid aversion EquivalentTo BFO_0000056 some   
+* liquid aversion EquivalentTo BFO_0000056 some   
 (regulation of drinking preference behavior and (has_quality some   
 (decreased rate and (towards some liquid consumption))))
   * nbo.owl
-1. liquid preference EquivalentTo BFO_0000056 some   
+* liquid preference EquivalentTo BFO_0000056 some   
 (regulation of drinking preference behavior and (has_quality some   
 (increased rate and (towards some liquid consumption))))
   * nbo.owl
-1. adipsia EquivalentTo BFO_0000056 some   
+* adipsia EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (decreased frequency and (qualifier some PATO_0001863) and (towards some liquid consumption))))
   * nbo.owl
-1. liquid preference/aversion EquivalentTo BFO_0000056 some   
+* liquid preference/aversion EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (rate and (towards some liquid consumption))))
   * nbo.owl
-1. forgetfulness EquivalentTo has_quality some   
+* forgetfulness EquivalentTo has_quality some   
 (PATO_0002361 and (towards some memory loss behavior))
   * nbo.owl
-1. frequency of drinking EquivalentTo BFO_0000056 some   
+* frequency of drinking EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (has_quality some   
 (frequency and (towards some liquid consumption))))
   * nbo.owl
@@ -840,29 +840,29 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/nbo#has_participant>]
 ### http://purl.obolibrary.org/obo/nbo#has_participant
-1. feeding behavior EquivalentTo consumption behavior and ((has_participant some CHEBI_33290) or (has_participant some PATO_0000145))
+* feeding behavior EquivalentTo consumption behavior and ((has_participant some CHEBI_33290) or (has_participant some PATO_0000145))
   * nbo.owl
-1. regulation of alcohol preference behavior EquivalentTo regulation of drinking preference behavior and (has_participant some CHEBI_16236)
+* regulation of alcohol preference behavior EquivalentTo regulation of drinking preference behavior and (has_participant some CHEBI_16236)
   * nbo.owl
-1. alcohol consumption EquivalentTo liquid consumption and (has_participant some CHEBI_16236)
+* alcohol consumption EquivalentTo liquid consumption and (has_participant some CHEBI_16236)
   * nbo.owl
-1. saccharin consumption EquivalentTo food consumption and (has_participant some CHEBI_32111)
+* saccharin consumption EquivalentTo food consumption and (has_participant some CHEBI_32111)
   * nbo.owl
-1. cocaine consumption EquivalentTo consumption of an addictive substance and (has_participant some CHEBI_27958)
+* cocaine consumption EquivalentTo consumption of an addictive substance and (has_participant some CHEBI_27958)
   * nbo.owl
-1. limb posture EquivalentTo posture and (has_participant some UBERON_0002101)
+* limb posture EquivalentTo posture and (has_participant some UBERON_0002101)
   * nbo.owl
-1. nicotine consumption EquivalentTo consumption of an addictive substance and (has_participant some CHEBI_18723)
+* nicotine consumption EquivalentTo consumption of an addictive substance and (has_participant some CHEBI_18723)
   * nbo.owl
-1. food consumption EquivalentTo feeding behavior and (has_participant some CHEBI_33290)
+* food consumption EquivalentTo feeding behavior and (has_participant some CHEBI_33290)
   * nbo.owl
-1. morphine consumption EquivalentTo consumption of an addictive substance and (has_participant some CHEBI_17303)
+* morphine consumption EquivalentTo consumption of an addictive substance and (has_participant some CHEBI_17303)
   * nbo.owl
-1. water consumption EquivalentTo liquid consumption and (has_participant some CHEBI_15377)
+* water consumption EquivalentTo liquid consumption and (has_participant some CHEBI_15377)
   * nbo.owl
-1. regulation of saccharin preference behavior EquivalentTo regulation of eating preference behavior and (has_participant some CHEBI_32111)
+* regulation of saccharin preference behavior EquivalentTo regulation of eating preference behavior and (has_participant some CHEBI_32111)
   * nbo.owl
-1. body posture EquivalentTo posture and (has_participant some UBERON_0000309)
+* body posture EquivalentTo posture and (has_participant some UBERON_0000309)
   * nbo.owl
 
 ## by_means (label)
@@ -870,21 +870,21 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/nbo#by_means>]
 ### http://purl.obolibrary.org/obo/nbo#by_means
-1. behavioral control of urination EquivalentTo behavioral control of excretion and (by_means some UBERON_0001256) and (is_about some GO_0060073)
+* behavioral control of urination EquivalentTo behavioral control of excretion and (by_means some UBERON_0001256) and (is_about some GO_0060073)
   * nbo.owl
-1. visual hallucination EquivalentTo hallucination and (by_means some UBERON_0002104)
+* visual hallucination EquivalentTo hallucination and (by_means some UBERON_0002104)
   * nbo.owl
-1. behavioral control of lacrimation EquivalentTo behavioral control of external secretion and (by_means some UBERON_0001817) and (is_about some GO_0070075)
+* behavioral control of lacrimation EquivalentTo behavioral control of external secretion and (by_means some UBERON_0001817) and (is_about some GO_0070075)
   * nbo.owl
-1. vocal aggression behavior EquivalentTo aggressive behavior and (by_means some vocalization behavior)
+* vocal aggression behavior EquivalentTo aggressive behavior and (by_means some vocalization behavior)
   * nbo.owl
-1. reflexive behavior EquivalentTo involuntary movement behavior and (by_means some reflex)
+* reflexive behavior EquivalentTo involuntary movement behavior and (by_means some reflex)
   * nbo.owl
-1. irritable aggressive behavior EquivalentTo GO_0002118 and (by_means some irritability behavior)
+* irritable aggressive behavior EquivalentTo GO_0002118 and (by_means some irritability behavior)
   * nbo.owl
-1. auditory hallucination EquivalentTo hallucination and (by_means some UBERON_0002105)
+* auditory hallucination EquivalentTo hallucination and (by_means some UBERON_0002105)
   * nbo.owl
-1. olfactory hallucination EquivalentTo hallucination and (by_means some UBERON_0005725)
+* olfactory hallucination EquivalentTo hallucination and (by_means some UBERON_0005725)
   * nbo.owl
 
 ## has-input (label)
@@ -892,15 +892,15 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/nbo#has-input>]
 ### http://purl.obolibrary.org/obo/nbo#has-input
-1. increased amount of liquid in a single drinking act EquivalentTo BFO_0000056 some   
+* increased amount of liquid in a single drinking act EquivalentTo BFO_0000056 some   
 (GO_0042756 and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563))))
   * nbo.owl
-1. increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
+* increased amount of liquid in drinking regulation  EquivalentTo BFO_0000056 some   
 (regulation of drinking behavior and (regulates some (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))))
   * nbo.owl
-1. polydipsia EquivalentTo BFO_0000056 some   
+* polydipsia EquivalentTo BFO_0000056 some   
 ((regulation of drinking behavior and (regulates some liquid consumption) and (has-input some   
 (PATO_0000145 and (has_quality some PATO_0001563)))) and (qualifier some PATO_0001333))
   * nbo.owl
@@ -910,10 +910,10 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [dpo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/BFO_0000050>]
 ### http://purl.obolibrary.org/obo/BFO_0000050
-1. courtship behavior defective EquivalentTo quality and (inheres_in some   
+* courtship behavior defective EquivalentTo quality and (inheres_in some   
 (courtship behavior or (behavior and (part_of some courtship behavior)))) and (qualifier some abnormal)
   * dpo.owl
-1. mating behavior defective EquivalentTo quality and (inheres_in some   
+* mating behavior defective EquivalentTo quality and (inheres_in some   
 (mating behavior or (behavior and (part_of some mating behavior)))) and (qualifier some abnormal)
   * dpo.owl
 
@@ -922,7 +922,7 @@ See generated dataset for complete view of the data.
 * Ontologies make use of this relation: [nbo.owl]
 * Relations used for this label: [<http://purl.obolibrary.org/obo/chebi#has_role>]
 ### http://purl.obolibrary.org/obo/chebi#has_role
-1. behavioral response to xenobiotics EquivalentTo behavioral response to chemical stimulus and (in_response_to some (has_role some CHEBI_35703))
+* behavioral response to xenobiotics EquivalentTo behavioral response to chemical stimulus and (in_response_to some (has_role some CHEBI_35703))
   * nbo.owl
 
 # Prominent classes used across definitions
@@ -2049,279 +2049,279 @@ Omitting classes that only occur in one definition
 Omitting entities that occur only once.
 
 * http://purl.obolibrary.org/obo/uberon#has_quality (has_quality)
-   *nbo.owl: 77
+   * nbo.owl: 77
 
 * http://purl.obolibrary.org/obo/BFO_0000056 (BFO_0000056)
-   *nbo.owl: 73
+   * nbo.owl: 73
 
 * http://purl.obolibrary.org/obo/PATO_0000001 (quality)
-   *dpo.owl: 21
-   *nbo.owl: 47
+   * dpo.owl: 21
+   * nbo.owl: 47
 
 * http://purl.obolibrary.org/obo/RO_0000052 (inheres_in)
-   *dpo.owl: 22
+   * dpo.owl: 22
 
 * http://purl.obolibrary.org/obo/PATO_0000460 (abnormal)
-   *dpo.owl: 21
+   * dpo.owl: 21
 
 * http://purl.obolibrary.org/obo/fbcv#qualifier (qualifier)
-   *dpo.owl: 21
+   * dpo.owl: 21
 
 * http://purl.obolibrary.org/obo/nbo#is_about (is_about)
-   *nbo.owl: 21
+   * nbo.owl: 21
 
 * http://purl.obolibrary.org/obo/nbo#in_response_to (in_response_to)
-   *nbo.owl: 20
+   * nbo.owl: 20
 
 * http://purl.obolibrary.org/obo/RO_0002211 (regulates)
-   *nbo.owl: 19
+   * nbo.owl: 19
 
 * http://purl.obolibrary.org/obo/NBO_0000130 (liquid consumption)
-   *nbo.owl: 14
+   * nbo.owl: 14
 
 * http://purl.obolibrary.org/obo/pato#towards (towards)
-   *nbo.owl: 13
+   * nbo.owl: 13
 
 * http://purl.obolibrary.org/obo/nbo#has_participant (has_participant)
-   *nbo.owl: 12
+   * nbo.owl: 12
 
 * http://purl.obolibrary.org/obo/NBO_0000064 (regulation of drinking behavior)
-   *nbo.owl: 10
+   * nbo.owl: 10
 
 * http://purl.obolibrary.org/obo/nbo#by_means (by_means)
-   *nbo.owl: 8
+   * nbo.owl: 8
 
 * http://purl.obolibrary.org/obo/NBO_0000308 (sensation behavior)
-   *nbo.owl: 6
+   * nbo.owl: 6
 
 * http://purl.obolibrary.org/obo/NBO_0000134 (food consumption)
-   *nbo.owl: 5
+   * nbo.owl: 5
 
 * http://purl.obolibrary.org/obo/NBO_0000331 (nociceptive behavior)
-   *nbo.owl: 5
+   * nbo.owl: 5
 
 * http://purl.obolibrary.org/obo/PATO_0000912 (increased rate)
-   *nbo.owl: 5
+   * nbo.owl: 5
 
 * http://purl.obolibrary.org/obo/NBO_0001728 (behavioral response to addictive substance)
-   *nbo.owl: 5
+   * nbo.owl: 5
 
 * http://purl.obolibrary.org/obo/nbo#qualifier (qualifier)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/GO_0042747 (GO_0042747)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/NBO_0000038 (behavioral control of excretion)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/NBO_0000330 (cutaneous sensation behavior)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/PATO_0000044 (frequency)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/NBO_0001884 (consumption of an addictive substance)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/NBO_0000208 (classical conditioning)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/PATO_0000145 (PATO_0000145)
-   *nbo.owl: 4
+   * nbo.owl: 4
 
 * http://purl.obolibrary.org/obo/NBO_0000171 (associative learning behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0001952 (morphine consumption)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000035 (emission behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000037 (vocalization behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/PATO_0001309 (PATO_0001309)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000161 (non-rapid eye movement sleep behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000041 (behavioral control of external secretion)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000608 (hallucination)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000131 (alcohol consumption)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/GO_0060259 (GO_0060259)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0001915 (cocaine consumption)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/GO_0007617 (mating behavior)
-   *dpo.owl: 1
-   *nbo.owl: 2
+   * dpo.owl: 1
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/GO_0007610 (behavior)
-   *dpo.owl: 3
+   * dpo.owl: 3
 
 * http://purl.obolibrary.org/obo/behavior.owl/NBO_0002702 (regulation of alcohol preference behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/PATO_0000161 (rate)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0002086 (nicotine consumption)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000225 (perceptual constancy behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/nbo#has-input (has-input)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000322 (chemosensory behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000326 (thermosensory behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/PATO_0000911 (decreased rate)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/PATO_0001563 (PATO_0001563)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0001632 (behavioral response to chemical stimulus)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/PATO_0000380 (increased frequency)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/NBO_0000079 (feeding behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/behavior.owl/NBO_0002660 (regulation of drinking preference behavior)
-   *nbo.owl: 3
+   * nbo.owl: 3
 
 * http://purl.obolibrary.org/obo/GO_0048512 (circadian behavior)
-   *dpo.owl: 1
-   *nbo.owl: 1
+   * dpo.owl: 1
+   * nbo.owl: 1
 
 * http://purl.obolibrary.org/obo/NBO_0000746 (spatial perception)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/CHEBI_16236 (CHEBI_16236)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000034 (sexual activity)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000039 (behavioral control of defecation)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/PATO_0001558 (lacking processual parts)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/GO_0042756 (GO_0042756)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/GO_0042755 (GO_0042755)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000040 (behavioral control of urination)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000042 (behavioral control of lacrimation)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000132 (water consumption)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/GO_0007635 (chemosensory behavior)
-   *dpo.owl: 1
-   *nbo.owl: 1
+   * dpo.owl: 1
+   * nbo.owl: 1
 
 * http://purl.obolibrary.org/obo/NBO_0000136 (saccharin consumption)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/GO_0007632 (visual behavior)
-   *dpo.owl: 1
-   *nbo.owl: 1
+   * dpo.owl: 1
+   * nbo.owl: 1
 
 * http://purl.obolibrary.org/obo/NBO_0000022 (learning behavior)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000024 (sleeping behavior)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/GO_0007626 (locomotory behavior)
-   *dpo.owl: 1
-   *nbo.owl: 1
+   * dpo.owl: 1
+   * nbo.owl: 1
 
 * http://purl.obolibrary.org/obo/NBO_0000388 (involuntary movement behavior)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/GO_0007619 (courtship behavior)
-   *dpo.owl: 1
-   *nbo.owl: 1
+   * dpo.owl: 1
+   * nbo.owl: 1
 
 * http://purl.obolibrary.org/obo/NBO_0000355 (posture)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000003 (emotional behavior)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/PATO_0001863 (PATO_0001863)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000339 (motor coordination)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/CHEBI_33290 (CHEBI_33290)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/BFO_0000050 (part_of)
-   *dpo.owl: 2
+   * dpo.owl: 2
 
 * http://purl.obolibrary.org/obo/PATO_0002361 (PATO_0002361)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/PATO_0000052 (shape)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000323 (olfactory behavior)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/PATO_0001333 (PATO_0001333)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0000778 (emotional conditioning)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/PATO_0000117 (size)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/PATO_0000381 (decreased frequency)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/CHEBI_32111 (CHEBI_32111)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/NBO_0001845 (consumption behavior)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 * http://purl.obolibrary.org/obo/behavior.owl/NBO_0002794 (regulation of saccharin preference behavior)
-   *nbo.owl: 2
+   * nbo.owl: 2
 
 # Definition Analysis: Grammar and constructs
+* Class: 552
+* ObjectIntersectionOf: 173
 * ObjectUnionOf: 4
 * ObjectSomeValuesFrom: 297
-* ObjectIntersectionOf: 173
-* Class: 552
 * Number of definitions across all ontologies: 175

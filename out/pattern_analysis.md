@@ -20,25 +20,25 @@ kable(head(df_ec,20),row.names = FALSE)
 
 
 
-|entity_class   |entity_label                               |oid     | mentioned|entity                                             |X  |
-|:--------------|:------------------------------------------|:-------|---------:|:--------------------------------------------------|:--|
-|ObjectProperty |has_quality                                |nbo.owl |        77|http://purl.obolibrary.org/obo/uberon#has_quality  |NA |
-|ObjectProperty |BFO_0000056                                |nbo.owl |        73|http://purl.obolibrary.org/obo/BFO_0000056         |NA |
-|Class          |quality                                    |nbo.owl |        47|http://purl.obolibrary.org/obo/PATO_0000001        |NA |
-|ObjectProperty |inheres_in                                 |dpo.owl |        22|http://purl.obolibrary.org/obo/RO_0000052          |NA |
-|Class          |quality                                    |dpo.owl |        21|http://purl.obolibrary.org/obo/PATO_0000001        |NA |
-|Class          |abnormal                                   |dpo.owl |        21|http://purl.obolibrary.org/obo/PATO_0000460        |NA |
-|ObjectProperty |qualifier                                  |dpo.owl |        21|http://purl.obolibrary.org/obo/fbcv#qualifier      |NA |
-|ObjectProperty |is_about                                   |nbo.owl |        21|http://purl.obolibrary.org/obo/nbo#is_about        |NA |
-|ObjectProperty |in_response_to                             |nbo.owl |        20|http://purl.obolibrary.org/obo/nbo#in_response_to  |NA |
-|ObjectProperty |regulates                                  |nbo.owl |        19|http://purl.obolibrary.org/obo/RO_0002211          |NA |
-|Class          |liquid consumption                         |nbo.owl |        14|http://purl.obolibrary.org/obo/NBO_0000130         |NA |
-|ObjectProperty |towards                                    |nbo.owl |        13|http://purl.obolibrary.org/obo/pato#towards        |NA |
-|ObjectProperty |has_participant                            |nbo.owl |        12|http://purl.obolibrary.org/obo/nbo#has_participant |NA |
-|Class          |regulation of drinking behavior            |nbo.owl |        10|http://purl.obolibrary.org/obo/NBO_0000064         |NA |
-|ObjectProperty |by_means                                   |nbo.owl |         8|http://purl.obolibrary.org/obo/nbo#by_means        |NA |
-|Class          |sensation behavior                         |nbo.owl |         6|http://purl.obolibrary.org/obo/NBO_0000308         |NA |
-|Class          |food consumption                           |nbo.owl |         5|http://purl.obolibrary.org/obo/NBO_0000134         |NA |
-|Class          |nociceptive behavior                       |nbo.owl |         5|http://purl.obolibrary.org/obo/NBO_0000331         |NA |
-|Class          |increased rate                             |nbo.owl |         5|http://purl.obolibrary.org/obo/PATO_0000912        |NA |
-|Class          |behavioral response to addictive substance |nbo.owl |         5|http://purl.obolibrary.org/obo/NBO_0001728         |NA |
+|entity_label                               |entity_class   | mentioned|entity                                             |oid     |X  |
+|:------------------------------------------|:--------------|---------:|:--------------------------------------------------|:-------|:--|
+|has_quality                                |ObjectProperty |        77|http://purl.obolibrary.org/obo/uberon#has_quality  |nbo.owl |NA |
+|BFO_0000056                                |ObjectProperty |        73|http://purl.obolibrary.org/obo/BFO_0000056         |nbo.owl |NA |
+|quality                                    |Class          |        47|http://purl.obolibrary.org/obo/PATO_0000001        |nbo.owl |NA |
+|inheres_in                                 |ObjectProperty |        22|http://purl.obolibrary.org/obo/RO_0000052          |dpo.owl |NA |
+|quality                                    |Class          |        21|http://purl.obolibrary.org/obo/PATO_0000001        |dpo.owl |NA |
+|abnormal                                   |Class          |        21|http://purl.obolibrary.org/obo/PATO_0000460        |dpo.owl |NA |
+|qualifier                                  |ObjectProperty |        21|http://purl.obolibrary.org/obo/fbcv#qualifier      |dpo.owl |NA |
+|is_about                                   |ObjectProperty |        21|http://purl.obolibrary.org/obo/nbo#is_about        |nbo.owl |NA |
+|in_response_to                             |ObjectProperty |        20|http://purl.obolibrary.org/obo/nbo#in_response_to  |nbo.owl |NA |
+|regulates                                  |ObjectProperty |        19|http://purl.obolibrary.org/obo/RO_0002211          |nbo.owl |NA |
+|liquid consumption                         |Class          |        14|http://purl.obolibrary.org/obo/NBO_0000130         |nbo.owl |NA |
+|towards                                    |ObjectProperty |        13|http://purl.obolibrary.org/obo/pato#towards        |nbo.owl |NA |
+|has_participant                            |ObjectProperty |        12|http://purl.obolibrary.org/obo/nbo#has_participant |nbo.owl |NA |
+|regulation of drinking behavior            |Class          |        10|http://purl.obolibrary.org/obo/NBO_0000064         |nbo.owl |NA |
+|by_means                                   |ObjectProperty |         8|http://purl.obolibrary.org/obo/nbo#by_means        |nbo.owl |NA |
+|sensation behavior                         |Class          |         6|http://purl.obolibrary.org/obo/NBO_0000308         |nbo.owl |NA |
+|food consumption                           |Class          |         5|http://purl.obolibrary.org/obo/NBO_0000134         |nbo.owl |NA |
+|nociceptive behavior                       |Class          |         5|http://purl.obolibrary.org/obo/NBO_0000331         |nbo.owl |NA |
+|increased rate                             |Class          |         5|http://purl.obolibrary.org/obo/PATO_0000912        |nbo.owl |NA |
+|behavioral response to addictive substance |Class          |         5|http://purl.obolibrary.org/obo/NBO_0001728         |nbo.owl |NA |
