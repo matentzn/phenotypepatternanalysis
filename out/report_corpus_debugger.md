@@ -1,4 +1,4 @@
-[[Compatibility analysis of corpus /data/corpus]]
+[[Compatibility analysis of corpus /data/dockerdata/corpus]]
 
 # Analysing individual ontologies for 
 ## Ontology: http://purl.obolibrary.org/obo/dpo.owl
