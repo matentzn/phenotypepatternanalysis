@@ -2,7 +2,7 @@
 
 # Settings
 repo=/ws/phenotypepatternanalysis
-corpus=corpus_small.zip
+corpus=corpus_med.zip
 data=/data/dockerdata
 
 # Pipeline
