@@ -2,30 +2,30 @@
 # Definitions Impact
 Report only considers patterns with at least 100 indirect instances.
 See generated dataset for complete view of the data.
-http://ebi.ac.uk#Pattern824
-BFO_0000056 some  
-    (NBO_0000313   
-     and (has_quality some PATO_0000001))   
-Direct SubClasses overall: 5
-Indirect SubClasses overall: 166
-Direct SubClasses nbo.owl: 5
-Indirect SubClasses nbo.owl: 165
-
-http://ebi.ac.uk#Pattern246
-BFO_0000056 some 
-    (GO_0008150
+* http://ebi.ac.uk#Pattern824
+  * BFO_0000056 some   
+    (NBO_0000313  
      and (has_quality some PATO_0000001))
-Direct SubClasses overall: 0
-Indirect SubClasses overall: 115
-Indirect SubClasses nbo.owl: 114
+  * Direct SubClasses overall: 5
+  * Indirect SubClasses overall: 166
+  * Direct SubClasses nbo.owl: 5
+  * Indirect SubClasses nbo.owl: 165
 
-http://ebi.ac.uk#Pattern485
-BFO_0000056 some 
-    (Thing
+* http://ebi.ac.uk#Pattern246
+  * BFO_0000056 some   
+    (GO_0008150  
      and (has_quality some PATO_0000001))
-Direct SubClasses overall: 0
-Indirect SubClasses overall: 177
-Indirect SubClasses nbo.owl: 176
+  * Direct SubClasses overall: 0
+  * Indirect SubClasses overall: 115
+  * Indirect SubClasses nbo.owl: 114
+
+* http://ebi.ac.uk#Pattern485
+  * BFO_0000056 some   
+    (Thing  
+     and (has_quality some PATO_0000001))
+  * Direct SubClasses overall: 0
+  * Indirect SubClasses overall: 177
+  * Indirect SubClasses nbo.owl: 176
 
 
 # Prominent relations used across definitions
