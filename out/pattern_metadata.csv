@@ -1,0 +1,4125 @@
+m2_dpo.owl,m1_nbo.owl,m1_dpo.owl,m2_nbo.owl,definition,m2_union,definition_name,m1_union,
+,1,,1,"sensation behavior
+ and (is_about some PATO_0000040)",2,http://ebi.ac.uk#Pattern729,1,
+,,,2,"BFO_0000056 some 
+    (Thing
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",3,http://ebi.ac.uk#Pattern728,0,
+1,,1,,"dependent continuant
+ and (inheres_in some jump response)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern727,1,
+3,,,,"quality
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some Thing)",4,http://ebi.ac.uk#Pattern969,0,
+1,,1,,"dependent continuant
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern726,1,
+,1,,1,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some rate))",2,http://ebi.ac.uk#Pattern968,1,
+24,,24,,"quality
+ and (inheres_in some 
+    (behavior or (behavior
+     and (part_of some behavior))))
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern725,1,
+,1,,1,"cutaneous sensation behavior
+ and (in_response_to some GO_0050965)",2,http://ebi.ac.uk#Pattern967,1,
+,,,13,"BFO_0000056 some 
+    (locomotory behavior
+     and (has_quality some Thing))",14,http://ebi.ac.uk#Pattern724,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some increased object quality))))",2,http://ebi.ac.uk#Pattern966,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased rate
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern723,1,
+,,,35,"BFO_0000056 some 
+    (kinesthetic behavior
+     and (has_quality some Thing))",36,http://ebi.ac.uk#Pattern965,0,
+,,,1,"BFO_0000056 some 
+    (vocalization behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern722,0,
+,1,,1,"consumption behavior
+ and (has_participant some CHEBI_27958)",2,http://ebi.ac.uk#Pattern964,1,
+2,,,,"Thing
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern721,0,
+,,,1,"Thing
+ and (has_participant some CHEBI_17303)",2,http://ebi.ac.uk#Pattern963,0,
+,,,2,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern720,0,
+,,,6,"associative learning behavior
+ and (is_about some Thing)",7,http://ebi.ac.uk#Pattern962,0,
+,2,,2,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern961,1,
+,1,,1,"BFO_0000056 some 
+    (olfactory behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern960,1,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern739,0,
+,3,,3,"BFO_0000056 some 
+    (behavioral control of excretion
+     and (has_quality some dependent continuant))",4,http://ebi.ac.uk#Pattern738,1,
+,,,1,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some PATO_0001309))",2,http://ebi.ac.uk#Pattern737,0,
+,,,4,"BFO_0000056 some 
+    (sexual activity
+     and (has_quality some continuant))",5,http://ebi.ac.uk#Pattern979,0,
+,,,1,"has_quality some 
+    (PATO_0001727
+     and (towards some memory loss behavior))",2,http://ebi.ac.uk#Pattern736,0,
+,1,,1,"cutaneous sensation behavior
+ and (in_response_to some PATO_0001305)",2,http://ebi.ac.uk#Pattern978,1,
+,,,1,"behavior
+ and (in_response_to some morphine consumption)",2,http://ebi.ac.uk#Pattern735,0,
+,1,,1,"regulation of eating behavior
+ and (has_participant some CHEBI_32111)",2,http://ebi.ac.uk#Pattern977,1,
+,1,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_26456)",2,http://ebi.ac.uk#Pattern734,1,
+,2,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some feeding behavior))))",3,http://ebi.ac.uk#Pattern976,1,
+,,,3,"behavior
+ and (in_response_to some GO_0050955)",4,http://ebi.ac.uk#Pattern733,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some behavior))))",2,http://ebi.ac.uk#Pattern975,0,
+,,,14,"BFO_0000056 some 
+    (involuntary movement behavior
+     and (has_quality some continuant))",15,http://ebi.ac.uk#Pattern732,0,
+1,,,,"quality
+ and (inheres_in some oviposition)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern974,0,
+,,,1,"cognitive behavior
+ and (has_participant some UBERON_0002101)",2,http://ebi.ac.uk#Pattern731,0,
+,,,6,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (frequency
+         and (towards some liquid consumption))))",7,http://ebi.ac.uk#Pattern973,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some Thing))))",2,http://ebi.ac.uk#Pattern730,0,
+1,,,,"quality
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern972,0,
+,2,,2,"emission behavior
+ and (is_about some GO_0050878)",3,http://ebi.ac.uk#Pattern971,1,
+,,,5,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (increased rate
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern970,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some Thing)))))",2,http://ebi.ac.uk#Pattern709,0,
+,,,1,"GO_0002118
+ and (by_means some Thing)",2,http://ebi.ac.uk#Pattern708,0,
+,10,,10,"rhythmic process
+ and (is_about some circadian rhythm)",11,http://ebi.ac.uk#Pattern707,1,
+1,,,,"quality
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern949,0,
+,,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_26421)",2,http://ebi.ac.uk#Pattern706,0,
+3,,,,"quality
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some qualitative)",4,http://ebi.ac.uk#Pattern948,0,
+,2,,2,"BFO_0000056 some 
+    (chemosensory behavior
+     and (has_quality some dependent continuant))",3,http://ebi.ac.uk#Pattern705,1,
+,,,1,"cognitive behavior
+ and (in_response_to some alcohol consumption)",2,http://ebi.ac.uk#Pattern947,0,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some increased quality))",2,http://ebi.ac.uk#Pattern704,0,
+,,,4,"BFO_0000056 some 
+    (GO_0035176
+     and (has_quality some continuant))",5,http://ebi.ac.uk#Pattern946,0,
+1,,,,"quality
+ and (inheres_in some oviposition)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern703,0,
+1,,,,"quality
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern945,0,
+,,,1,"BFO_0000056 some 
+    (response to abiotic stimulus
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern702,0,
+1,,1,,"quality
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern944,1,
+,,,11,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (rate
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern701,0,
+,,,5,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern943,0,
+,,,,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some Thing)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern700,1,
+1,,,,"quality
+ and (inheres_in some learning)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern942,0,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0065008)",2,http://ebi.ac.uk#Pattern941,1,
+,1,,1,"cutaneous sensation behavior
+ and (in_response_to some GO_0050968)",2,http://ebi.ac.uk#Pattern940,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some increased process quality))",2,http://ebi.ac.uk#Pattern719,1,
+,1,,1,"BFO_0000056 some 
+    (sleeping behavior
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern718,1,
+,,,1,"nociceptive behavior
+ and (in_response_to some GO_0050982)",2,http://ebi.ac.uk#Pattern717,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0000125))))",2,http://ebi.ac.uk#Pattern959,1,
+,,,1,"nociceptive behavior
+ and (in_response_to some GO_0050981)",2,http://ebi.ac.uk#Pattern716,0,
+,,,10,"BFO_0000056 some 
+    (emission behavior
+     and (has_quality some continuant))",11,http://ebi.ac.uk#Pattern958,0,
+,,,3,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern715,0,
+,,,1,"liquid consumption
+ and (has_participant some CHEBI_36902)",2,http://ebi.ac.uk#Pattern957,0,
+,1,,1,"social behavior
+ and (is_about some motor coordination)",2,http://ebi.ac.uk#Pattern714,1,
+,,,1,"associative learning behavior
+ and (is_about some emission behavior)",2,http://ebi.ac.uk#Pattern956,0,
+1,,1,,"quality
+ and (inheres_in some memory)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern713,1,
+,1,,1,"associative learning behavior
+ and (is_about some behavioral control of production of sound)",2,http://ebi.ac.uk#Pattern955,1,
+,,,55,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some Thing))",56,http://ebi.ac.uk#Pattern712,0,
+24,,,,"quality
+ and (inheres_in some behavior)
+ and (qualifier some qualitative)",25,http://ebi.ac.uk#Pattern954,0,
+,,,2,"Thing
+ and (has_participant some CHEBI_27958)",3,http://ebi.ac.uk#Pattern711,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some feeding behavior))))",2,http://ebi.ac.uk#Pattern953,1,
+,,,3,"BFO_0000056 some 
+    (behavioral control of excretion
+     and (has_quality some continuant))",4,http://ebi.ac.uk#Pattern710,0,
+24,,24,,"quality
+ and (inheres_in some behavior)
+ and (qualifier some deviation(from_normal))",25,http://ebi.ac.uk#Pattern952,1,
+1,,,,"quality
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern951,0,
+1,,1,,"quality
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern950,1,
+,53,,53,"BFO_0000056 some 
+    (sleeping behavior
+     and (has_quality some dependent continuant))",54,http://ebi.ac.uk#Pattern97,1,
+,25,,25,"regulates some 
+    (food consumption or behavior)",26,http://ebi.ac.uk#Pattern1192,1,
+,,,1,"BFO_0000056 some 
+    (GO_0008050
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern98,0,
+,,,1,"food consumption
+ and (has_participant some Thing)",2,http://ebi.ac.uk#Pattern1191,0,
+1,,,,"Thing
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern95,0,
+,,,,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some behavior)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern1194,1,
+,3,,3,"somatic sensation related behavior
+ and (in_response_to some GO_0050955)",4,http://ebi.ac.uk#Pattern96,1,
+,2,,2,"emission behavior
+ and (is_about some secretion)",3,http://ebi.ac.uk#Pattern1193,1,
+,,,1,"BFO_0000056 some 
+    (visual behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern93,0,
+,,,1,"posture
+ and (has_participant some UBERON_0000026)",2,http://ebi.ac.uk#Pattern1196,0,
+1,,,,"Thing
+ and (inheres_in some memory)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern94,0,
+,,,1,"somatic sensation related behavior
+ and (has_participant some UBERON_0000309)",2,http://ebi.ac.uk#Pattern1195,0,
+,1,,1,"multi-organism behavior
+ and (by_means some irritability behavior)",2,http://ebi.ac.uk#Pattern91,1,
+,,,1,"behavior
+ and (is_about some PATO_0000040)",2,http://ebi.ac.uk#Pattern1198,0,
+,,,2,"BFO_0000056 some 
+    (multicellular organismal process
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern92,0,
+,,,,"BFO_0000056 some 
+    ((regulation of consumption behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern1197,1,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some consumption behavior))))",3,http://ebi.ac.uk#Pattern90,0,
+,,,1,"has_quality some 
+    (continuant
+     and (towards some pleasure behavior))",2,http://ebi.ac.uk#Pattern1190,0,
+,,,3,"Thing
+ and (in_response_to some GO_0050955)",4,http://ebi.ac.uk#Pattern929,0,
+,,,1,"Thing
+ and (in_response_to some morphine consumption)",2,http://ebi.ac.uk#Pattern928,0,
+1,,1,,"dependent continuant
+ and (inheres_in some memory)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern927,1,
+1,,1,,"quality
+ and (inheres_in some feeding behavior)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern926,1,
+24,,,,"quality
+ and (inheres_in some biological_process)
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern925,0,
+,1,,1,"behavioral response to xenobiotics
+ and (in_response_to some nicotine consumption)",2,http://ebi.ac.uk#Pattern924,1,
+,2,,2,"associative learning behavior
+ and (is_about some emotional behavior)",3,http://ebi.ac.uk#Pattern923,1,
+,,,1,"associative learning behavior
+ and (in_response_to some social behavior)",2,http://ebi.ac.uk#Pattern922,0,
+1,,,,"quality
+ and (inheres_in some feeding behavior)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern921,0,
+,,,1,"cognitive behavior
+ and (has_participant some UBERON_0000309)",2,http://ebi.ac.uk#Pattern920,0,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (Thing
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern1199,0,
+,1,,1,"feeding behavior
+ and (has_participant some CHEBI_16236)",2,http://ebi.ac.uk#Pattern99,1,
+1,,,,"quality
+ and (inheres_in some hatching behavior)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern1181,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (qualitative
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1180,0,
+,,,1,"somatic sensation related behavior
+ and (has_participant some UBERON_0002101)",2,http://ebi.ac.uk#Pattern1183,0,
+,,,3,"hallucination
+ and (by_means some UBERON_0000480)",4,http://ebi.ac.uk#Pattern1182,0,
+16,,16,,"quality
+ and (inheres_in some single-organism behavior)
+ and (qualifier some abnormal)",17,http://ebi.ac.uk#Pattern1185,4,
+,,,6,"cognitive behavior
+ and (in_response_to some GO_0019233)",7,http://ebi.ac.uk#Pattern1184,0,
+1,,,,"continuant
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1187,0,
+,20,,20,"BFO_0000056 some 
+    (voluntary movement behavior
+     and (has_quality some dependent continuant))",21,http://ebi.ac.uk#Pattern1186,1,
+,1,,1,"cutaneous sensation behavior
+ and (in_response_to some GO_0050967)",2,http://ebi.ac.uk#Pattern939,1,
+,1,,1,"cutaneous sensation behavior
+ and (in_response_to some GO_0050966)",2,http://ebi.ac.uk#Pattern938,1,
+,,,3,"BFO_0000056 some 
+    (non-rapid eye movement sleep behavior
+     and (has_quality some continuant))",4,http://ebi.ac.uk#Pattern937,0,
+,,,9,"BFO_0000056 some 
+    (vestibular behavior
+     and (has_quality some Thing))",10,http://ebi.ac.uk#Pattern936,0,
+,,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_38260)",2,http://ebi.ac.uk#Pattern935,0,
+,,,1,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern934,0,
+,,,1,"has_quality some 
+    (PATO_0002361
+     and (towards some learning and/or memory behavior))",2,http://ebi.ac.uk#Pattern933,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some Thing))))",2,http://ebi.ac.uk#Pattern932,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (Thing
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern931,0,
+,16,,16,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some dependent continuant))",17,http://ebi.ac.uk#Pattern1189,1,
+,13,,13,"has_quality some 
+    (PATO_0002361
+     and (towards some emotional behavior))",14,http://ebi.ac.uk#Pattern930,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased quality
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1188,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some Thing))))",2,http://ebi.ac.uk#Pattern909,0,
+,,,2,"BFO_0000056 some 
+    (circadian rhythm
+     and (has_quality some frequency))",3,http://ebi.ac.uk#Pattern908,0,
+,6,,6,"behavioral response to addictive substance
+ and (in_response_to some Thing)",7,http://ebi.ac.uk#Pattern907,2,
+,,,7,"BFO_0000056 some 
+    (behavior
+     and (has_quality some frequency))",8,http://ebi.ac.uk#Pattern906,0,
+,,,5,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased process quality
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern905,0,
+,,,2,"behavior
+ and (has_participant some CHEBI_16236)",3,http://ebi.ac.uk#Pattern904,0,
+,,,1,"Thing
+ and (in_response_to some GO_0050968)",2,http://ebi.ac.uk#Pattern903,0,
+,,,3,"BFO_0000056 some 
+    (courtship behavior
+     and (has_quality some continuant))",4,http://ebi.ac.uk#Pattern902,0,
+,1,,1,"social behavior
+ and (in_response_to some emotional conditioning)",2,http://ebi.ac.uk#Pattern901,1,
+,,,1,"Thing
+ and (in_response_to some GO_0050965)",2,http://ebi.ac.uk#Pattern900,0,
+2,,2,,"dependent continuant
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern919,1,
+1,,,,"quality
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern918,0,
+,,,1,"associative learning behavior
+ and (in_response_to some learning and/or memory behavior)",2,http://ebi.ac.uk#Pattern917,0,
+,1,,1,regulates some regulation of consumption of an addictive substance,2,http://ebi.ac.uk#Pattern916,1,
+1,,1,,"quality
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern915,1,
+,8,,8,"BFO_0000056 some 
+    (vestibular behavior
+     and (has_quality some quality))",9,http://ebi.ac.uk#Pattern914,2,
+1,,,,"quality
+ and (inheres_in some memory)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern913,0,
+,,,6,"BFO_0000056 some 
+    (mating behavior
+     and (has_quality some continuant))",7,http://ebi.ac.uk#Pattern912,0,
+2,,,,"quality
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some Thing)",3,http://ebi.ac.uk#Pattern911,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some increased quality))))
+     and (qualifier some PATO_0001333))",2,http://ebi.ac.uk#Pattern910,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (process quality
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern53,0,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern54,0,
+,,,,"emission behavior
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0060073)",1,http://ebi.ac.uk#Pattern51,1,
+,,,10,"Thing
+ and ((has_participant some CHEBI_33290) or (has_participant some PATO_0000145))",11,http://ebi.ac.uk#Pattern1150,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (dependent continuant
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern52,0,
+,,,1,"BFO_0000056 some 
+    (GO_0060273
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern1152,0,
+,,,1,"BFO_0000056 some 
+    (occurrent
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern50,0,
+,1,,1,"consumption behavior
+ and (has_participant some CHEBI_18723)",2,http://ebi.ac.uk#Pattern1151,1,
+,,,1,"associative learning behavior
+ and (in_response_to some behavior)",2,http://ebi.ac.uk#Pattern1154,0,
+1,,,,"quality
+ and (inheres_in some learning)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1153,0,
+,,,2,"BFO_0000056 some 
+    (non-rapid eye movement sleep behavior
+     and (has_quality some quality))",3,http://ebi.ac.uk#Pattern1156,0,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some Thing))",4,http://ebi.ac.uk#Pattern1155,0,
+,,,2,"social behavior
+ and (is_about some emotional behavior)",3,http://ebi.ac.uk#Pattern59,0,
+4,,4,,"dependent continuant
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern1158,1,
+,,,6,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some increased rate))",7,http://ebi.ac.uk#Pattern1157,0,
+,,,2,"BFO_0000056 some 
+    (single-organism behavior
+     and (has_quality some frequency))",3,http://ebi.ac.uk#Pattern57,0,
+4,,4,,"quality
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some deviation(from_normal))",5,http://ebi.ac.uk#Pattern58,1,
+,26,,26,"BFO_0000056 some 
+    (cognitive behavior
+     and (has_quality some quality))",27,http://ebi.ac.uk#Pattern1159,9,
+2,,,,"quality
+ and (inheres_in some system process)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern55,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (decreased quality
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern56,0,
+,,,1,"has_quality some 
+    (lacking processual parts
+     and (towards some behavior))",2,http://ebi.ac.uk#Pattern64,0,
+,1,,1,"posture
+ and (has_participant some UBERON_0009569)",2,http://ebi.ac.uk#Pattern65,1,
+,25,,25,"BFO_0000056 some 
+    (feeding behavior
+     and (has_quality some quality))",26,http://ebi.ac.uk#Pattern62,2,
+,,,1,"learning and/or memory behavior
+ and (in_response_to some emotional conditioning)",2,http://ebi.ac.uk#Pattern63,0,
+4,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some qualitative)",5,http://ebi.ac.uk#Pattern60,0,
+,2,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some feeding behavior))))",3,http://ebi.ac.uk#Pattern1141,1,
+,1,,1,"behavioral response to xenobiotics
+ and (in_response_to some morphine consumption)",2,http://ebi.ac.uk#Pattern61,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (frequency
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1140,1,
+,,,1,"BFO_0000056 some 
+    (regulation of mating preference
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern1143,0,
+4,,4,,"quality
+ and (inheres_in some rhythmic behavior)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern1142,1,
+,,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_38166)",2,http://ebi.ac.uk#Pattern1145,0,
+,3,,3,"chemosensory behavior
+ and (in_response_to some system process)",4,http://ebi.ac.uk#Pattern1144,2,
+,1,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_38164)",2,http://ebi.ac.uk#Pattern1147,1,
+,,,1,"cognitive behavior
+ and (in_response_to some sensory perception of touch)",2,http://ebi.ac.uk#Pattern1146,0,
+,,,53,"BFO_0000056 some 
+    (sleeping behavior
+     and (has_quality some continuant))",54,http://ebi.ac.uk#Pattern68,0,
+,,,25,"regulates some 
+    (liquid consumption or Thing)",26,http://ebi.ac.uk#Pattern1149,0,
+,,,1,"Thing
+ and (in_response_to some nicotine consumption)",2,http://ebi.ac.uk#Pattern69,0,
+,,,1,"liquid consumption
+ and (has_participant some CHEBI_2571)",2,http://ebi.ac.uk#Pattern1148,0,
+,,,2,"emission behavior
+ and (is_about some transport)",3,http://ebi.ac.uk#Pattern66,0,
+,1,,1,"BFO_0000056 some 
+    (cutaneous sensation behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern67,1,
+,,,1,"cognitive behavior
+ and (in_response_to some PATO_0001306)",2,http://ebi.ac.uk#Pattern75,0,
+,,,4,"BFO_0000056 some 
+    (behavior
+     and (has_quality some decreased rate))",5,http://ebi.ac.uk#Pattern1170,0,
+,,,2,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some increased quality))",3,http://ebi.ac.uk#Pattern76,0,
+,,,1,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some decreased quality))",2,http://ebi.ac.uk#Pattern73,0,
+,1,,1,"has_quality some 
+    (PATO_0002361
+     and (towards some memory behavior))",2,http://ebi.ac.uk#Pattern1172,1,
+,,,1,"behavior
+ and (by_means some UBERON_0005725)",2,http://ebi.ac.uk#Pattern74,0,
+,,,7,"BFO_0000056 some 
+    (behavior
+     and (has_quality some increased rate))",8,http://ebi.ac.uk#Pattern1171,0,
+,14,,14,"BFO_0000056 some 
+    (emotional behavior
+     and (has_quality some dependent continuant))",15,http://ebi.ac.uk#Pattern71,1,
+,,,1,"BFO_0000056 some 
+    (mating behavior
+     and (has_quality some process quality))",2,http://ebi.ac.uk#Pattern1174,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern72,1,
+1,,,,"Thing
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1173,0,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some deviation(from_normal)))",4,http://ebi.ac.uk#Pattern1176,0,
+,1,,1,"regulation of drinking preference behavior
+ and (has_participant some CHEBI_50584)",2,http://ebi.ac.uk#Pattern70,1,
+,1,,1,"behavior
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0060073)",2,http://ebi.ac.uk#Pattern1175,1,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some qualitative))",4,http://ebi.ac.uk#Pattern1178,0,
+,,,13,"BFO_0000056 some 
+    (reproductive behavior
+     and (has_quality some Thing))",14,http://ebi.ac.uk#Pattern1177,0,
+1,,,,"quality
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1179,0,
+,,,6,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (frequency
+         and (towards some liquid consumption))))",7,http://ebi.ac.uk#Pattern79,0,
+1,,,,"quality
+ and (inheres_in some biological regulation)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern77,0,
+,,,1,"cognitive behavior
+ and (in_response_to some PATO_0001305)",2,http://ebi.ac.uk#Pattern78,0,
+1,,,,"quality
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern86,0,
+,,,1,"cognitive behavior
+ and (is_about some color)",2,http://ebi.ac.uk#Pattern87,0,
+,1,,1,"posture
+ and (has_participant some UBERON_0004708)",2,http://ebi.ac.uk#Pattern84,1,
+,,,1,"liquid consumption
+ and (has_participant some CHEBI_24651)",2,http://ebi.ac.uk#Pattern1161,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (continuant
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern85,0,
+1,,,,"quality
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1160,0,
+,2,,2,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some increased process quality))",3,http://ebi.ac.uk#Pattern82,1,
+1,,,,"quality
+ and (inheres_in some memory)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1163,0,
+,,,1,"has_quality some 
+    (Thing
+     and (towards some memory loss behavior))",2,http://ebi.ac.uk#Pattern83,0,
+,,,1,"BFO_0000056 some 
+    (memory behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern1162,0,
+,,,1,"has_quality some 
+    (dependent continuant
+     and (towards some GO_0042755))",2,http://ebi.ac.uk#Pattern80,0,
+2,,,,"quality
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some dependent continuant)",3,http://ebi.ac.uk#Pattern1165,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some decreased process quality))",2,http://ebi.ac.uk#Pattern81,1,
+,3,,3,"chemosensory behavior
+ and (in_response_to some sensory perception)",4,http://ebi.ac.uk#Pattern1164,2,
+,1,,1,"learning behavior
+ and (is_about some communication behavior)",2,http://ebi.ac.uk#Pattern1167,1,
+7,,7,,"quality
+ and (inheres_in some single-multicellular organism process)
+ and (qualifier some abnormal)",8,http://ebi.ac.uk#Pattern1166,2,
+,,,3,"hallucination
+ and (by_means some UBERON_0000467)",4,http://ebi.ac.uk#Pattern1169,0,
+,,,3,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some Thing))",4,http://ebi.ac.uk#Pattern1168,0,
+,10,,10,"rhythmic behavior
+ and (is_about some rhythmic process)",11,http://ebi.ac.uk#Pattern88,1,
+,6,,6,"somatic sensation related behavior
+ and (in_response_to some GO_0019233)",7,http://ebi.ac.uk#Pattern89,1,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some process quality))",2,http://ebi.ac.uk#Pattern10,0,
+1,,,,"continuant
+ and (inheres_in some memory)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1350,0,
+24,,,,"quality
+ and (inheres_in some behavior)
+ and (qualifier some dependent continuant)",25,http://ebi.ac.uk#Pattern1110,0,
+2,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some dependent continuant)",3,http://ebi.ac.uk#Pattern1352,0,
+2,,,,"continuant
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern1351,0,
+,,,1,"BFO_0000056 some 
+    (GO_0031223
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern1119,0,
+2,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some qualitative)",3,http://ebi.ac.uk#Pattern19,0,
+,1,,1,"spatial perception
+ and (is_about some physical quality)",2,http://ebi.ac.uk#Pattern17,1,
+,11,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (rate
+         and (towards some feeding behavior))))",12,http://ebi.ac.uk#Pattern1112,1,
+,12,,12,"BFO_0000056 some 
+    (reproductive behavior
+     and (has_quality some quality))",13,http://ebi.ac.uk#Pattern1354,2,
+2,,2,,"quality
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some deviation(from_normal))",3,http://ebi.ac.uk#Pattern18,1,
+,,,1,"Thing
+ and (is_about some motor coordination)",2,http://ebi.ac.uk#Pattern1111,0,
+,,,1,"associative learning behavior
+ and (is_about some cognitive behavior)",2,http://ebi.ac.uk#Pattern1353,0,
+,,,4,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some dependent continuant))",5,http://ebi.ac.uk#Pattern15,0,
+,,,10,"single-organism process
+ and (is_about some circadian rhythm)",11,http://ebi.ac.uk#Pattern1114,0,
+,,,1,"nociceptive behavior
+ and (in_response_to some GO_0016048)",2,http://ebi.ac.uk#Pattern1356,0,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern16,0,
+1,,,,"quality
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1113,0,
+,19,,19,"regulates some 
+    (liquid consumption or consumption behavior)",20,http://ebi.ac.uk#Pattern1355,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased process quality
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern13,0,
+,,,1,"sensation behavior
+ and (in_response_to some alcohol consumption)",2,http://ebi.ac.uk#Pattern1116,0,
+,,,3,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1358,0,
+1,,,,"quality
+ and (inheres_in some oviposition)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern14,0,
+,5,,5,"consumption behavior
+ and ((has_participant some CHEBI_24432) or (has_participant some PATO_0000145))",6,http://ebi.ac.uk#Pattern1115,1,
+,,,1,"cognitive behavior
+ and (in_response_to some cocaine consumption)",2,http://ebi.ac.uk#Pattern1357,0,
+,,,1,"BFO_0000056 some 
+    (cutaneous sensation behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern11,0,
+2,,2,,"dependent continuant
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern1118,1,
+,4,,4,regulates some liquid consumption,5,http://ebi.ac.uk#Pattern12,3,
+10,,10,,"quality
+ and (inheres_in some occurrent)
+ and (qualifier some abnormal)",11,http://ebi.ac.uk#Pattern1117,2,
+4,,,,"quality
+ and (inheres_in some locomotory behavior)
+ and (qualifier some qualitative)",5,http://ebi.ac.uk#Pattern20,0,
+,,,4,"behavioral response to chemical stimulus
+ and (in_response_to some biological_process)",5,http://ebi.ac.uk#Pattern21,0,
+,,,2,"classical conditioning
+ and (is_about some kinesthetic behavior)",3,http://ebi.ac.uk#Pattern1341,0,
+,,,10,"BFO_0000056 some 
+    (GO_0042755
+     and (has_quality some continuant))",11,http://ebi.ac.uk#Pattern1340,0,
+,,,60,"behavior
+ and (by_means some reflex)",61,http://ebi.ac.uk#Pattern1109,0,
+4,,,,"quality
+ and (inheres_in some circadian behavior)
+ and (qualifier some continuant)",5,http://ebi.ac.uk#Pattern1108,0,
+1,,1,,"dependent continuant
+ and (inheres_in some hatching behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern28,1,
+,,,9,"behavior
+ and (in_response_to some (has_role some CHEBI_35703))",10,http://ebi.ac.uk#Pattern1101,0,
+,,,13,"has_quality some 
+    (physical object quality
+     and (towards some depression behavior))",14,http://ebi.ac.uk#Pattern1343,0,
+,,,1,"learning and/or memory behavior
+ and (is_about some blinking)",2,http://ebi.ac.uk#Pattern29,0,
+1,,,,"quality
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern1100,0,
+,,,1,"aggressive behavior
+ and (by_means some emission behavior)",2,http://ebi.ac.uk#Pattern1342,0,
+,,,1,"BFO_0000056 some 
+    (olfactory behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern26,0,
+,,,1,"cognitive behavior
+ and (is_about some language communication behavior)",2,http://ebi.ac.uk#Pattern1103,0,
+,1,,1,"aggressive behavior
+ and (by_means some behavioral control of production of sound)",2,http://ebi.ac.uk#Pattern1345,1,
+,1,,1,"has_quality some 
+    (lacking processual parts
+     and (towards some feeding behavior))",2,http://ebi.ac.uk#Pattern27,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of sexual activity
+     and (has_quality some rate))",2,http://ebi.ac.uk#Pattern1102,1,
+1,,,,"continuant
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1344,0,
+4,,4,,"quality
+ and (inheres_in some locomotory behavior)
+ and (qualifier some deviation(from_normal))",5,http://ebi.ac.uk#Pattern24,1,
+,,,1,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1105,0,
+,13,,13,"BFO_0000056 some 
+    (multicellular organismal reproductive process
+     and (has_quality some quality))",14,http://ebi.ac.uk#Pattern1347,1,
+,,,3,"consumption of an addictive substance
+ and (has_participant some Thing)",4,http://ebi.ac.uk#Pattern25,0,
+,60,,60,"kinesthetic behavior
+ and (by_means some reflex)",61,http://ebi.ac.uk#Pattern1104,1,
+,,,74,"BFO_0000056 some 
+    (response to stimulus
+     and (has_quality some quality))",75,http://ebi.ac.uk#Pattern1346,0,
+,1,,1,"BFO_0000056 some 
+    (multi-organism behavior
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern22,1,
+,,,3,"cognitive behavior
+ and (in_response_to some GO_0050955)",4,http://ebi.ac.uk#Pattern1107,0,
+,4,,4,"BFO_0000056 some 
+    (GO_0050795
+     and (has_quality some rate))",5,http://ebi.ac.uk#Pattern1349,1,
+,2,,2,"behavior
+ and (has_participant some CHEBI_33290)",3,http://ebi.ac.uk#Pattern23,1,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some process quality)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1106,0,
+,,,18,"sensation behavior
+ and (in_response_to some neurological system process)",19,http://ebi.ac.uk#Pattern1348,0,
+,,,1,"learning and/or memory behavior
+ and (is_about some jaw movement)",2,http://ebi.ac.uk#Pattern31,0,
+,,,1,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",2,http://ebi.ac.uk#Pattern32,0,
+,,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_36586)",2,http://ebi.ac.uk#Pattern30,0,
+,1,,1,"BFO_0000056 some 
+    (mating behavior
+     and (has_quality some rate))",2,http://ebi.ac.uk#Pattern1130,1,
+,3,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (rate
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1132,2,
+,,,1,"somatic sensation related behavior
+ and (in_response_to some PATO_0001305)",2,http://ebi.ac.uk#Pattern1131,0,
+,,,1,"behavior
+ and (is_about some language communication behavior)",2,http://ebi.ac.uk#Pattern39,0,
+,,,1,"somatic sensation related behavior
+ and (in_response_to some PATO_0001306)",2,http://ebi.ac.uk#Pattern1134,0,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (quality
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern1133,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (decreased process quality
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern37,1,
+,,,1,"behavior
+ and (is_about some color)",2,http://ebi.ac.uk#Pattern1136,0,
+,1,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some rate))",2,http://ebi.ac.uk#Pattern38,1,
+1,,1,,"coordination
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern1135,1,
+,,,10,"cutaneous sensation behavior
+ and (in_response_to some neurological system process)",11,http://ebi.ac.uk#Pattern35,0,
+,3,,3,"chemosensory behavior
+ and (in_response_to some sensory perception of chemical stimulus)",4,http://ebi.ac.uk#Pattern1138,2,
+,,,1,"BFO_0000056 some 
+    (sleep
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern36,0,
+,,,4,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some decreased rate))",5,http://ebi.ac.uk#Pattern1137,0,
+,2,,2,"BFO_0000056 some 
+    (non-rapid eye movement sleep behavior
+     and (has_quality some physical quality of a process))",3,http://ebi.ac.uk#Pattern33,1,
+,,,1,"regulation of eating preference behavior
+ and (has_participant some Thing)",2,http://ebi.ac.uk#Pattern34,0,
+1,,,,"quality
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern1139,0,
+,13,,13,"has_quality some 
+    (increased object quality
+     and (towards some depression behavior))",14,http://ebi.ac.uk#Pattern42,1,
+,6,,6,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (frequency
+         and (towards some liquid consumption))))",7,http://ebi.ac.uk#Pattern43,1,
+,2,,2,"BFO_0000056 some 
+    (GO_0022410
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern40,1,
+,,,7,"sensation behavior
+ and (is_about some physical object quality)",8,http://ebi.ac.uk#Pattern41,0,
+,,,4,regulates some cognitive behavior,5,http://ebi.ac.uk#Pattern1121,0,
+,,,9,"Thing
+ and (in_response_to some (has_role some CHEBI_35703))",10,http://ebi.ac.uk#Pattern1120,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some physical quality))))
+     and (qualifier some PATO_0001333))",2,http://ebi.ac.uk#Pattern1123,0,
+4,,4,,"quality
+ and (inheres_in some circadian rhythm)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern1122,1,
+,,,1,"behavioral response to chemical stimulus
+ and (in_response_to some morphine consumption)",2,http://ebi.ac.uk#Pattern48,0,
+3,,,,"quality
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some dependent continuant)",4,http://ebi.ac.uk#Pattern1125,0,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (rate
+         and (towards some consumption behavior))))",12,http://ebi.ac.uk#Pattern49,0,
+1,,,,"Thing
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1124,0,
+,,,1,"BFO_0000056 some 
+    (multi-organism process
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern46,0,
+,,,4,"classical conditioning
+ and (is_about some Thing)",5,http://ebi.ac.uk#Pattern1127,0,
+,3,,3,regulates some behavioral response to xenobiotics,4,http://ebi.ac.uk#Pattern47,1,
+,,,10,"rhythmic behavior
+ and (is_about some Thing)",11,http://ebi.ac.uk#Pattern1126,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0008050
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern44,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some increased process quality)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1129,1,
+,1,,1,"BFO_0000056 some 
+    (GO_0042748
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern45,1,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0004859)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern1128,1,
+,,,1,"somatic sensation related behavior
+ and (in_response_to some GO_0050968)",2,http://ebi.ac.uk#Pattern175,0,
+,,,1,"somatic sensation related behavior
+ and (in_response_to some GO_0050967)",2,http://ebi.ac.uk#Pattern174,0,
+,,,1,"somatic sensation related behavior
+ and (in_response_to some GO_0050966)",2,http://ebi.ac.uk#Pattern173,0,
+,,,1,"somatic sensation related behavior
+ and (in_response_to some GO_0050965)",2,http://ebi.ac.uk#Pattern172,0,
+1,,,,"quality
+ and (inheres_in some oviposition)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern171,0,
+1,,,,"Thing
+ and (inheres_in some learning)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern170,0,
+,,,4,"behavioral response to addictive substance
+ and (in_response_to some consumption behavior)",5,http://ebi.ac.uk#Pattern1318,0,
+1,,,,"quality
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern1317,0,
+,,,1,"has_quality some 
+    (Thing
+     and (towards some GO_0042755))",2,http://ebi.ac.uk#Pattern1319,0,
+,,,10,"Thing
+ and (is_about some circadian rhythm)",11,http://ebi.ac.uk#Pattern1310,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some consumption behavior))))",3,http://ebi.ac.uk#Pattern1312,0,
+,1,,1,"social behavior
+ and (is_about some vocalization behavior)",2,http://ebi.ac.uk#Pattern169,1,
+,,,10,"cutaneous sensation behavior
+ and (in_response_to some multicellular organismal process)",11,http://ebi.ac.uk#Pattern1311,0,
+,,,1,"BFO_0000056 some 
+    (behavioral response to chemical stimulus
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern168,0,
+,3,,3,"sensation behavior
+ and (is_about some size)",4,http://ebi.ac.uk#Pattern1314,1,
+,,,1,"consumption behavior
+ and (has_participant some CHEBI_32111)",2,http://ebi.ac.uk#Pattern167,0,
+1,,,,"continuant
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1313,0,
+,2,,2,"aggressive behavior
+ and (by_means some behavior)",3,http://ebi.ac.uk#Pattern166,1,
+,,,4,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some continuant))",5,http://ebi.ac.uk#Pattern1316,0,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (rate
+         and (towards some behavior))))",12,http://ebi.ac.uk#Pattern165,0,
+,,,3,"BFO_0000056 some 
+    (non-rapid eye movement sleep behavior
+     and (has_quality some Thing))",4,http://ebi.ac.uk#Pattern1315,0,
+2,,,,"continuant
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern186,0,
+1,,,,"quality
+ and (inheres_in some grooming behavior)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern185,0,
+,69,,69,"BFO_0000056 some 
+    (single-multicellular organism process
+     and (has_quality some quality))",70,http://ebi.ac.uk#Pattern184,1,
+1,,,,"Thing
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern183,0,
+,,,1,"liquid consumption
+ and (has_participant some CHEBI_24835)",2,http://ebi.ac.uk#Pattern182,0,
+,,,1,"sensation behavior
+ and (in_response_to some cocaine consumption)",2,http://ebi.ac.uk#Pattern181,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (process quality
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern180,0,
+,,,2,"classical conditioning
+ and (is_about some GO_0050882)",3,http://ebi.ac.uk#Pattern1307,0,
+4,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some dependent continuant)",5,http://ebi.ac.uk#Pattern1306,0,
+,3,,3,"BFO_0000056 some 
+    (behavioral control of production of sound
+     and (has_quality some quality))",4,http://ebi.ac.uk#Pattern1309,3,
+,,,2,"classical conditioning
+ and (is_about some GO_0050881)",3,http://ebi.ac.uk#Pattern1308,0,
+,,,1,"posture
+ and (has_participant some UBERON_0000061)",2,http://ebi.ac.uk#Pattern1301,0,
+,,,3,"perceptual constancy behavior
+ and (is_about some Thing)",4,http://ebi.ac.uk#Pattern1300,0,
+,,,1,"BFO_0000056 some 
+    (GO_0060273
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern179,0,
+,1,,1,"posture
+ and (has_participant some UBERON_0000060)",2,http://ebi.ac.uk#Pattern1303,1,
+,,,1,"has_quality some 
+    (continuant
+     and (towards some GO_0042755))",2,http://ebi.ac.uk#Pattern178,0,
+3,,,,"continuant
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern1302,0,
+1,,1,,"quality
+ and (inheres_in some adult locomotory behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern177,1,
+,,,1,"BFO_0000056 some 
+    (agonistic behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern1305,0,
+,,,3,"BFO_0000056 some 
+    (behavioral control of excretion
+     and (has_quality some Thing))",4,http://ebi.ac.uk#Pattern176,0,
+1,,1,,"quality
+ and (inheres_in some entrainment of circadian clock)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1304,1,
+,1,,1,"BFO_0000056 some 
+    (response to light stimulus
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern153,1,
+,2,,2,"behavior
+ and (in_response_to some PATO_0001305)",3,http://ebi.ac.uk#Pattern395,1,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some deviation(from_normal)))",2,http://ebi.ac.uk#Pattern152,0,
+1,,,,"Thing
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern394,0,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some qualitative))",2,http://ebi.ac.uk#Pattern151,0,
+,,,1,"behavior
+ and (in_response_to some PATO_0001306)",2,http://ebi.ac.uk#Pattern393,0,
+1,,,,"Thing
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern150,0,
+,,,4,"behavior
+ and (in_response_to some sensory perception of chemical stimulus)",5,http://ebi.ac.uk#Pattern392,0,
+1,,,,"quality
+ and (inheres_in some jump response)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern391,0,
+,,,1,"behavior
+ and (in_response_to some sensory perception of sound)",2,http://ebi.ac.uk#Pattern390,0,
+,,,11,"BFO_0000056 some 
+    (somatic sensation related behavior
+     and (has_quality some continuant))",12,http://ebi.ac.uk#Pattern1330,0,
+,6,,6,"BFO_0000056 some 
+    (GO_0022410
+     and (has_quality some quality))",7,http://ebi.ac.uk#Pattern1339,1,
+,2,,2,"BFO_0000056 some 
+    (behavioral control of excretion
+     and (has_quality some quality))",3,http://ebi.ac.uk#Pattern1332,2,
+,,,1,"BFO_0000056 some 
+    (vocalization behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern149,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some physical quality of a process)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1331,0,
+1,,,,"quality
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern148,0,
+,,,1,"behavioral control of excretion
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0007588)",2,http://ebi.ac.uk#Pattern1334,0,
+1,,1,,"quality
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern147,1,
+,,,2,"behavior
+ and (in_response_to some sensory perception of smell)",3,http://ebi.ac.uk#Pattern389,0,
+,,,3,"perceptual constancy behavior
+ and (is_about some dependent continuant)",4,http://ebi.ac.uk#Pattern1333,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some physical object quality)))))",2,http://ebi.ac.uk#Pattern146,0,
+1,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (biological_process
+     and (part_of some courtship behavior))))
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern388,0,
+,,,1,"BFO_0000056 some 
+    (regulation of mating preference
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern1336,0,
+,1,,1,"somatic sensation related behavior
+ and (in_response_to some sensory perception of touch)",2,http://ebi.ac.uk#Pattern145,1,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (quality
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern387,0,
+,,,1,"behavioral response to chemical stimulus
+ and (in_response_to some alcohol consumption)",2,http://ebi.ac.uk#Pattern1335,0,
+,1,,1,"BFO_0000056 some 
+    (learning behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern144,1,
+,,,1,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some physical object quality))))",2,http://ebi.ac.uk#Pattern386,0,
+1,,,,"Thing
+ and (inheres_in some oviposition)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1338,0,
+,,,14,"BFO_0000056 some 
+    (involuntary movement behavior
+     and (has_quality some Thing))",15,http://ebi.ac.uk#Pattern143,0,
+,,,6,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (frequency
+         and (towards some liquid consumption))))",7,http://ebi.ac.uk#Pattern385,0,
+1,,,,"Thing
+ and (inheres_in some hatching behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1337,0,
+,,,2,"BFO_0000056 some 
+    (chemosensory behavior
+     and (has_quality some Thing))",3,http://ebi.ac.uk#Pattern164,0,
+,,,1,"behavior
+ and (in_response_to some emotional conditioning)",2,http://ebi.ac.uk#Pattern163,0,
+,1,,1,"BFO_0000056 some 
+    (feeding behavior
+     and (has_quality some increased rate))",2,http://ebi.ac.uk#Pattern162,1,
+,,,1,"has_quality some 
+    (dependent continuant
+     and (towards some pleasure behavior))",2,http://ebi.ac.uk#Pattern161,0,
+,,,2,"BFO_0000056 some 
+    (rhythmic process
+     and (has_quality some frequency))",3,http://ebi.ac.uk#Pattern160,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001309)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1329,1,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some increased quality))",2,http://ebi.ac.uk#Pattern1328,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of mating preference
+     and (has_quality some physical quality of a process))",2,http://ebi.ac.uk#Pattern1321,1,
+,,,15,"BFO_0000056 some 
+    (GO_0042756
+     and (has_quality some continuant))",16,http://ebi.ac.uk#Pattern1320,0,
+,,,1,"learning and/or memory behavior
+ and (is_about some motor coordination)",2,http://ebi.ac.uk#Pattern159,0,
+,1,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some increased process quality))",2,http://ebi.ac.uk#Pattern1323,1,
+,,,60,"involuntary movement behavior
+ and (by_means some response to stimulus)",61,http://ebi.ac.uk#Pattern158,0,
+,,,2,"thermosensory behavior
+ and (in_response_to some Thing)",3,http://ebi.ac.uk#Pattern1322,0,
+3,,,,"Thing
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern157,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (Thing
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern399,0,
+4,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some Thing)",5,http://ebi.ac.uk#Pattern1325,0,
+,3,,3,regulates some food consumption,4,http://ebi.ac.uk#Pattern156,2,
+,,,1,"consumption behavior
+ and (has_participant some CHEBI_16236)",2,http://ebi.ac.uk#Pattern398,0,
+,,,11,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (rate
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern1324,0,
+,5,,5,"consumption behavior
+ and ((has_participant some CHEBI_52211) or (has_participant some PATO_0000145))",6,http://ebi.ac.uk#Pattern155,1,
+,,,9,"BFO_0000056 some 
+    (Thing
+     and (has_quality some frequency))",10,http://ebi.ac.uk#Pattern397,0,
+,,,1,"has_quality some 
+    (quality
+     and (towards some GO_0042755))",2,http://ebi.ac.uk#Pattern1327,0,
+24,,24,,"quality
+ and (inheres_in some response to stimulus)
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern154,1,
+1,,,,"quality
+ and (inheres_in some jump response)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern396,0,
+,,,27,"BFO_0000056 some 
+    (cognitive behavior
+     and (has_quality some Thing))",28,http://ebi.ac.uk#Pattern1326,0,
+,,,3,"Thing
+ and (is_about some GO_0007588)",4,http://ebi.ac.uk#Pattern131,0,
+,1,,1,"BFO_0000056 some 
+    (memory behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern373,1,
+,,,6,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some increased rate))",7,http://ebi.ac.uk#Pattern130,0,
+,3,,3,"chemosensory behavior
+ and (in_response_to some multicellular organismal process)",4,http://ebi.ac.uk#Pattern372,2,
+,20,,20,"BFO_0000056 some 
+    (GO_0050882
+     and (has_quality some quality))",21,http://ebi.ac.uk#Pattern371,1,
+1,,,,"quality
+ and (inheres_in some hatching behavior)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern370,0,
+,,,2,"Thing
+ and (is_about some GO_0007589)",3,http://ebi.ac.uk#Pattern129,0,
+,1,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_25418)",2,http://ebi.ac.uk#Pattern128,1,
+,,,1,"behavior
+ and (is_about some blinking)",2,http://ebi.ac.uk#Pattern127,0,
+,,,20,"BFO_0000056 some 
+    (GO_0050881
+     and (has_quality some quality))",21,http://ebi.ac.uk#Pattern369,0,
+,,,5,"emission behavior
+ and (is_about some Thing)",6,http://ebi.ac.uk#Pattern126,0,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (rate
+         and (towards some Thing))))",12,http://ebi.ac.uk#Pattern368,0,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern125,0,
+,,,1,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some increased quality))",2,http://ebi.ac.uk#Pattern367,0,
+,,,1,"behavior
+ and (is_about some jaw movement)",2,http://ebi.ac.uk#Pattern124,0,
+,2,,2,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some decreased process quality))",3,http://ebi.ac.uk#Pattern366,1,
+1,,,,"quality
+ and (inheres_in some regulation of biological process)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern123,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some process quality)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern365,0,
+,9,,9,"behavioral response to chemical stimulus
+ and (in_response_to some (has_role some CHEBI_24432))",10,http://ebi.ac.uk#Pattern122,1,
+,,,1,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern364,0,
+,,,1,"multi-organism process
+ and (by_means some irritability behavior)",2,http://ebi.ac.uk#Pattern121,0,
+,,,2,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some decreased quality))",3,http://ebi.ac.uk#Pattern363,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some behavior))))",4,http://ebi.ac.uk#Pattern142,0,
+1,,,,"quality
+ and (inheres_in some jump response)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern384,0,
+,,,2,"Thing
+ and (has_participant some CHEBI_33290)",3,http://ebi.ac.uk#Pattern141,0,
+,,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_24921)",2,http://ebi.ac.uk#Pattern383,0,
+,,,11,"BFO_0000056 some 
+    (multi-organism process
+     and (has_quality some quality))",12,http://ebi.ac.uk#Pattern140,0,
+,1,,1,"associative learning behavior
+ and (is_about some jaw movement)",2,http://ebi.ac.uk#Pattern382,1,
+,3,,3,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some quality))",4,http://ebi.ac.uk#Pattern381,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased quality
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern380,0,
+,,,2,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some frequency))",3,http://ebi.ac.uk#Pattern139,0,
+,,,13,"BFO_0000056 some 
+    (locomotory behavior
+     and (has_quality some continuant))",14,http://ebi.ac.uk#Pattern138,0,
+,,,,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some consumption behavior)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern137,1,
+,1,,1,"associative learning behavior
+ and (is_about some blinking)",2,http://ebi.ac.uk#Pattern379,1,
+,1,,1,"BFO_0000056 some 
+    (copulation
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern136,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",2,http://ebi.ac.uk#Pattern378,1,
+,,,5,"emission behavior
+ and (is_about some single-multicellular organism process)",6,http://ebi.ac.uk#Pattern135,0,
+,,,1,"consumption behavior
+ and (has_participant some CHEBI_15377)",2,http://ebi.ac.uk#Pattern377,0,
+,53,,53,"BFO_0000056 some 
+    (sleep
+     and (has_quality some quality))",54,http://ebi.ac.uk#Pattern134,1,
+24,,,,"quality
+ and (inheres_in some 
+    (response to stimulus or (behavior
+     and (part_of some response to stimulus))))
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern376,0,
+,,,69,"BFO_0000056 some 
+    (multicellular organismal process
+     and (has_quality some quality))",70,http://ebi.ac.uk#Pattern133,0,
+,,,1,"behavior
+ and (has_participant some UBERON_0002101)",2,http://ebi.ac.uk#Pattern375,0,
+,,,4,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some decreased rate))",5,http://ebi.ac.uk#Pattern132,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0045297
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern374,1,
+,,,1,"Thing
+ and (in_response_to some alcohol consumption)",2,http://ebi.ac.uk#Pattern351,0,
+,,,1,"sensation behavior
+ and (in_response_to some morphine consumption)",2,http://ebi.ac.uk#Pattern593,0,
+,,,2,"Thing
+ and (is_about some emotional behavior)",3,http://ebi.ac.uk#Pattern350,0,
+,1,,1,"feeding behavior
+ and (has_participant some CHEBI_15377)",2,http://ebi.ac.uk#Pattern592,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (quality
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern591,0,
+,,,1,"learning behavior
+ and (is_about some fear-related behavior)",2,http://ebi.ac.uk#Pattern590,0,
+,,,7,"sensation behavior
+ and (is_about some continuant)",8,http://ebi.ac.uk#Pattern109,0,
+2,,,,"Thing
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern108,0,
+,,,2,"posture
+ and (has_participant some Thing)",3,http://ebi.ac.uk#Pattern107,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (deviation(from_normal)
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern349,0,
+,,,1,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern106,0,
+,1,,1,"classical conditioning
+ and (is_about some mouth movement)",2,http://ebi.ac.uk#Pattern348,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some Thing))))",2,http://ebi.ac.uk#Pattern105,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some Thing))))",4,http://ebi.ac.uk#Pattern347,0,
+,1,,1,"BFO_0000056 some 
+    (male mating behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern589,1,
+,,,1,"BFO_0000056 some 
+    (behavioral control of defecation
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern104,0,
+,,,1,"BFO_0000056 some 
+    (GO_0045297
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern346,0,
+,,,2,"Thing
+ and (by_means some UBERON_0002105)",3,http://ebi.ac.uk#Pattern588,0,
+,,,1,"cognitive behavior
+ and (is_about some fear-related behavior)",2,http://ebi.ac.uk#Pattern103,0,
+,,,2,"classical conditioning
+ and (is_about some body part movement)",3,http://ebi.ac.uk#Pattern345,0,
+,,,9,"behavioral response to chemical stimulus
+ and (in_response_to some (has_role some CHEBI_50906))",10,http://ebi.ac.uk#Pattern587,0,
+,1,,1,"sensation behavior
+ and (in_response_to some sensory perception of taste)",2,http://ebi.ac.uk#Pattern102,1,
+,,,1,"classical conditioning
+ and (is_about some emotional behavior)",2,http://ebi.ac.uk#Pattern344,0,
+,,,1,"Thing
+ and (by_means some UBERON_0002104)",2,http://ebi.ac.uk#Pattern586,0,
+,3,,3,"chemosensory behavior
+ and (in_response_to some biological_process)",4,http://ebi.ac.uk#Pattern101,2,
+2,,,,"quality
+ and (inheres_in some visual behavior)
+ and (qualifier some Thing)",3,http://ebi.ac.uk#Pattern343,0,
+,,,1,"response to stimulus
+ and (by_means some irritability behavior)",2,http://ebi.ac.uk#Pattern585,0,
+,1,,1,"BFO_0000056 some 
+    (chemosensory behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern100,1,
+,,,1,"associative learning behavior
+ and (in_response_to some associative learning behavior)",2,http://ebi.ac.uk#Pattern342,0,
+,,,2,"thermosensory behavior
+ and (in_response_to some physical quality)",3,http://ebi.ac.uk#Pattern584,0,
+7,,,,"quality
+ and (inheres_in some multicellular organismal process)
+ and (qualifier some abnormal)",8,http://ebi.ac.uk#Pattern341,0,
+1,,,,"organismal quality
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern583,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some consumption behavior))))",4,http://ebi.ac.uk#Pattern120,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some increased process quality))",2,http://ebi.ac.uk#Pattern362,1,
+,,,1,"BFO_0000056 some 
+    (male courtship behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern361,0,
+,13,,13,"has_quality some 
+    (PATO_0002360
+     and (towards some depression behavior))",14,http://ebi.ac.uk#Pattern360,1,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern119,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some increased object quality)))))",2,http://ebi.ac.uk#Pattern118,1,
+,,,13,"has_quality some 
+    (increased quality
+     and (towards some depression behavior))",14,http://ebi.ac.uk#Pattern117,0,
+,,,1,"behavior
+ and (is_about some vocalization behavior)",2,http://ebi.ac.uk#Pattern359,0,
+,10,,10,"BFO_0000056 some 
+    (multi-organism behavior
+     and (has_quality some quality))",11,http://ebi.ac.uk#Pattern116,2,
+,,,1,"behavior
+ and (is_about some GO_0042747)",2,http://ebi.ac.uk#Pattern358,0,
+4,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some quality)",5,http://ebi.ac.uk#Pattern115,0,
+1,,,,"quality
+ and (inheres_in some feeding behavior)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern357,0,
+,,,1,"cognitive behavior
+ and (in_response_to some nicotine consumption)",2,http://ebi.ac.uk#Pattern599,0,
+,1,,1,"cognitive behavior
+ and (is_about some PATO_0001595)",2,http://ebi.ac.uk#Pattern114,1,
+,,,1,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some physical quality))))",2,http://ebi.ac.uk#Pattern356,0,
+,,,1,"BFO_0000056 some 
+    (response to stimulus
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",2,http://ebi.ac.uk#Pattern598,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some increased quality)))))",2,http://ebi.ac.uk#Pattern113,0,
+,1,,1,"sensation behavior
+ and (is_about some PATO_0001708)",2,http://ebi.ac.uk#Pattern355,1,
+,,,55,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some continuant))",56,http://ebi.ac.uk#Pattern597,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0000125)))))",2,http://ebi.ac.uk#Pattern112,1,
+,1,,1,"consumption behavior
+ and (has_participant some CHEBI_17303)",2,http://ebi.ac.uk#Pattern354,1,
+,,,1,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern596,0,
+,,,3,"BFO_0000056 some 
+    (learning and/or memory behavior
+     and (has_quality some continuant))",4,http://ebi.ac.uk#Pattern111,0,
+,,,1,"associative learning behavior
+ and (is_about some perception behavior by means)",2,http://ebi.ac.uk#Pattern353,0,
+,1,,1,"has_quality some 
+    (extra or missing processual parts
+     and (towards some GO_0042755))",2,http://ebi.ac.uk#Pattern595,1,
+,2,,2,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some physical quality of a process))",3,http://ebi.ac.uk#Pattern110,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some consumption behavior))))",2,http://ebi.ac.uk#Pattern352,0,
+,,,3,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some continuant))",4,http://ebi.ac.uk#Pattern594,0,
+,,,1,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern571,0,
+,,,10,"behavior
+ and (is_about some circadian rhythm)",11,http://ebi.ac.uk#Pattern570,0,
+,,,1,"BFO_0000056 some 
+    (protective behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern329,0,
+,,,3,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern328,0,
+,34,,34,"BFO_0000056 some 
+    (single-organism behavior
+     and (has_quality some quality))",35,http://ebi.ac.uk#Pattern327,3,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0001817)
+ and (is_about some transport)",2,http://ebi.ac.uk#Pattern569,1,
+,1,,1,"behavioral response to xenobiotics
+ and (in_response_to some cocaine consumption)",2,http://ebi.ac.uk#Pattern326,1,
+,,,1,"behavior
+ and (has_participant some UBERON_0000309)",2,http://ebi.ac.uk#Pattern568,0,
+,1,,1,"BFO_0000056 some 
+    (feeding behavior
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",2,http://ebi.ac.uk#Pattern325,1,
+5,,,,"quality
+ and (inheres_in some reproductive process)
+ and (qualifier some abnormal)",6,http://ebi.ac.uk#Pattern567,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased rate
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern324,1,
+,4,,4,"BFO_0000056 some 
+    (GO_0035176
+     and (has_quality some dependent continuant))",5,http://ebi.ac.uk#Pattern566,1,
+,1,,1,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (Thing
+         and (has_quality some PATO_0001563))))",2,http://ebi.ac.uk#Pattern323,1,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (dependent continuant
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern565,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (process quality
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern322,0,
+,,,53,"BFO_0000056 some 
+    (sleeping behavior
+     and (has_quality some Thing))",54,http://ebi.ac.uk#Pattern564,0,
+,3,,3,"BFO_0000056 some 
+    (learning and/or memory behavior
+     and (has_quality some dependent continuant))",4,http://ebi.ac.uk#Pattern321,1,
+,3,,3,"BFO_0000056 some 
+    (sleep
+     and (has_quality some physical quality of a process))",4,http://ebi.ac.uk#Pattern563,1,
+5,,,,"quality
+ and (inheres_in some 
+    (reproductive behavior or (behavior
+     and (part_of some reproductive behavior))))
+ and (qualifier some abnormal)",6,http://ebi.ac.uk#Pattern320,0,
+,1,,1,"BFO_0000056 some 
+    (non-rapid eye movement sleep behavior
+     and (has_quality some rate))",2,http://ebi.ac.uk#Pattern562,1,
+,,,1,"has_quality some 
+    (lacking processual parts
+     and (towards some response to stimulus))",2,http://ebi.ac.uk#Pattern561,0,
+,1,,1,"behavior
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern340,1,
+,,,,"BFO_0000056 some 
+    ((behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern582,1,
+,,,1,"sensation behavior
+ and (in_response_to some GO_0050968)",2,http://ebi.ac.uk#Pattern581,0,
+,,,1,"sensation behavior
+ and (in_response_to some GO_0050967)",2,http://ebi.ac.uk#Pattern580,0,
+,2,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some decreased rate))",3,http://ebi.ac.uk#Pattern339,1,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some increased rate))",3,http://ebi.ac.uk#Pattern338,0,
+,,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0002530)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern337,0,
+,1,,1,"BFO_0000056 some 
+    (behavioral control of lacrimation
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern579,1,
+,3,,3,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some rate))",4,http://ebi.ac.uk#Pattern336,2,
+,,,1,"sensation behavior
+ and (in_response_to some GO_0050966)",2,http://ebi.ac.uk#Pattern578,0,
+,,,1,"regulation of consumption behavior
+ and (has_participant some CHEBI_32111)",2,http://ebi.ac.uk#Pattern335,0,
+4,,,,"continuant
+ and (inheres_in some circadian behavior)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern577,0,
+,,,2,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern334,0,
+,,,1,"sensation behavior
+ and (in_response_to some GO_0050965)",2,http://ebi.ac.uk#Pattern576,0,
+,1,,1,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some PATO_0001309))",2,http://ebi.ac.uk#Pattern333,1,
+,1,,1,"BFO_0000056 some 
+    (sleeping behavior
+     and (has_quality some PATO_0001309))",2,http://ebi.ac.uk#Pattern575,1,
+,,,6,"sensation behavior
+ and (in_response_to some GO_0019233)",7,http://ebi.ac.uk#Pattern332,0,
+,1,,1,"sensation behavior
+ and (by_means some UBERON_0005725)",2,http://ebi.ac.uk#Pattern574,1,
+,,,,"behavioral response to chemical stimulus
+ and (in_response_to some sensory perception of taste)",1,http://ebi.ac.uk#Pattern331,1,
+,,,74,"BFO_0000056 some 
+    (single-organism process
+     and (has_quality some quality))",75,http://ebi.ac.uk#Pattern573,0,
+,15,,15,"BFO_0000056 some 
+    (occurrent
+     and (has_quality some quality))",16,http://ebi.ac.uk#Pattern330,1,
+,,,1,"has_quality some 
+    (process quality
+     and (towards some GO_0042755))",2,http://ebi.ac.uk#Pattern572,0,
+,,,1,"GO_0002118
+ and (by_means some social behavior)",2,http://ebi.ac.uk#Pattern791,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some rate))",2,http://ebi.ac.uk#Pattern790,1,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (qualitative
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern309,0,
+,3,,3,"BFO_0000056 some 
+    (GO_0042748
+     and (has_quality some quality))",4,http://ebi.ac.uk#Pattern308,1,
+,1,,1,"sleep
+ and (is_about some GO_0042747)",2,http://ebi.ac.uk#Pattern307,1,
+,3,,3,"behavior
+ and (is_about some GO_0007588)",4,http://ebi.ac.uk#Pattern549,1,
+,,,1,"cognitive behavior
+ and (is_about some vocalization behavior)",2,http://ebi.ac.uk#Pattern306,0,
+,2,,2,"thermosensory behavior
+ and (in_response_to some PATO_0000146)",3,http://ebi.ac.uk#Pattern548,2,
+,1,,1,"learning and/or memory behavior
+ and (is_about some language communication behavior)",2,http://ebi.ac.uk#Pattern305,1,
+,,,10,"cutaneous sensation behavior
+ and (in_response_to some biological_process)",11,http://ebi.ac.uk#Pattern547,0,
+1,,,,"Thing
+ and (inheres_in some grooming behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern789,0,
+,,,1,regulates some regulation of consumption behavior,2,http://ebi.ac.uk#Pattern304,0,
+,,,1,"regulation of consumption behavior
+ and (has_participant some CHEBI_16236)",2,http://ebi.ac.uk#Pattern546,0,
+,,,2,"BFO_0000056 some 
+    (chemosensory behavior
+     and (has_quality some continuant))",3,http://ebi.ac.uk#Pattern788,0,
+,,,1,"BFO_0000056 some 
+    (avoidance behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern303,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased quality
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern545,0,
+,54,,54,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some quality))",55,http://ebi.ac.uk#Pattern787,2,
+,,,2,"BFO_0000056 some 
+    (rhythmic process
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern302,0,
+2,,,,"quality
+ and (inheres_in some neurological system process)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern544,0,
+,,,3,"perception behavior by means
+ and (in_response_to some GO_0050955)",4,http://ebi.ac.uk#Pattern786,0,
+,,,1,"behavioral response to chemical stimulus
+ and (in_response_to some cocaine consumption)",2,http://ebi.ac.uk#Pattern301,0,
+,,,4,"BFO_0000056 some 
+    (GO_0035176
+     and (has_quality some Thing))",5,http://ebi.ac.uk#Pattern543,0,
+,,,2,"BFO_0000056 some 
+    (GO_0048583
+     and (has_quality some increased rate))",3,http://ebi.ac.uk#Pattern785,0,
+,15,,15,"BFO_0000056 some 
+    (sensation behavior
+     and (has_quality some quality))",16,http://ebi.ac.uk#Pattern300,3,
+,2,,2,"behavioral control of excretion
+ and (is_about some Thing)",3,http://ebi.ac.uk#Pattern542,1,
+,3,,3,"cognitive behavior
+ and (in_response_to some GO_0007601)",4,http://ebi.ac.uk#Pattern784,1,
+,9,,9,"sensation behavior
+ and (in_response_to some (has_role some CHEBI_35703))",10,http://ebi.ac.uk#Pattern541,1,
+,,,1,"BFO_0000056 some 
+    (GO_0048583
+     and (has_quality some decreased rate))",2,http://ebi.ac.uk#Pattern783,0,
+1,,,,"Thing
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern540,0,
+,,,14,"BFO_0000056 some 
+    (emotional behavior
+     and (has_quality some Thing))",15,http://ebi.ac.uk#Pattern782,0,
+,,,1,"behavior
+ and (in_response_to some sensory perception of touch)",2,http://ebi.ac.uk#Pattern781,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased process quality
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern560,0,
+,,,1,"consumption behavior
+ and (has_participant some CHEBI_33290)",2,http://ebi.ac.uk#Pattern319,0,
+,,,14,"has_quality some 
+    (PATO_0002361
+     and (towards some behavior))",15,http://ebi.ac.uk#Pattern318,0,
+1,,1,,"uncoordinated
+ and (inheres_in some multicellular structure)",2,http://ebi.ac.uk#Pattern317,1,
+,,,8,"consumption behavior
+ and ((has_participant some PATO_0000145) or (has_participant some Thing))",9,http://ebi.ac.uk#Pattern559,0,
+,1,,1,"learning behavior
+ and (is_about some motor coordination)",2,http://ebi.ac.uk#Pattern316,1,
+,18,,18,regulates some consumption behavior,19,http://ebi.ac.uk#Pattern558,2,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some consumption behavior))))",2,http://ebi.ac.uk#Pattern315,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some behavior))))",3,http://ebi.ac.uk#Pattern557,0,
+,14,,14,"BFO_0000056 some 
+    (involuntary movement behavior
+     and (has_quality some dependent continuant))",15,http://ebi.ac.uk#Pattern799,1,
+,,,3,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern314,0,
+,,,1,"Thing
+ and (by_means some vocalization behavior)",2,http://ebi.ac.uk#Pattern556,0,
+,1,,1,"BFO_0000056 some 
+    (vocalization behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern798,1,
+,,,1,"GO_0002118
+ and (by_means some behavior)",2,http://ebi.ac.uk#Pattern313,0,
+,3,,3,"BFO_0000056 some 
+    (courtship behavior
+     and (has_quality some dependent continuant))",4,http://ebi.ac.uk#Pattern555,1,
+3,,,,"quality
+ and (inheres_in some response to radiation)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern797,0,
+1,,,,"quality
+ and (inheres_in some grooming behavior)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern312,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (deviation(from_normal)
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern554,0,
+,5,,5,"consumption behavior
+ and ((has_participant some CHEBI_50906) or (has_participant some PATO_0000145))",6,http://ebi.ac.uk#Pattern796,1,
+,74,,74,"BFO_0000056 some 
+    (behavior
+     and (has_quality some quality))",75,http://ebi.ac.uk#Pattern311,1,
+,,,1,"perceptual constancy behavior
+ and (is_about some electromagnetic (EM) radiation quality)",2,http://ebi.ac.uk#Pattern553,0,
+1,,1,,"dependent continuant
+ and (inheres_in some feeding behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern795,1,
+1,,1,,"quality
+ and (inheres_in some grooming behavior)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern310,1,
+,,,2,"sleeping behavior
+ and (is_about some single-organism behavior)",3,http://ebi.ac.uk#Pattern552,0,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0001817)
+ and (is_about some Thing)",2,http://ebi.ac.uk#Pattern794,1,
+,,,1,"BFO_0000056 some 
+    (Thing
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",2,http://ebi.ac.uk#Pattern551,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (physical quality of a process
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern793,0,
+,2,,2,"behavior
+ and (is_about some GO_0007589)",3,http://ebi.ac.uk#Pattern550,1,
+2,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some continuant)",3,http://ebi.ac.uk#Pattern792,0,
+,,,2,"thermosensory behavior
+ and (in_response_to some physical object quality)",3,http://ebi.ac.uk#Pattern529,0,
+,1,,1,"liquid consumption
+ and (has_participant some CHEBI_52625)",2,http://ebi.ac.uk#Pattern528,1,
+,,,1,"perception behavior by means
+ and (has_participant some UBERON_0000309)",2,http://ebi.ac.uk#Pattern527,0,
+,,,5,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some increased rate))",6,http://ebi.ac.uk#Pattern769,0,
+,,,9,"regulates some 
+    (feeding behavior or liquid consumption)",10,http://ebi.ac.uk#Pattern526,0,
+,,,3,"hallucination
+ and (by_means some Thing)",4,http://ebi.ac.uk#Pattern768,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (dependent continuant
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern525,0,
+,,,1,"BFO_0000056 some 
+    (behavior
+     and (has_quality some PATO_0001309))",2,http://ebi.ac.uk#Pattern767,0,
+,,,35,"BFO_0000056 some 
+    (kinesthetic behavior
+     and (has_quality some continuant))",36,http://ebi.ac.uk#Pattern524,0,
+,,,4,"cognitive behavior
+ and (in_response_to some sensory perception of chemical stimulus)",5,http://ebi.ac.uk#Pattern766,0,
+,,,2,"classical conditioning
+ and (is_about some single-multicellular organism process)",3,http://ebi.ac.uk#Pattern523,0,
+,,,2,"cognitive behavior
+ and (in_response_to some sensory perception of smell)",3,http://ebi.ac.uk#Pattern765,0,
+,,,1,"associative learning behavior
+ and (is_about some somatic sensation related behavior)",2,http://ebi.ac.uk#Pattern522,0,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0001817)
+ and (is_about some single-multicellular organism process)",2,http://ebi.ac.uk#Pattern764,1,
+,,,5,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased quality
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern521,0,
+,,,25,regulates some Thing,26,http://ebi.ac.uk#Pattern763,0,
+,,,1,"regulation of drinking preference behavior
+ and (has_participant some Thing)",2,http://ebi.ac.uk#Pattern520,0,
+4,,,,"Thing
+ and (inheres_in some locomotory behavior)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern762,0,
+,,,6,"perception behavior by means
+ and (in_response_to some GO_0019233)",7,http://ebi.ac.uk#Pattern761,0,
+,,,1,"behavioral control of external secretion
+ and (by_means some Thing)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern760,0,
+,4,,4,"BFO_0000056 some 
+    (behavioral control of production of sound
+     and (has_quality some dependent continuant))",5,http://ebi.ac.uk#Pattern780,1,
+1,,,,"quality
+ and (inheres_in some memory)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern539,0,
+,,,1,"has_quality some 
+    (lacking processual parts
+     and (towards some behavior))",2,http://ebi.ac.uk#Pattern538,0,
+1,,,,"quality
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern537,0,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some qualitative))",2,http://ebi.ac.uk#Pattern779,0,
+2,,,,"quality
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some continuant)",3,http://ebi.ac.uk#Pattern536,0,
+,,,7,"learning behavior
+ and (is_about some Thing)",8,http://ebi.ac.uk#Pattern778,0,
+,,,2,"learning and/or memory behavior
+ and (is_about some emotional behavior)",3,http://ebi.ac.uk#Pattern535,0,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some deviation(from_normal)))",2,http://ebi.ac.uk#Pattern777,0,
+,,,2,"classical conditioning
+ and (is_about some voluntary movement behavior)",3,http://ebi.ac.uk#Pattern534,0,
+,1,,1,"cognitive behavior
+ and (in_response_to some sensory perception of sound)",2,http://ebi.ac.uk#Pattern776,1,
+,,,1,"BFO_0000056 some 
+    (GO_0031223
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern533,0,
+,2,,2,"feeding behavior
+ and (has_participant some CHEBI_52211)",3,http://ebi.ac.uk#Pattern775,1,
+,,,1,"behavioral control of excretion
+ and (by_means some UBERON_0001256)
+ and (is_about some Thing)",2,http://ebi.ac.uk#Pattern532,0,
+,,,1,"BFO_0000056 some 
+    (cutaneous sensation behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern774,0,
+,,,9,"regulates some 
+    (feeding behavior or food consumption)",10,http://ebi.ac.uk#Pattern531,0,
+,1,,1,"learning behavior
+ and (is_about some vocalization behavior)",2,http://ebi.ac.uk#Pattern773,1,
+,,,1,"Thing
+ and (is_about some fear-related behavior)",2,http://ebi.ac.uk#Pattern530,0,
+,,,4,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some decreased rate))",5,http://ebi.ac.uk#Pattern772,0,
+2,,2,,"dependent continuant
+ and (inheres_in some visual behavior)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern771,1,
+,,,1,"BFO_0000056 some 
+    (copulation
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern770,0,
+1,,1,,"quality
+ and (inheres_in some hatching behavior)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern509,1,
+1,,,,"quality
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern508,0,
+1,,,,"uncoordinated
+ and (inheres_in some material anatomical entity)",2,http://ebi.ac.uk#Pattern507,0,
+,,,1,"sensation behavior
+ and (in_response_to some nicotine consumption)",2,http://ebi.ac.uk#Pattern749,0,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some continuant))",4,http://ebi.ac.uk#Pattern506,0,
+4,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some continuant)",5,http://ebi.ac.uk#Pattern748,0,
+1,,,,"quality
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern505,0,
+,1,,1,"associative learning behavior
+ and (is_about some fear-related behavior)",2,http://ebi.ac.uk#Pattern747,1,
+,,,3,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern989,0,
+24,,,,"quality
+ and (inheres_in some 
+    (Thing or (behavior
+     and (part_of some Thing))))
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern504,0,
+,3,,3,"associative learning behavior
+ and (in_response_to some Thing)",4,http://ebi.ac.uk#Pattern746,2,
+24,,,,"quality
+ and (inheres_in some behavior)
+ and (qualifier some Thing)",25,http://ebi.ac.uk#Pattern988,0,
+,1,,1,"associative learning behavior
+ and (in_response_to some classical conditioning)",2,http://ebi.ac.uk#Pattern503,1,
+,1,,1,"BFO_0000056 some 
+    (GO_0050795
+     and (has_quality some decreased rate))",2,http://ebi.ac.uk#Pattern745,1,
+,16,,16,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some quality))",17,http://ebi.ac.uk#Pattern987,1,
+,,,7,"sensation behavior
+ and (is_about some Thing)",8,http://ebi.ac.uk#Pattern502,0,
+,,,1,regulates some regulation of behavior,2,http://ebi.ac.uk#Pattern744,0,
+,1,,1,"cutaneous sensation behavior
+ and (in_response_to some sensory perception of mechanical stimulus)",2,http://ebi.ac.uk#Pattern986,1,
+,,,1,"BFO_0000056 some 
+    (regulation of mating preference
+     and (has_quality some process quality))",2,http://ebi.ac.uk#Pattern501,0,
+,2,,2,"BFO_0000056 some 
+    (GO_0050795
+     and (has_quality some increased rate))",3,http://ebi.ac.uk#Pattern743,1,
+,,,5,"BFO_0000056 some 
+    (motor coordination
+     and (has_quality some Thing))",6,http://ebi.ac.uk#Pattern985,0,
+,,,4,"behavior
+ and (is_about some size)",5,http://ebi.ac.uk#Pattern500,0,
+,,,1,"learning behavior
+ and (is_about some social behavior)",2,http://ebi.ac.uk#Pattern742,0,
+,3,,3,"cutaneous sensation behavior
+ and (in_response_to some GO_0050951)",4,http://ebi.ac.uk#Pattern984,1,
+,2,,2,"BFO_0000056 some 
+    (learning and/or memory behavior
+     and (has_quality some quality))",3,http://ebi.ac.uk#Pattern741,2,
+,,,1,"Thing
+ and (has_participant some CHEBI_15377)",2,http://ebi.ac.uk#Pattern983,0,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some process quality))",2,http://ebi.ac.uk#Pattern740,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (quality
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern982,0,
+,1,,1,"cutaneous sensation behavior
+ and (in_response_to some PATO_0001306)",2,http://ebi.ac.uk#Pattern981,1,
+,3,,3,"emission behavior
+ and (is_about some system process)",4,http://ebi.ac.uk#Pattern980,1,
+5,,5,,"quality
+ and (inheres_in some reproductive behavior)
+ and (qualifier some abnormal)",6,http://ebi.ac.uk#Pattern519,1,
+,6,,6,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (frequency
+         and (towards some feeding behavior))))",7,http://ebi.ac.uk#Pattern518,1,
+,,,1,"behavior
+ and (is_about some fear-related behavior)",2,http://ebi.ac.uk#Pattern517,0,
+,,,3,"BFO_0000056 some 
+    (learning and/or memory behavior
+     and (has_quality some Thing))",4,http://ebi.ac.uk#Pattern759,0,
+,,,2,"BFO_0000056 some 
+    (non-rapid eye movement sleep behavior
+     and (has_quality some process quality))",3,http://ebi.ac.uk#Pattern516,0,
+,1,,1,"BFO_0000056 some 
+    (behavioral control of defecation
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern758,1,
+1,,,,"quality
+ and (inheres_in some oviposition)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern515,0,
+,,,4,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some Thing))",5,http://ebi.ac.uk#Pattern757,0,
+1,,,,"quality
+ and (inheres_in some learning)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern999,0,
+4,,,,"quality
+ and (inheres_in some locomotory behavior)
+ and (qualifier some dependent continuant)",5,http://ebi.ac.uk#Pattern514,0,
+,,,4,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some quality))",5,http://ebi.ac.uk#Pattern756,0,
+1,,,,"quality
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern998,0,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (process quality
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern513,0,
+,,,2,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern755,0,
+1,,1,,"quality
+ and (inheres_in some learning)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern997,1,
+1,,,,"quality
+ and (inheres_in some hatching behavior)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern512,0,
+,1,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_37332)",2,http://ebi.ac.uk#Pattern754,1,
+2,,2,,"quality
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some deviation(from_normal))",3,http://ebi.ac.uk#Pattern996,1,
+1,,1,,"quality
+ and (inheres_in some oviposition)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern511,1,
+,1,,1,"sensation behavior
+ and (is_about some shape)",2,http://ebi.ac.uk#Pattern753,1,
+1,,,,"quality
+ and (inheres_in some memory)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern995,0,
+,4,,4,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some physical quality of a process))",5,http://ebi.ac.uk#Pattern510,1,
+,,,4,"BFO_0000056 some 
+    (behavioral control of production of sound
+     and (has_quality some continuant))",5,http://ebi.ac.uk#Pattern752,0,
+2,,,,"quality
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some qualitative)",3,http://ebi.ac.uk#Pattern994,0,
+,6,,6,"sensation behavior
+ and (is_about some morphology)",7,http://ebi.ac.uk#Pattern751,2,
+4,,4,,"dependent continuant
+ and (inheres_in some circadian behavior)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern993,1,
+,,,1,"BFO_0000056 some 
+    (regulation of eating behavior
+     and (has_quality some increased rate))",2,http://ebi.ac.uk#Pattern750,0,
+1,,,,"quality
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern992,0,
+,,,1,"Thing
+ and (in_response_to some cocaine consumption)",2,http://ebi.ac.uk#Pattern991,0,
+,,,3,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (decreased rate
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern990,0,
+,,,60,"involuntary movement behavior
+ and (by_means some Thing)",61,http://ebi.ac.uk#Pattern609,0,
+,,,2,"behavior
+ and (is_about some emotional behavior)",3,http://ebi.ac.uk#Pattern608,0,
+,,,1,"BFO_0000056 some 
+    (male courtship behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern607,0,
+,,,13,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some rate))",14,http://ebi.ac.uk#Pattern849,0,
+,,,1,"Thing
+ and (has_participant some UBERON_0000309)",2,http://ebi.ac.uk#Pattern606,0,
+,,,26,"BFO_0000056 some 
+    (feeding behavior
+     and (has_quality some continuant))",27,http://ebi.ac.uk#Pattern848,0,
+,,,1,"BFO_0000056 some 
+    (learning behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern605,0,
+1,,,,"quality
+ and (inheres_in some jump response)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern847,0,
+,,,3,"BFO_0000056 some 
+    (Thing
+     and (has_quality some PATO_0001309))",4,http://ebi.ac.uk#Pattern604,0,
+1,,1,,"quality
+ and (inheres_in some jump response)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern846,1,
+,,,3,"sensation behavior
+ and (in_response_to some GO_0050955)",4,http://ebi.ac.uk#Pattern603,0,
+1,,1,,"dependent continuant
+ and (inheres_in some learning)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern845,1,
+,2,,2,"sensation behavior
+ and (in_response_to some sensory perception of mechanical stimulus)",3,http://ebi.ac.uk#Pattern602,1,
+,,,1,"social behavior
+ and (is_about some jaw movement)",2,http://ebi.ac.uk#Pattern844,0,
+,,,1,"Thing
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0060073)",2,http://ebi.ac.uk#Pattern601,0,
+,,,20,"BFO_0000056 some 
+    (voluntary movement behavior
+     and (has_quality some Thing))",21,http://ebi.ac.uk#Pattern843,0,
+,3,,3,"sensation behavior
+ and (in_response_to some sensory perception of light stimulus)",4,http://ebi.ac.uk#Pattern600,1,
+1,,,,"quality
+ and (inheres_in some memory)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern842,0,
+2,,,,"quality
+ and (inheres_in some proboscis extension reflex)
+ and (qualifier some quality)",3,http://ebi.ac.uk#Pattern841,0,
+1,,1,,"dependent continuant
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern840,1,
+,,,1,"BFO_0000056 some 
+    (mating behavior
+     and (has_quality some physical quality of a process))",2,http://ebi.ac.uk#Pattern619,0,
+,1,,1,"BFO_0000056 some 
+    (behavioral control of urination
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern618,1,
+,1,,1,"sensation behavior
+ and (is_about some color)",2,http://ebi.ac.uk#Pattern617,1,
+,1,,1,"nociceptive behavior
+ and (in_response_to some GO_0050907)",2,http://ebi.ac.uk#Pattern859,1,
+2,,,,"quality
+ and (inheres_in some visual behavior)
+ and (qualifier some continuant)",3,http://ebi.ac.uk#Pattern616,0,
+,9,,9,regulates some feeding behavior,10,http://ebi.ac.uk#Pattern858,2,
+,,,1,"BFO_0000056 some 
+    (response to radiation
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern615,0,
+,,,4,"nociceptive behavior
+ and (in_response_to some GO_0050906)",5,http://ebi.ac.uk#Pattern857,0,
+1,,,,"quality
+ and (inheres_in some regulation of circadian rhythm)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern614,0,
+,,,1,"behavior
+ and (has_participant some CHEBI_17303)",2,http://ebi.ac.uk#Pattern856,0,
+,,,1,"BFO_0000056 some 
+    (behavioral control of lacrimation
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern613,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased rate
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern855,1,
+1,,,,"continuant
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern612,0,
+,,,1,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern854,0,
+,,,20,"BFO_0000056 some 
+    (voluntary movement behavior
+     and (has_quality some continuant))",21,http://ebi.ac.uk#Pattern611,0,
+,,,1,"social behavior
+ and (is_about some blinking)",2,http://ebi.ac.uk#Pattern853,0,
+2,,,,"quality
+ and (inheres_in some 
+    (multi-organism behavior or (behavior
+     and (part_of some multi-organism behavior))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern610,0,
+,11,,11,"BFO_0000056 some 
+    (somatic sensation related behavior
+     and (has_quality some dependent continuant))",12,http://ebi.ac.uk#Pattern852,1,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (qualitative
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern851,0,
+1,,,,"quality
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern850,0,
+,,,6,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (frequency
+         and (towards some consumption behavior))))",7,http://ebi.ac.uk#Pattern829,0,
+1,,,,"uncoordinated
+ and (inheres_in some anatomical entity)",2,http://ebi.ac.uk#Pattern828,0,
+,10,,10,"single-organism behavior
+ and (is_about some circadian rhythm)",11,http://ebi.ac.uk#Pattern827,1,
+,,,6,"Thing
+ and (in_response_to some GO_0019233)",7,http://ebi.ac.uk#Pattern826,0,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern825,0,
+,165,,165,"BFO_0000056 some 
+    (behavior
+     and (has_quality some quality))",166,http://ebi.ac.uk#Pattern824,5,
+,4,,4,"BFO_0000056 some 
+    (sexual activity
+     and (has_quality some dependent continuant))",5,http://ebi.ac.uk#Pattern823,1,
+,3,,3,"sleeping behavior
+ and (is_about some Thing)",4,http://ebi.ac.uk#Pattern822,1,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern821,0,
+,1,,1,"liquid consumption
+ and (has_participant some CHEBI_37176)",2,http://ebi.ac.uk#Pattern820,1,
+,,,1,"regulation of feeding behavior
+ and (has_participant some CHEBI_16236)",2,http://ebi.ac.uk#Pattern839,0,
+,34,,34,"BFO_0000056 some 
+    (kinesthetic behavior
+     and (has_quality some quality))",35,http://ebi.ac.uk#Pattern838,2,
+,,,2,"feeding behavior
+ and (has_participant some CHEBI_50906)",3,http://ebi.ac.uk#Pattern837,0,
+,,,1,"cognitive behavior
+ and (is_about some motor coordination)",2,http://ebi.ac.uk#Pattern836,0,
+,,,1,"perception behavior by means
+ and (in_response_to some GO_0050966)",2,http://ebi.ac.uk#Pattern835,0,
+,,,1,"perception behavior by means
+ and (in_response_to some GO_0050965)",2,http://ebi.ac.uk#Pattern834,0,
+,,,1,"perception behavior by means
+ and (in_response_to some GO_0050968)",2,http://ebi.ac.uk#Pattern833,0,
+,,,1,"perception behavior by means
+ and (in_response_to some GO_0050967)",2,http://ebi.ac.uk#Pattern832,0,
+,10,,10,"BFO_0000056 some 
+    (emission behavior
+     and (has_quality some dependent continuant))",11,http://ebi.ac.uk#Pattern831,1,
+,,,1,"has_quality some 
+    (PATO_0002361
+     and (towards some cognitive behavior))",2,http://ebi.ac.uk#Pattern830,0,
+24,,,,"continuant
+ and (inheres_in some behavior)
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern1071,0,
+,3,,3,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some feeding behavior))))",4,http://ebi.ac.uk#Pattern1070,1,
+,,,1,"cognitive behavior
+ and (in_response_to some GO_0050966)",2,http://ebi.ac.uk#Pattern1073,0,
+1,,,,"continuant
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1072,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some behavior))))",2,http://ebi.ac.uk#Pattern1075,0,
+,,,1,"cognitive behavior
+ and (in_response_to some GO_0050965)",2,http://ebi.ac.uk#Pattern1074,0,
+,3,,3,"behavioral response to addictive substance
+ and (in_response_to some consumption of an addictive substance)",4,http://ebi.ac.uk#Pattern1077,3,
+,,,1,"cognitive behavior
+ and (in_response_to some GO_0050968)",2,http://ebi.ac.uk#Pattern1076,0,
+,,,2,"has_quality some 
+    (lacking processual parts
+     and (towards some Thing))",3,http://ebi.ac.uk#Pattern809,0,
+,1,,1,"BFO_0000056 some 
+    (visual behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern808,1,
+1,,,,"quality
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern807,0,
+,,,1,"behavior
+ and (in_response_to some GO_0050968)",2,http://ebi.ac.uk#Pattern806,0,
+,,,1,"behavior
+ and (in_response_to some GO_0050967)",2,http://ebi.ac.uk#Pattern805,0,
+,1,,1,"has_quality some 
+    (lacking processual parts
+     and (towards some emotional behavior))",2,http://ebi.ac.uk#Pattern804,1,
+,3,,3,"chemosensory behavior
+ and (in_response_to some neurological system process)",4,http://ebi.ac.uk#Pattern803,2,
+,,,1,"behavior
+ and (in_response_to some GO_0050966)",2,http://ebi.ac.uk#Pattern802,0,
+,,,3,"BFO_0000056 some 
+    (single-organism process
+     and (has_quality some PATO_0001309))",4,http://ebi.ac.uk#Pattern801,0,
+,,,1,"behavior
+ and (in_response_to some GO_0050965)",2,http://ebi.ac.uk#Pattern800,0,
+,,,4,"behavioral response to addictive substance
+ and (in_response_to some behavior)",5,http://ebi.ac.uk#Pattern1079,0,
+,,,1,"cognitive behavior
+ and (in_response_to some GO_0050967)",2,http://ebi.ac.uk#Pattern1078,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some behavior))))",3,http://ebi.ac.uk#Pattern1060,0,
+,2,,2,"sleeping behavior
+ and (is_about some GO_0022410)",3,http://ebi.ac.uk#Pattern1062,2,
+,,,8,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (qualitative
+         and (towards some liquid consumption))))",9,http://ebi.ac.uk#Pattern1061,0,
+,,,16,"BFO_0000056 some 
+    (sensation behavior
+     and (has_quality some continuant))",17,http://ebi.ac.uk#Pattern1064,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some temporal distribution quality)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1063,0,
+,,,1,"single-multicellular organism process
+ and (is_about some GO_0042747)",2,http://ebi.ac.uk#Pattern8,0,
+,1,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_33308)",2,http://ebi.ac.uk#Pattern1066,1,
+,,,14,"BFO_0000056 some 
+    (emotional behavior
+     and (has_quality some continuant))",15,http://ebi.ac.uk#Pattern9,0,
+,1,,1,"perceptual constancy behavior
+ and (is_about some optical quality)",2,http://ebi.ac.uk#Pattern1065,1,
+1,,1,,"dependent continuant
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern6,1,
+,,,1,"BFO_0000056 some 
+    (copulation
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern7,0,
+,3,,3,"spatial perception
+ and (is_about some physical object quality)",4,http://ebi.ac.uk#Pattern4,1,
+24,,,,"quality
+ and (inheres_in some 
+    (biological_process or (behavior
+     and (part_of some biological_process))))
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern5,0,
+,,,1,"BFO_0000056 some 
+    (aggressive behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern2,0,
+,2,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (increased process quality
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern3,1,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (continuant
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1,0,
+,,,1,"perception behavior by means
+ and (in_response_to some sensory perception of touch)",2,http://ebi.ac.uk#Pattern819,0,
+,1,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_26416)",2,http://ebi.ac.uk#Pattern818,1,
+24,,24,,"dependent continuant
+ and (inheres_in some behavior)
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern817,1,
+1,,1,,"dependent continuant
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern816,1,
+1,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (Thing
+     and (part_of some courtship behavior))))
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern815,0,
+,,,4,"behavioral response to chemical stimulus
+ and (in_response_to some neurological system process)",5,http://ebi.ac.uk#Pattern814,0,
+,,,,"emission behavior
+ and (is_about some GO_0030421)",1,http://ebi.ac.uk#Pattern813,1,
+,4,,4,"cognitive behavior
+ and (is_about some size)",5,http://ebi.ac.uk#Pattern812,1,
+,,,6,"behavior
+ and (in_response_to some GO_0019233)",7,http://ebi.ac.uk#Pattern811,0,
+,2,,2,"behavior
+ and (has_participant some CHEBI_27958)",3,http://ebi.ac.uk#Pattern810,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (rate
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1068,0,
+,3,,3,"chemosensory behavior
+ and (in_response_to some Thing)",4,http://ebi.ac.uk#Pattern1067,2,
+,,,60,"Thing
+ and (by_means some reflex)",61,http://ebi.ac.uk#Pattern1069,0,
+,,,1,"cognitive behavior
+ and (is_about some blinking)",2,http://ebi.ac.uk#Pattern1093,0,
+,4,,4,"behavioral response to chemical stimulus
+ and (in_response_to some sensory perception)",5,http://ebi.ac.uk#Pattern1092,1,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some dependent continuant))",4,http://ebi.ac.uk#Pattern1095,0,
+,,,1,"BFO_0000056 some 
+    (female sexual activity
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern1094,0,
+,,,1,"cognitive behavior
+ and (in_response_to some morphine consumption)",2,http://ebi.ac.uk#Pattern1097,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (continuant
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1096,0,
+,1,,1,"behavior
+ and (is_about some GO_0030421)",2,http://ebi.ac.uk#Pattern1099,1,
+,,,1,"sensation behavior
+ and (has_participant some UBERON_0000309)",2,http://ebi.ac.uk#Pattern1098,0,
+,,,1,"cognitive behavior
+ and (is_about some jaw movement)",2,http://ebi.ac.uk#Pattern1091,0,
+,,,13,"has_quality some 
+    (Thing
+     and (towards some depression behavior))",14,http://ebi.ac.uk#Pattern1090,0,
+,,,14,"has_quality some 
+    (PATO_0002361
+     and (towards some Thing))",15,http://ebi.ac.uk#Pattern1082,0,
+,1,,1,"regulation of eating preference behavior
+ and (has_participant some CHEBI_55505)",2,http://ebi.ac.uk#Pattern1081,1,
+,1,,1,"behavioral response to chemical stimulus
+ and (in_response_to some sensory perception of smell)",2,http://ebi.ac.uk#Pattern1084,1,
+,,,4,"behavioral response to chemical stimulus
+ and (in_response_to some system process)",5,http://ebi.ac.uk#Pattern1083,0,
+,3,,3,"sleeping behavior
+ and (is_about some single-organism process)",4,http://ebi.ac.uk#Pattern1086,1,
+2,,2,,"quality
+ and (inheres_in some reflex)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern1085,1,
+,,,1,"Thing
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern1088,0,
+,,,1,"cognitive behavior
+ and (by_means some UBERON_0005725)",2,http://ebi.ac.uk#Pattern1087,0,
+,,,20,"BFO_0000056 some 
+    (Thing
+     and (has_quality some rate))",21,http://ebi.ac.uk#Pattern1080,0,
+,,,2,"emission behavior
+ and (is_about some GO_0065008)",3,http://ebi.ac.uk#Pattern1089,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (physical quality of a process
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1271,0,
+,,,2,"Thing
+ and (is_about some shape)",3,http://ebi.ac.uk#Pattern1270,0,
+,,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_35701)",2,http://ebi.ac.uk#Pattern1031,0,
+,,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0000061)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern1273,0,
+,,,8,"consumption behavior
+ and ((has_participant some CHEBI_33290) or (has_participant some Thing))",9,http://ebi.ac.uk#Pattern1030,0,
+,3,,3,"BFO_0000056 some 
+    (non-rapid eye movement sleep behavior
+     and (has_quality some dependent continuant))",4,http://ebi.ac.uk#Pattern1272,1,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (Thing
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1033,0,
+1,,,,"continuant
+ and (inheres_in some learning)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1275,0,
+2,,,,"continuant
+ and (inheres_in some visual behavior)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern1032,0,
+,4,,4,"sensation behavior
+ and (in_response_to some sensory perception of chemical stimulus)",5,http://ebi.ac.uk#Pattern1274,1,
+1,,,,"quality
+ and (inheres_in some feeding behavior)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1035,0,
+,1,,1,"behavioral response to xenobiotics
+ and (in_response_to some alcohol consumption)",2,http://ebi.ac.uk#Pattern1277,1,
+3,,,,"quality
+ and (inheres_in some response to abiotic stimulus)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern1034,0,
+,2,,2,"sensation behavior
+ and (in_response_to some sensory perception of smell)",3,http://ebi.ac.uk#Pattern1276,1,
+,,,1,"has_quality some 
+    (increased quality
+     and (towards some memory loss behavior))",2,http://ebi.ac.uk#Pattern1037,0,
+1,,1,,"quality
+ and (inheres_in some photoperiodism)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1279,1,
+1,,,,"quality
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern1036,0,
+,,,13,"BFO_0000056 some 
+    (reproductive process
+     and (has_quality some quality))",14,http://ebi.ac.uk#Pattern1278,0,
+1,,,,"quality
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern1039,0,
+,2,,2,"behavioral control of excretion
+ and (is_about some GO_0007588)",3,http://ebi.ac.uk#Pattern1038,1,
+,19,,19,"regulates some 
+    (food consumption or consumption behavior)",20,http://ebi.ac.uk#Pattern1260,1,
+5,,,,"quality
+ and (inheres_in some 
+    (multicellular organismal reproductive process or (behavior
+     and (part_of some multicellular organismal reproductive process))))
+ and (qualifier some abnormal)",6,http://ebi.ac.uk#Pattern1020,0,
+,4,,4,"BFO_0000056 some 
+    (reproductive behavior
+     and (has_quality some quality))",5,http://ebi.ac.uk#Pattern1262,1,
+,25,,25,"regulates some 
+    (liquid consumption or behavior)",26,http://ebi.ac.uk#Pattern1261,1,
+,,,11,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (rate
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern1022,0,
+,,,1,"BFO_0000056 some 
+    (male sexual activity
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern1264,0,
+,1,,1,"nociceptive behavior
+ and (in_response_to some GO_0050963)",2,http://ebi.ac.uk#Pattern1021,1,
+,13,,13,"BFO_0000056 some 
+    (locomotory behavior
+     and (has_quality some dependent continuant))",14,http://ebi.ac.uk#Pattern1263,1,
+,,,1,"BFO_0000056 some 
+    (regulation of behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",2,http://ebi.ac.uk#Pattern1024,0,
+,,,2,"liquid consumption
+ and (has_participant some Thing)",3,http://ebi.ac.uk#Pattern1266,0,
+,,,8,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (deviation(from_normal)
+         and (towards some liquid consumption))))",9,http://ebi.ac.uk#Pattern1023,0,
+,1,,1,"has_quality some 
+    (increased object quality
+     and (towards some memory loss behavior))",2,http://ebi.ac.uk#Pattern1265,1,
+4,,,,"Thing
+ and (inheres_in some circadian behavior)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern1026,0,
+,,,3,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1268,0,
+,,,1,"behavioral control of excretion
+ and (by_means some UBERON_0000061)
+ and (is_about some GO_0060073)",2,http://ebi.ac.uk#Pattern1025,0,
+,27,,27,"BFO_0000056 some 
+    (cognitive behavior
+     and (has_quality some dependent continuant))",28,http://ebi.ac.uk#Pattern1267,1,
+,,,1,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1028,0,
+,,,13,"has_quality some 
+    (PATO_0001727
+     and (towards some depression behavior))",14,http://ebi.ac.uk#Pattern1027,0,
+,,,1,"Thing
+ and (by_means some irritability behavior)",2,http://ebi.ac.uk#Pattern1269,0,
+,,,13,"behavioral response to chemical stimulus
+ and (in_response_to some Thing)",14,http://ebi.ac.uk#Pattern1029,0,
+,4,,4,"classical conditioning
+ and (is_about some behavior)",5,http://ebi.ac.uk#Pattern1291,1,
+,,,2,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1290,0,
+,,,25,"regulates some 
+    (food consumption or Thing)",26,http://ebi.ac.uk#Pattern1051,0,
+,,,1,"BFO_0000056 some 
+    (mobbing calling
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern1293,0,
+1,,,,"continuant
+ and (inheres_in some jump response)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1050,0,
+2,,,,"quality
+ and (inheres_in some 
+    (multi-organism process or (behavior
+     and (part_of some multi-organism process))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern1292,0,
+,,,1,"food consumption
+ and (has_participant some CHEBI_37947)",2,http://ebi.ac.uk#Pattern1053,0,
+,,,1,"BFO_0000056 some 
+    (consumption behavior
+     and (has_quality some increased rate))",2,http://ebi.ac.uk#Pattern1295,0,
+1,,,,"continuant
+ and (inheres_in some feeding behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1052,0,
+,,,1,"regulation of behavior
+ and (has_participant some CHEBI_32111)",2,http://ebi.ac.uk#Pattern1294,0,
+,,,1,"liquid consumption
+ and (has_participant some CHEBI_15734)",2,http://ebi.ac.uk#Pattern1055,0,
+1,,,,"quality
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1297,0,
+2,,,,"quality
+ and (inheres_in some visual behavior)
+ and (qualifier some dependent continuant)",3,http://ebi.ac.uk#Pattern1054,0,
+,,,6,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (frequency
+         and (towards some Thing))))",7,http://ebi.ac.uk#Pattern1296,0,
+3,,,,"quality
+ and (inheres_in some response to external stimulus)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern1057,0,
+,,,1,"Thing
+ and (is_about some GO_0030421)",2,http://ebi.ac.uk#Pattern1299,0,
+,,,1,"behavioral control of excretion
+ and (by_means some Thing)
+ and (is_about some GO_0060073)",2,http://ebi.ac.uk#Pattern1056,0,
+,,,5,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern1298,0,
+,5,,5,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (frequency
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern1059,2,
+,1,,1,"BFO_0000056 some 
+    (GO_0060180
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern1058,1,
+,,,18,"sensation behavior
+ and (in_response_to some system process)",19,http://ebi.ac.uk#Pattern1280,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some behavior))))",2,http://ebi.ac.uk#Pattern1040,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some consumption behavior))))",2,http://ebi.ac.uk#Pattern1282,0,
+,,,1,"BFO_0000056 some 
+    (social behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern1281,0,
+,1,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some increased object quality))))
+     and (qualifier some PATO_0001333))",2,http://ebi.ac.uk#Pattern1042,1,
+,,,18,"sensation behavior
+ and (in_response_to some sensory perception)",19,http://ebi.ac.uk#Pattern1284,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some increased quality)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1041,0,
+24,,,,"quality
+ and (inheres_in some Thing)
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern1283,0,
+,10,,10,"behavior
+ and ((has_participant some CHEBI_33290) or (has_participant some PATO_0000145))",11,http://ebi.ac.uk#Pattern1044,1,
+,9,,9,"BFO_0000056 some 
+    (emission behavior
+     and (has_quality some quality))",10,http://ebi.ac.uk#Pattern1286,3,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0002324)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1043,1,
+1,,,,"quality
+ and (inheres_in some male mating behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1285,0,
+,1,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0000125))))
+     and (qualifier some PATO_0001333))",2,http://ebi.ac.uk#Pattern1046,1,
+,,,1,"cognitive behavior
+ and (in_response_to some sensory perception of taste)",2,http://ebi.ac.uk#Pattern1288,0,
+,,,3,"perceptual constancy behavior
+ and (is_about some quality)",4,http://ebi.ac.uk#Pattern1045,0,
+,,,26,"BFO_0000056 some 
+    (feeding behavior
+     and (has_quality some Thing))",27,http://ebi.ac.uk#Pattern1287,0,
+,,,1,"BFO_0000056 some 
+    (regulation of mating preference
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern1048,0,
+,1,,1,"behavioral control of excretion
+ and (by_means some UBERON_0000060)
+ and (is_about some GO_0060073)",2,http://ebi.ac.uk#Pattern1047,1,
+,,,1,"BFO_0000056 some 
+    (GO_0045297
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern1289,0,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some quality))",4,http://ebi.ac.uk#Pattern1049,0,
+,2,,2,"perceptual constancy behavior
+ and (is_about some morphology)",3,http://ebi.ac.uk#Pattern1231,2,
+,,,1,"social behavior
+ and (is_about some fear-related behavior)",2,http://ebi.ac.uk#Pattern1230,0,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some physical quality of a process))",4,http://ebi.ac.uk#Pattern1233,0,
+,1,,1,"agonistic behavior
+ and (by_means some vocalization behavior)",2,http://ebi.ac.uk#Pattern1232,1,
+,,,16,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some Thing))",17,http://ebi.ac.uk#Pattern1235,0,
+,,,2,"classical conditioning
+ and (is_about some multicellular organismal movement)",3,http://ebi.ac.uk#Pattern1234,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some Thing))",2,http://ebi.ac.uk#Pattern1237,0,
+,,,1,"behavior
+ and (is_about some motor coordination)",2,http://ebi.ac.uk#Pattern1236,0,
+,,,1,"has_quality some 
+    (quality
+     and (towards some pleasure behavior))",2,http://ebi.ac.uk#Pattern1239,0,
+1,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (response to stimulus
+     and (part_of some courtship behavior))))
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern1238,0,
+,2,,2,"BFO_0000056 some 
+    (response to chemical
+     and (has_quality some quality))",3,http://ebi.ac.uk#Pattern1220,1,
+,,,1,"behavior
+ and (is_about some PATO_0001595)",2,http://ebi.ac.uk#Pattern1229,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some feeding behavior))))",2,http://ebi.ac.uk#Pattern1222,1,
+,,,,"BFO_0000056 some 
+    ((regulation of feeding behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern1221,1,
+,1,,1,"regulation of drinking behavior
+ and (has_participant some CHEBI_16236)",2,http://ebi.ac.uk#Pattern1224,1,
+,1,,1,"liquid consumption
+ and (has_participant some CHEBI_50584)",2,http://ebi.ac.uk#Pattern1223,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of eating preference behavior
+     and (has_quality some increased rate))",2,http://ebi.ac.uk#Pattern1226,1,
+,,,4,"BFO_0000056 some 
+    (behavioral control of production of sound
+     and (has_quality some Thing))",5,http://ebi.ac.uk#Pattern1225,0,
+,,,1,"Thing
+ and (by_means some UBERON_0005725)",2,http://ebi.ac.uk#Pattern1228,0,
+,,,1,"behavioral control of excretion
+ and (by_means some UBERON_0001256)
+ and (is_about some single-multicellular organism process)",2,http://ebi.ac.uk#Pattern1227,0,
+1,,1,,"dependent continuant
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern197,1,
+,,,7,"sensation behavior
+ and (is_about some dependent continuant)",8,http://ebi.ac.uk#Pattern196,0,
+,1,,1,"behavioral response to addictive substance
+ and (in_response_to some liquid consumption)",2,http://ebi.ac.uk#Pattern195,1,
+,,,1,"BFO_0000056 some 
+    (male sexual activity
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern194,0,
+,,,2,"sleeping behavior
+ and (is_about some rhythmic process)",3,http://ebi.ac.uk#Pattern193,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0031223
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern1251,1,
+,,,1,"Thing
+ and (in_response_to some emotional conditioning)",2,http://ebi.ac.uk#Pattern192,0,
+,,,3,"BFO_0000056 some 
+    (response to stimulus
+     and (has_quality some frequency))",4,http://ebi.ac.uk#Pattern1250,0,
+,,,2,"sleeping behavior
+ and (is_about some circadian behavior)",3,http://ebi.ac.uk#Pattern191,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (dependent continuant
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1011,0,
+,,,4,"BFO_0000056 some 
+    (sexual activity
+     and (has_quality some Thing))",5,http://ebi.ac.uk#Pattern1253,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0042748
+     and (has_quality some PATO_0001309))",2,http://ebi.ac.uk#Pattern190,1,
+,,,1,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some increased quality))))",2,http://ebi.ac.uk#Pattern1010,0,
+,,,6,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (frequency
+         and (towards some behavior))))",7,http://ebi.ac.uk#Pattern1252,0,
+,,,3,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1013,0,
+,3,,3,"BFO_0000056 some 
+    (sexual activity
+     and (has_quality some quality))",4,http://ebi.ac.uk#Pattern1255,3,
+,,,2,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some process quality))",3,http://ebi.ac.uk#Pattern1012,0,
+,,,1,"has_quality some 
+    (Thing
+     and (towards some pleasure behavior))",2,http://ebi.ac.uk#Pattern1254,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some Thing)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1015,0,
+,,,1,"sensation behavior
+ and (in_response_to some PATO_0001306)",2,http://ebi.ac.uk#Pattern1257,0,
+3,,3,,"quality
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some deviation(from_normal))",4,http://ebi.ac.uk#Pattern1014,1,
+,26,,26,"BFO_0000056 some 
+    (feeding behavior
+     and (has_quality some dependent continuant))",27,http://ebi.ac.uk#Pattern1256,1,
+1,,,,"quality
+ and (inheres_in some jump response)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern1017,0,
+,,,1,"sensation behavior
+ and (in_response_to some PATO_0001305)",2,http://ebi.ac.uk#Pattern1259,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern189,1,
+,3,,3,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (increased frequency
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1016,1,
+,1,,1,"BFO_0000056 some 
+    (reproductive behavior
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern1258,1,
+,,,1,"regulation of behavior
+ and (has_participant some CHEBI_16236)",2,http://ebi.ac.uk#Pattern188,0,
+,,,3,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (increased frequency
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern1019,0,
+,1,,1,"liquid consumption
+ and (has_participant some CHEBI_23982)",2,http://ebi.ac.uk#Pattern187,1,
+,1,,1,"nociceptive behavior
+ and (in_response_to some GO_0050961)",2,http://ebi.ac.uk#Pattern1018,1,
+,2,,2,"behavioral control of excretion
+ and (is_about some single-multicellular organism process)",3,http://ebi.ac.uk#Pattern1240,1,
+1,,1,,"quality
+ and (inheres_in some eclosion rhythm)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern1000,1,
+,,,1,"BFO_0000056 some 
+    (olfactory behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern1242,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (rate
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1241,0,
+,,,1,"behavior
+ and (in_response_to some sensory perception of taste)",2,http://ebi.ac.uk#Pattern1009,0,
+,,,1,"behavior
+ and (in_response_to some cocaine consumption)",2,http://ebi.ac.uk#Pattern1002,0,
+,2,,2,"BFO_0000056 some 
+    (GO_0022410
+     and (has_quality some frequency))",3,http://ebi.ac.uk#Pattern1244,1,
+,,,1,"behavioral response to addictive substance
+ and (in_response_to some feeding behavior)",2,http://ebi.ac.uk#Pattern1001,0,
+,,,1,"Thing
+ and (is_about some PATO_0000040)",2,http://ebi.ac.uk#Pattern1243,0,
+,11,,11,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (rate
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern1004,1,
+,,,1,"social behavior
+ and (by_means some vocalization behavior)",2,http://ebi.ac.uk#Pattern1246,0,
+,26,,26,"BFO_0000056 some 
+    (consumption behavior
+     and (has_quality some quality))",27,http://ebi.ac.uk#Pattern1003,1,
+2,,2,,"quality
+ and (inheres_in some single-organism reproductive behavior)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern1245,1,
+,1,,1,"nociceptive behavior
+ and (in_response_to some GO_0050974)",2,http://ebi.ac.uk#Pattern1006,1,
+,1,,1,"sensation behavior
+ and (by_means some UBERON_0002104)",2,http://ebi.ac.uk#Pattern1248,1,
+,,,2,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (decreased frequency
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern1005,0,
+,2,,2,"sensation behavior
+ and (by_means some UBERON_0002105)",3,http://ebi.ac.uk#Pattern1247,2,
+,5,,5,"BFO_0000056 some 
+    (mating behavior
+     and (has_quality some quality))",6,http://ebi.ac.uk#Pattern199,2,
+,16,,16,"BFO_0000056 some 
+    (circadian rhythm
+     and (has_quality some quality))",17,http://ebi.ac.uk#Pattern1008,1,
+,9,,9,"BFO_0000056 some 
+    (vestibular behavior
+     and (has_quality some dependent continuant))",10,http://ebi.ac.uk#Pattern198,1,
+,,,9,"behavioral response to chemical stimulus
+ and (in_response_to some (has_role some Thing))",10,http://ebi.ac.uk#Pattern1007,0,
+,,,1,"BFO_0000056 some 
+    (multicellular organismal reproductive process
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern1249,0,
+,,,4,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some process quality))",5,http://ebi.ac.uk#Pattern296,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some physical object quality))))
+     and (qualifier some PATO_0001333))",2,http://ebi.ac.uk#Pattern295,0,
+,,,1,"BFO_0000056 some 
+    (learning behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern294,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some Thing)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern293,0,
+4,,,,"quality
+ and (inheres_in some circadian behavior)
+ and (qualifier some quality)",5,http://ebi.ac.uk#Pattern292,0,
+2,,,,"quality
+ and (inheres_in some cognition)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern291,0,
+,,,2,"cognitive behavior
+ and (is_about some emotional behavior)",3,http://ebi.ac.uk#Pattern290,0,
+,,,1,"BFO_0000056 some 
+    (regulation of saccharin preference behavior
+     and (has_quality some physical quality of a process))",2,http://ebi.ac.uk#Pattern289,0,
+,3,,3,"hallucination
+ and (by_means some UBERON_0001032)",4,http://ebi.ac.uk#Pattern288,3,
+,,,,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some feeding behavior)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern287,1,
+,1,,1,"has_quality some 
+    (PATO_0002360
+     and (towards some memory loss behavior))",2,http://ebi.ac.uk#Pattern286,1,
+,,,1,"behavior
+ and (has_participant some CHEBI_18723)",2,http://ebi.ac.uk#Pattern299,0,
+,,,11,"BFO_0000056 some 
+    (somatic sensation related behavior
+     and (has_quality some Thing))",12,http://ebi.ac.uk#Pattern298,0,
+1,,1,,"dependent continuant
+ and (inheres_in some oviposition)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern297,1,
+,,,1,"BFO_0000056 some 
+    (single-multicellular organism process
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern274,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (increased quality
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern273,0,
+1,,,,"quality
+ and (inheres_in some adult behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern272,0,
+,35,,35,"BFO_0000056 some 
+    (kinesthetic behavior
+     and (has_quality some dependent continuant))",36,http://ebi.ac.uk#Pattern271,1,
+,1,,1,"learning behavior
+ and (in_response_to some emotional conditioning)",2,http://ebi.ac.uk#Pattern270,1,
+4,,,,"quality
+ and (inheres_in some locomotory behavior)
+ and (qualifier some continuant)",5,http://ebi.ac.uk#Pattern1219,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some physical quality)))))",2,http://ebi.ac.uk#Pattern1218,0,
+,2,,2,regulates some behavioral response to addictive substance,3,http://ebi.ac.uk#Pattern1211,2,
+2,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (response to stimulus
+     and (part_of some mating behavior))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern1210,0,
+,,,2,"Thing
+ and (in_response_to some PATO_0001305)",3,http://ebi.ac.uk#Pattern269,0,
+,,,1,"BFO_0000056 some 
+    (regulation of consumption behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern1213,0,
+,2,,2,"cognitive behavior
+ and (is_about some shape)",3,http://ebi.ac.uk#Pattern268,1,
+,1,,1,"classical conditioning
+ and (is_about some eyelid movement)",2,http://ebi.ac.uk#Pattern1212,1,
+,,,1,"BFO_0000056 some 
+    (mobbing calling
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern267,0,
+,3,,3,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some dependent continuant))",4,http://ebi.ac.uk#Pattern1215,1,
+1,,,,"uncoordinated
+ and (inheres_in some Thing)",2,http://ebi.ac.uk#Pattern266,0,
+,,,1,"regulation of eating preference behavior
+ and (has_participant some CHEBI_37947)",2,http://ebi.ac.uk#Pattern1214,0,
+,,,1,"BFO_0000056 some 
+    (behavioral control of urination
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern265,0,
+,,,2,"behavior
+ and (is_about some shape)",3,http://ebi.ac.uk#Pattern1217,0,
+3,,3,,"quality
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern264,1,
+,,,1,"Thing
+ and (is_about some PATO_0001595)",2,http://ebi.ac.uk#Pattern1216,0,
+,1,,1,"food consumption
+ and (has_participant some CHEBI_55505)",2,http://ebi.ac.uk#Pattern285,1,
+,55,,55,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some dependent continuant))",56,http://ebi.ac.uk#Pattern284,1,
+1,,,,"quality
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern283,0,
+,,,6,"BFO_0000056 some 
+    (Thing
+     and (has_quality some 
+        (frequency
+         and (towards some liquid consumption))))",7,http://ebi.ac.uk#Pattern282,0,
+1,,,,"quality
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some qualitative)",2,http://ebi.ac.uk#Pattern281,0,
+,,,7,"learning behavior
+ and (is_about some behavior)",8,http://ebi.ac.uk#Pattern280,0,
+,,,27,"sensation behavior
+ and (in_response_to some Thing)",28,http://ebi.ac.uk#Pattern1208,0,
+,,,10,"BFO_0000056 some 
+    (emission behavior
+     and (has_quality some Thing))",11,http://ebi.ac.uk#Pattern1207,0,
+,,,1,"BFO_0000056 some 
+    (GO_0042756
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some Thing))))",2,http://ebi.ac.uk#Pattern1209,0,
+1,,,,"quality
+ and (inheres_in some grooming behavior)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern1200,0,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0050878)",2,http://ebi.ac.uk#Pattern1202,1,
+,,,3,"BFO_0000056 some 
+    (biological_process
+     and (has_quality some PATO_0001309))",4,http://ebi.ac.uk#Pattern279,0,
+,,,1,"Thing
+ and (is_about some color)",2,http://ebi.ac.uk#Pattern1201,0,
+,,,1,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern278,0,
+,,,20,"BFO_0000056 some 
+    (multicellular organismal movement
+     and (has_quality some quality))",21,http://ebi.ac.uk#Pattern1204,0,
+1,,,,"Thing
+ and (inheres_in some jump response)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern277,0,
+,,,1,"BFO_0000056 some 
+    (reproductive process
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern1203,0,
+,2,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",3,http://ebi.ac.uk#Pattern276,2,
+,,,1,"nociceptive behavior
+ and (in_response_to some GO_0009593)",2,http://ebi.ac.uk#Pattern1206,0,
+,,,5,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern275,0,
+2,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some Thing)",3,http://ebi.ac.uk#Pattern1205,0,
+1,,,,"quality
+ and (inheres_in some grooming behavior)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern252,0,
+,1,,1,"BFO_0000056 some 
+    (mobbing calling
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern494,1,
+,,,1,"Thing
+ and (in_response_to some PATO_0001306)",2,http://ebi.ac.uk#Pattern251,0,
+,,,1,"behavioral control of excretion
+ and (by_means some UBERON_0001256)
+ and (is_about some system process)",2,http://ebi.ac.uk#Pattern493,0,
+,13,,13,"BFO_0000056 some 
+    (reproductive behavior
+     and (has_quality some dependent continuant))",14,http://ebi.ac.uk#Pattern250,1,
+,,,16,"BFO_0000056 some 
+    (sensation behavior
+     and (has_quality some Thing))",17,http://ebi.ac.uk#Pattern492,0,
+,,,1,"thermosensory behavior
+ and (in_response_to some decreased quality)",2,http://ebi.ac.uk#Pattern491,0,
+,,,1,"thermosensory behavior
+ and (in_response_to some increased quality)",2,http://ebi.ac.uk#Pattern490,0,
+,5,,5,"BFO_0000056 some 
+    (motor coordination
+     and (has_quality some dependent continuant))",6,http://ebi.ac.uk#Pattern249,1,
+,,,1,"BFO_0000056 some 
+    (aggressive behavior by means
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern248,0,
+1,,,,"behavioral quality
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern247,0,
+,1,,1,"thermosensory behavior
+ and (in_response_to some decreased object quality)",2,http://ebi.ac.uk#Pattern489,1,
+,,,114,"BFO_0000056 some 
+    (biological_process
+     and (has_quality some quality))",115,http://ebi.ac.uk#Pattern246,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some temporal distribution quality))",2,http://ebi.ac.uk#Pattern488,0,
+,,,2,"sleeping behavior
+ and (is_about some circadian rhythm)",3,http://ebi.ac.uk#Pattern245,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some process quality))",2,http://ebi.ac.uk#Pattern487,0,
+,,,2,"sleeping behavior
+ and (is_about some rhythmic behavior)",3,http://ebi.ac.uk#Pattern244,0,
+,,,4,"Thing
+ and (is_about some size)",5,http://ebi.ac.uk#Pattern486,0,
+,,,1,"Thing
+ and (is_about some jaw movement)",2,http://ebi.ac.uk#Pattern243,0,
+,,,176,"BFO_0000056 some 
+    (Thing
+     and (has_quality some quality))",177,http://ebi.ac.uk#Pattern485,0,
+,,,1,"Thing
+ and (is_about some blinking)",2,http://ebi.ac.uk#Pattern242,0,
+,1,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0002324))",2,http://ebi.ac.uk#Pattern484,1,
+4,,,,"quality
+ and (inheres_in some locomotory behavior)
+ and (qualifier some quality)",5,http://ebi.ac.uk#Pattern263,0,
+,,,16,"BFO_0000056 some 
+    (rhythmic process
+     and (has_quality some quality))",17,http://ebi.ac.uk#Pattern262,0,
+16,,,,"quality
+ and (inheres_in some single-organism process)
+ and (qualifier some abnormal)",17,http://ebi.ac.uk#Pattern261,0,
+2,,,,"quality
+ and (inheres_in some 
+    (courtship behavior or (behavior
+     and (part_of some courtship behavior))))
+ and (qualifier some quality)",3,http://ebi.ac.uk#Pattern260,0,
+1,,,,"Thing
+ and (inheres_in some feeding behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern259,0,
+,2,,2,"BFO_0000056 some 
+    (single-organism reproductive behavior
+     and (has_quality some quality))",3,http://ebi.ac.uk#Pattern258,2,
+1,,1,,"dependent continuant
+ and (inheres_in some grooming behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern257,1,
+5,,,,"quality
+ and (inheres_in some multicellular organismal reproductive process)
+ and (qualifier some abnormal)",6,http://ebi.ac.uk#Pattern499,0,
+,,,1,"BFO_0000056 some 
+    (sleep
+     and (has_quality some PATO_0001309))",2,http://ebi.ac.uk#Pattern256,0,
+,,,3,"BFO_0000056 some 
+    (biological_process
+     and (has_quality some frequency))",4,http://ebi.ac.uk#Pattern498,0,
+3,,3,,"quality
+ and (inheres_in some circadian behavior)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern255,3,
+,1,,1,"BFO_0000056 some 
+    (female sexual activity
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern497,1,
+1,,1,,"quality
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some deviation(from_normal))",2,http://ebi.ac.uk#Pattern254,1,
+,1,,1,"thermosensory behavior
+ and (in_response_to some increased object quality)",2,http://ebi.ac.uk#Pattern496,1,
+,,,15,"BFO_0000056 some 
+    (behavior
+     and (has_quality some rate))",16,http://ebi.ac.uk#Pattern253,0,
+,1,,1,"BFO_0000056 some 
+    (behavioral control of external secretion
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern495,1,
+2,,,,"Thing
+ and (inheres_in some visual behavior)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern230,0,
+,1,,1,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some frequency))",2,http://ebi.ac.uk#Pattern472,1,
+1,,,,"physical object quality
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern471,0,
+,,,1,"associative learning behavior
+ and (is_about some sensation behavior)",2,http://ebi.ac.uk#Pattern470,0,
+4,,,,"quality
+ and (inheres_in some rhythmic process)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern229,0,
+,,,1,"BFO_0000056 some 
+    (behavior
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))",2,http://ebi.ac.uk#Pattern228,0,
+,,,18,"sensation behavior
+ and (in_response_to some biological_process)",19,http://ebi.ac.uk#Pattern227,0,
+,1,,1,"vestibular behavior
+ and (has_participant some UBERON_0002101)",2,http://ebi.ac.uk#Pattern469,1,
+,1,,1,"BFO_0000056 some 
+    (GO_0060273
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern226,1,
+,10,,10,"BFO_0000056 some 
+    (GO_0042755
+     and (has_quality some dependent continuant))",11,http://ebi.ac.uk#Pattern468,1,
+,,,1,"behavior
+ and (in_response_to some nicotine consumption)",2,http://ebi.ac.uk#Pattern225,0,
+1,,,,"uncoordinated
+ and (inheres_in some anatomical structure)",2,http://ebi.ac.uk#Pattern467,0,
+,1,,1,"BFO_0000056 some 
+    (GO_0007638
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern224,1,
+1,,,,"quality
+ and (inheres_in some feeding behavior)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern466,0,
+4,,,,"quality
+ and (inheres_in some locomotory behavior)
+ and (qualifier some Thing)",5,http://ebi.ac.uk#Pattern223,0,
+4,,,,"quality
+ and (inheres_in some circadian behavior)
+ and (qualifier some dependent continuant)",5,http://ebi.ac.uk#Pattern465,0,
+,1,,1,"BFO_0000056 some 
+    (mobbing behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern222,1,
+1,,,,"continuant
+ and (inheres_in some hatching behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern464,0,
+,,,3,"BFO_0000056 some 
+    (behavior
+     and (has_quality some frequency))",4,http://ebi.ac.uk#Pattern221,0,
+,,,1,"Thing
+ and (has_participant some UBERON_0002101)",2,http://ebi.ac.uk#Pattern463,0,
+,,,1,"learning behavior
+ and (is_about some blinking)",2,http://ebi.ac.uk#Pattern220,0,
+23,,23,,"quality
+ and (inheres_in some behavior)
+ and (qualifier some abnormal)",24,http://ebi.ac.uk#Pattern462,4,
+5,,,,"quality
+ and (inheres_in some 
+    (reproductive process or (behavior
+     and (part_of some reproductive process))))
+ and (qualifier some abnormal)",6,http://ebi.ac.uk#Pattern241,0,
+1,,,,"quality
+ and (inheres_in some grooming behavior)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern483,0,
+,,,1,"cognitive behavior
+ and (is_about some PATO_0000040)",2,http://ebi.ac.uk#Pattern240,0,
+24,,,,"quality
+ and (inheres_in some behavior)
+ and (qualifier some quality)",25,http://ebi.ac.uk#Pattern482,0,
+3,,,,"quality
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some quality)",4,http://ebi.ac.uk#Pattern481,0,
+,,,1,"perception behavior by means
+ and (has_participant some UBERON_0002101)",2,http://ebi.ac.uk#Pattern480,0,
+,,,1,"Thing
+ and (is_about some language communication behavior)",2,http://ebi.ac.uk#Pattern239,0,
+,,,1,"sensation behavior
+ and (has_participant some UBERON_0002101)",2,http://ebi.ac.uk#Pattern238,0,
+,2,,2,"BFO_0000056 some 
+    (single-multicellular organism process
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern237,1,
+,,,2,"feeding behavior
+ and (has_participant some CHEBI_24432)",3,http://ebi.ac.uk#Pattern479,0,
+1,,1,,"dependent continuant
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern236,1,
+,1,,1,"behavioral control of excretion
+ and (by_means some UBERON_0001256)
+ and (is_about some GO_0003014)",2,http://ebi.ac.uk#Pattern478,1,
+,,,2,"BFO_0000056 some 
+    (behavioral control of external secretion
+     and (has_quality some continuant))",3,http://ebi.ac.uk#Pattern235,0,
+,1,,1,"BFO_0000056 some 
+    (mating
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern477,1,
+4,,,,"continuant
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern234,0,
+,,,10,"cutaneous sensation behavior
+ and (in_response_to some Thing)",11,http://ebi.ac.uk#Pattern476,0,
+,15,,15,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some quality))",16,http://ebi.ac.uk#Pattern233,1,
+4,,,,"quality
+ and (inheres_in some circadian behavior)
+ and (qualifier some Thing)",5,http://ebi.ac.uk#Pattern475,0,
+,1,,1,"GO_0002118
+ and (by_means some agonistic behavior)",2,http://ebi.ac.uk#Pattern232,1,
+,1,,1,"BFO_0000056 some 
+    (male sexual activity
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern474,1,
+4,,4,,"dependent continuant
+ and (inheres_in some locomotory behavior)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern231,1,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased process quality
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern473,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased quality
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern450,0,
+,,,9,"cognitive behavior
+ and (in_response_to some (has_role some CHEBI_35703))",10,http://ebi.ac.uk#Pattern692,0,
+,,,1,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern691,0,
+,,,1,"BFO_0000056 some 
+    (GO_0008050
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern690,0,
+,,,1,"learning behavior
+ and (is_about some jaw movement)",2,http://ebi.ac.uk#Pattern209,0,
+10,,,,"quality
+ and (inheres_in some 
+    (occurrent or (behavior
+     and (part_of some occurrent))))
+ and (qualifier some abnormal)",11,http://ebi.ac.uk#Pattern208,0,
+,,,2,"BFO_0000056 some 
+    (single-organism behavior
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern207,0,
+,,,1,"cognitive behavior
+ and (in_response_to some emotional conditioning)",2,http://ebi.ac.uk#Pattern449,0,
+,,,11,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (rate
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern206,0,
+,1,,1,"BFO_0000056 some 
+    (male courtship behavior
+     and (has_quality some dependent continuant))",2,http://ebi.ac.uk#Pattern448,1,
+,,,2,"BFO_0000056 some 
+    (GO_0042747
+     and (has_quality some quality))",3,http://ebi.ac.uk#Pattern205,0,
+1,,,,"quality
+ and (inheres_in some male courtship behavior, veined wing generated song production)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern447,0,
+1,,,,"continuant
+ and (inheres_in some oviposition)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern689,0,
+,10,,10,"cutaneous sensation behavior
+ and (in_response_to some sensory perception)",11,http://ebi.ac.uk#Pattern204,1,
+,15,,15,"BFO_0000056 some 
+    (GO_0042756
+     and (has_quality some dependent continuant))",16,http://ebi.ac.uk#Pattern446,1,
+,,,1,"Thing
+ and (in_response_to some sensory perception of taste)",2,http://ebi.ac.uk#Pattern688,0,
+,,,10,"cutaneous sensation behavior
+ and (in_response_to some system process)",11,http://ebi.ac.uk#Pattern203,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some increased quality))",2,http://ebi.ac.uk#Pattern445,0,
+,,,1,"BFO_0000056 some 
+    (visual behavior
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern687,0,
+3,,3,,"quality
+ and (inheres_in some locomotory behavior)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern202,2,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some behavior))))",2,http://ebi.ac.uk#Pattern444,0,
+,,,1,"BFO_0000056 some 
+    (behavioral control of defecation
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern686,0,
+,,,2,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern201,0,
+,1,,1,"regulation of drinking preference behavior
+ and (has_participant some CHEBI_23982)",2,http://ebi.ac.uk#Pattern443,1,
+,,,2,"learning behavior
+ and (is_about some emotional behavior)",3,http://ebi.ac.uk#Pattern685,0,
+,10,,10,"BFO_0000056 some 
+    (somatic sensation related behavior
+     and (has_quality some quality))",11,http://ebi.ac.uk#Pattern200,2,
+,,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_38295)",2,http://ebi.ac.uk#Pattern442,0,
+,,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some Thing))))
+     and (qualifier some PATO_0001333))",2,http://ebi.ac.uk#Pattern684,0,
+,,,1,"behavior
+ and (by_means some irritability behavior)",2,http://ebi.ac.uk#Pattern441,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some feeding behavior))))",2,http://ebi.ac.uk#Pattern683,1,
+,,,1,"behavior
+ and (by_means some vocalization behavior)",2,http://ebi.ac.uk#Pattern440,0,
+,,,3,"BFO_0000056 some 
+    (sleep
+     and (has_quality some process quality))",4,http://ebi.ac.uk#Pattern682,0,
+,,,,"BFO_0000056 some 
+    ((Thing
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern461,1,
+1,,,,"quality
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern460,0,
+,,,1,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern219,0,
+,,,13,"BFO_0000056 some 
+    (reproductive behavior
+     and (has_quality some continuant))",14,http://ebi.ac.uk#Pattern218,0,
+,,,1,"Thing
+ and (has_participant some CHEBI_18723)",2,http://ebi.ac.uk#Pattern217,0,
+,3,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some rate))",4,http://ebi.ac.uk#Pattern459,2,
+,,,1,"BFO_0000056 some 
+    (female sexual activity
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern216,0,
+,5,,5,"nociceptive behavior
+ and (in_response_to some Thing)",6,http://ebi.ac.uk#Pattern458,1,
+2,,2,,"quality
+ and (inheres_in some behavioral response to nutrient)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern215,1,
+,,,1,"perceptual constancy behavior
+ and (is_about some physical quality)",2,http://ebi.ac.uk#Pattern457,0,
+,2,,2,regulates some reproductive behavior,3,http://ebi.ac.uk#Pattern699,1,
+,,,5,"BFO_0000056 some 
+    (Thing
+     and (has_quality some decreased rate))",6,http://ebi.ac.uk#Pattern214,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased process quality
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern456,0,
+,,,2,"BFO_0000056 some 
+    (circadian rhythm
+     and (has_quality some PATO_0001309))",3,http://ebi.ac.uk#Pattern698,0,
+,,,8,"BFO_0000056 some 
+    (Thing
+     and (has_quality some increased rate))",9,http://ebi.ac.uk#Pattern213,0,
+,,,4,"behavioral response to chemical stimulus
+ and (in_response_to some multicellular organismal process)",5,http://ebi.ac.uk#Pattern455,0,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0002365)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern697,1,
+24,,,,"Thing
+ and (inheres_in some behavior)
+ and (qualifier some abnormal)",25,http://ebi.ac.uk#Pattern212,0,
+1,,,,"quality
+ and (inheres_in some hatching behavior)
+ and (qualifier some Thing)",2,http://ebi.ac.uk#Pattern454,0,
+,,,,"BFO_0000056 some 
+    ((regulation of behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",1,http://ebi.ac.uk#Pattern696,1,
+,1,,1,"feeding behavior
+ and (has_participant some CHEBI_32111)",2,http://ebi.ac.uk#Pattern211,1,
+,,,1,"BFO_0000056 some 
+    (antipredation behavior
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern453,0,
+,,,5,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern695,0,
+,,,1,"BFO_0000056 some 
+    (behavioral control of lacrimation
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern210,0,
+,1,,1,"behavioral control of excretion
+ and (by_means some UBERON_0000078)
+ and (is_about some GO_0060073)",2,http://ebi.ac.uk#Pattern452,1,
+2,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (Thing
+     and (part_of some mating behavior))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern694,0,
+,1,,1,"associative learning behavior
+ and (is_about some vestibular behavior)",2,http://ebi.ac.uk#Pattern451,1,
+,11,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (physical quality of a process
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern693,1,
+,,,1,"associative learning behavior
+ and (in_response_to some cognitive behavior)",2,http://ebi.ac.uk#Pattern670,0,
+2,,,,"quality
+ and (inheres_in some 
+    (mating behavior or (biological_process
+     and (part_of some mating behavior))))
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern429,0,
+,16,,16,"BFO_0000056 some 
+    (sensation behavior
+     and (has_quality some dependent continuant))",17,http://ebi.ac.uk#Pattern428,1,
+,1,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (Thing
+         and (has_quality some PATO_0001563))))
+     and (qualifier some PATO_0001333))",2,http://ebi.ac.uk#Pattern427,1,
+,,,1,"regulation of feeding behavior
+ and (has_participant some CHEBI_32111)",2,http://ebi.ac.uk#Pattern669,0,
+,,,1,"learning and/or memory behavior
+ and (is_about some fear-related behavior)",2,http://ebi.ac.uk#Pattern426,0,
+,,,2,"BFO_0000056 some 
+    (single-organism process
+     and (has_quality some frequency))",3,http://ebi.ac.uk#Pattern668,0,
+,,,15,"BFO_0000056 some 
+    (GO_0042756
+     and (has_quality some Thing))",16,http://ebi.ac.uk#Pattern425,0,
+,6,,6,"BFO_0000056 some 
+    (mating behavior
+     and (has_quality some dependent continuant))",7,http://ebi.ac.uk#Pattern667,1,
+,,,2,"cognitive behavior
+ and (by_means some UBERON_0002105)",3,http://ebi.ac.uk#Pattern424,0,
+,,,7,"sensation behavior
+ and (is_about some quality)",8,http://ebi.ac.uk#Pattern666,0,
+,,,1,"cognitive behavior
+ and (by_means some UBERON_0002104)",2,http://ebi.ac.uk#Pattern423,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (towards some Thing))))",3,http://ebi.ac.uk#Pattern665,0,
+,,,3,"behavior
+ and (in_response_to some GO_0007601)",4,http://ebi.ac.uk#Pattern422,0,
+,,,3,"BFO_0000056 some 
+    (courtship behavior
+     and (has_quality some Thing))",4,http://ebi.ac.uk#Pattern664,0,
+1,,1,,"quality
+ and (inheres_in some visual behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern421,1,
+,,,1,"behavior
+ and (in_response_to some alcohol consumption)",2,http://ebi.ac.uk#Pattern663,0,
+1,,,,"quality
+ and (inheres_in some feeding behavior)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern420,0,
+,,,2,"BFO_0000056 some 
+    (behavioral control of external secretion
+     and (has_quality some Thing))",3,http://ebi.ac.uk#Pattern662,0,
+,,,5,"BFO_0000056 some 
+    (motor coordination
+     and (has_quality some continuant))",6,http://ebi.ac.uk#Pattern661,0,
+,1,,1,"has_quality some 
+    (extra or missing processual parts
+     and (towards some pleasure behavior))",2,http://ebi.ac.uk#Pattern660,1,
+1,,1,,"quality
+ and (inheres_in some male courtship behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern681,1,
+4,,,,"Thing
+ and (inheres_in some 
+    (mating behavior or (behavior
+     and (part_of some mating behavior))))
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern680,0,
+,1,,1,"BFO_0000056 some 
+    ((regulation of drinking behavior
+     and (regulates some liquid consumption)
+     and (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563))))
+     and (qualifier some increased process quality))",2,http://ebi.ac.uk#Pattern439,1,
+,,,1,"BFO_0000056 some 
+    (behavior
+     and (regulates some (has-input some 
+        (PATO_0000145
+         and (has_quality some PATO_0001563)))))",2,http://ebi.ac.uk#Pattern438,0,
+,,,1,"perception behavior by means
+ and (in_response_to some PATO_0001305)",2,http://ebi.ac.uk#Pattern437,0,
+,,,1,"regulation of drinking preference behavior
+ and (has_participant some CHEBI_15734)",2,http://ebi.ac.uk#Pattern679,0,
+,,,6,"associative learning behavior
+ and (is_about some behavior)",7,http://ebi.ac.uk#Pattern436,0,
+,1,,1,"rhythmic behavior
+ and (is_about some GO_0042747)",2,http://ebi.ac.uk#Pattern678,1,
+,,,1,"perception behavior by means
+ and (in_response_to some PATO_0001306)",2,http://ebi.ac.uk#Pattern435,0,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (physical quality of a process
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern677,0,
+2,,,,"quality
+ and (inheres_in some visual behavior)
+ and (qualifier some quality)",3,http://ebi.ac.uk#Pattern434,0,
+,3,,3,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased rate
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern676,2,
+,,,3,"perceptual constancy behavior
+ and (is_about some physical object quality)",4,http://ebi.ac.uk#Pattern433,0,
+,,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0004121)
+ and (is_about some GO_0070075)",2,http://ebi.ac.uk#Pattern675,0,
+,,,1,"BFO_0000056 some 
+    (multi-organism reproductive process
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern432,0,
+,,,2,"Thing
+ and (has_participant some CHEBI_32111)",3,http://ebi.ac.uk#Pattern674,0,
+2,,2,,"quality
+ and (inheres_in some learning or memory)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern431,2,
+1,,,,"continuant
+ and (inheres_in some grooming behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern673,0,
+2,,2,,"quality
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern430,1,
+1,,,,"quality
+ and (inheres_in some learning)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern672,0,
+,,,1,"regulation of drinking preference behavior
+ and (has_participant some CHEBI_2571)",2,http://ebi.ac.uk#Pattern671,0,
+2,,2,,"quality
+ and (inheres_in some visual behavior)
+ and (qualifier some deviation(from_normal))",3,http://ebi.ac.uk#Pattern890,1,
+,,,6,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some increased rate))",7,http://ebi.ac.uk#Pattern409,0,
+,,,2,"Thing
+ and (in_response_to some sensory perception of smell)",3,http://ebi.ac.uk#Pattern408,0,
+,,,1,"BFO_0000056 some 
+    (memory behavior
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern407,0,
+24,,,,"quality
+ and (inheres_in some behavior)
+ and (qualifier some continuant)",25,http://ebi.ac.uk#Pattern649,0,
+,,,4,"Thing
+ and (in_response_to some sensory perception of chemical stimulus)",5,http://ebi.ac.uk#Pattern406,0,
+,1,,1,"vestibular behavior
+ and (has_participant some UBERON_0000309)",2,http://ebi.ac.uk#Pattern648,1,
+1,,,,"quality
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern405,0,
+,,,3,regulates some behavioral response to chemical stimulus,4,http://ebi.ac.uk#Pattern647,0,
+,2,,2,"behavioral control of excretion
+ and (is_about some system process)",3,http://ebi.ac.uk#Pattern889,1,
+,,,1,"Thing
+ and (in_response_to some sensory perception of sound)",2,http://ebi.ac.uk#Pattern404,0,
+,,,2,"behavior
+ and (has_participant some CHEBI_32111)",3,http://ebi.ac.uk#Pattern646,0,
+,,,60,"involuntary movement behavior
+ and (by_means some biological_process)",61,http://ebi.ac.uk#Pattern888,0,
+,,,2,"Thing
+ and (has_participant some CHEBI_16236)",3,http://ebi.ac.uk#Pattern403,0,
+,,,1,"BFO_0000056 some 
+    (behavioral control of urination
+     and (has_quality some Thing))",2,http://ebi.ac.uk#Pattern645,0,
+,,,1,"BFO_0000056 some 
+    (behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern887,0,
+1,,,,"quality
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern402,0,
+,5,,5,"feeding behavior
+ and (has_participant some Thing)",6,http://ebi.ac.uk#Pattern644,1,
+,,,27,"BFO_0000056 some 
+    (cognitive behavior
+     and (has_quality some continuant))",28,http://ebi.ac.uk#Pattern886,0,
+1,,,,"quality
+ and (inheres_in some locomotor rhythm)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern401,0,
+,,,2,"aggressive behavior
+ and (by_means some Thing)",3,http://ebi.ac.uk#Pattern643,0,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0001817)
+ and (is_about some secretion)",2,http://ebi.ac.uk#Pattern885,1,
+,,,10,"BFO_0000056 some 
+    (GO_0042755
+     and (has_quality some Thing))",11,http://ebi.ac.uk#Pattern400,0,
+,,,1,"has_quality some 
+    (process quality
+     and (towards some pleasure behavior))",2,http://ebi.ac.uk#Pattern642,0,
+,,,1,"has_quality some 
+    (physical object quality
+     and (towards some memory loss behavior))",2,http://ebi.ac.uk#Pattern884,0,
+,1,,1,"consumption of an addictive substance
+ and (has_participant some CHEBI_46775)",2,http://ebi.ac.uk#Pattern641,1,
+,,,18,"sensation behavior
+ and (in_response_to some multicellular organismal process)",19,http://ebi.ac.uk#Pattern883,0,
+,52,,52,"BFO_0000056 some 
+    (sleeping behavior
+     and (has_quality some quality))",53,http://ebi.ac.uk#Pattern640,7,
+,1,,1,"behavioral control of external secretion
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0007589)",2,http://ebi.ac.uk#Pattern882,1,
+2,,2,,"quality
+ and (inheres_in some mating behavior)
+ and (qualifier some abnormal)",3,http://ebi.ac.uk#Pattern881,1,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some physical quality of a process))",2,http://ebi.ac.uk#Pattern880,0,
+,1,,1,"classical conditioning
+ and (is_about some fear/anxiety related behavior)",2,http://ebi.ac.uk#Pattern419,1,
+,,,4,"BFO_0000056 some 
+    (GO_0048583
+     and (has_quality some rate))",5,http://ebi.ac.uk#Pattern418,0,
+4,,4,,"quality
+ and (inheres_in some circadian behavior)
+ and (qualifier some deviation(from_normal))",5,http://ebi.ac.uk#Pattern417,1,
+,5,,5,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some liquid consumption))))",6,http://ebi.ac.uk#Pattern659,2,
+4,,,,"quality
+ and (inheres_in some circadian behavior)
+ and (qualifier some qualitative)",5,http://ebi.ac.uk#Pattern416,0,
+,,,1,"BFO_0000056 some 
+    (food consumption
+     and (has_quality some quality))",2,http://ebi.ac.uk#Pattern658,0,
+,,,3,"Thing
+ and (in_response_to some GO_0007601)",4,http://ebi.ac.uk#Pattern415,0,
+,,,1,"Thing
+ and (is_about some GO_0042747)",2,http://ebi.ac.uk#Pattern657,0,
+,,,1,"Thing
+ and (in_response_to some GO_0050966)",2,http://ebi.ac.uk#Pattern899,0,
+,,,3,"perceptual constancy behavior
+ and (is_about some continuant)",4,http://ebi.ac.uk#Pattern414,0,
+,60,,60,"involuntary movement behavior
+ and (by_means some response to external stimulus)",61,http://ebi.ac.uk#Pattern656,1,
+,,,1,"Thing
+ and (in_response_to some GO_0050967)",2,http://ebi.ac.uk#Pattern898,0,
+,,,4,"BFO_0000056 some 
+    (regulation of behavior
+     and (has_quality some decreased rate))",5,http://ebi.ac.uk#Pattern413,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some feeding behavior))))",2,http://ebi.ac.uk#Pattern655,1,
+,1,,1,"BFO_0000056 some 
+    (regulation of feeding behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001863)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern897,1,
+,,,10,"biological_process
+ and (is_about some circadian rhythm)",11,http://ebi.ac.uk#Pattern412,0,
+4,,,,"continuant
+ and (inheres_in some locomotory behavior)
+ and (qualifier some abnormal)",5,http://ebi.ac.uk#Pattern654,0,
+,1,,1,"behavioral control of excretion
+ and (by_means some UBERON_0006554)
+ and (is_about some GO_0060073)",2,http://ebi.ac.uk#Pattern896,1,
+,,,1,"BFO_0000056 some 
+    (regulation of mating preference
+     and (has_quality some continuant))",2,http://ebi.ac.uk#Pattern411,0,
+3,,,,"quality
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some continuant)",4,http://ebi.ac.uk#Pattern653,0,
+,,,1,"liquid consumption
+ and (has_participant some CHEBI_33692)",2,http://ebi.ac.uk#Pattern895,0,
+,,,3,"BFO_0000056 some 
+    (regulation of alcohol preference behavior
+     and (has_quality some process quality))",4,http://ebi.ac.uk#Pattern410,0,
+3,,3,,"quality
+ and (inheres_in some response to light stimulus)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern652,1,
+,,,1,"behavioral response to chemical stimulus
+ and (in_response_to some nicotine consumption)",2,http://ebi.ac.uk#Pattern894,0,
+,,,1,"classical conditioning
+ and (is_about some stress related behavior)",2,http://ebi.ac.uk#Pattern651,0,
+,1,,1,"liquid consumption
+ and (has_participant some CHEBI_33693)",2,http://ebi.ac.uk#Pattern893,1,
+,4,,4,regulates some sensation behavior,5,http://ebi.ac.uk#Pattern650,1,
+2,,,,"quality
+ and (inheres_in some visual behavior)
+ and (qualifier some qualitative)",3,http://ebi.ac.uk#Pattern892,0,
+,,,1,"associative learning behavior
+ and (in_response_to some learning behavior)",2,http://ebi.ac.uk#Pattern891,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some physical quality of a process)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern629,0,
+1,,,,"continuant
+ and (inheres_in some circadian mating behavior)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern628,0,
+,24,,24,regulates some behavior,25,http://ebi.ac.uk#Pattern627,1,
+,,,1,"Thing
+ and (in_response_to some sensory perception of touch)",2,http://ebi.ac.uk#Pattern869,0,
+,,,9,"BFO_0000056 some 
+    (vestibular behavior
+     and (has_quality some continuant))",10,http://ebi.ac.uk#Pattern626,0,
+,,,3,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some qualitative))",4,http://ebi.ac.uk#Pattern868,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (decreased frequency
+         and (qualifier some PATO_0001309)
+         and (towards some liquid consumption))))",2,http://ebi.ac.uk#Pattern625,1,
+,,,3,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (deviation(from_normal)
+         and (towards some liquid consumption))))",4,http://ebi.ac.uk#Pattern867,0,
+,,,1,"behavior
+ and (by_means some UBERON_0002104)",2,http://ebi.ac.uk#Pattern624,0,
+,3,,3,"spatial perception
+ and (is_about some Thing)",4,http://ebi.ac.uk#Pattern866,1,
+,,,2,"behavior
+ and (by_means some UBERON_0002105)",3,http://ebi.ac.uk#Pattern623,0,
+3,,3,,"dependent continuant
+ and (inheres_in some chemosensory behavior)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern865,1,
+,,,2,"consumption of an addictive substance
+ and (has_participant some CHEBI_22315)",3,http://ebi.ac.uk#Pattern622,0,
+,,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (increased frequency
+         and (qualifier some PATO_0001333)
+         and (towards some consumption behavior))))",2,http://ebi.ac.uk#Pattern864,0,
+1,,,,"quality
+ and (inheres_in some hatching behavior)
+ and (qualifier some dependent continuant)",2,http://ebi.ac.uk#Pattern621,0,
+,1,,1,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (regulates some (has-input some 
+        (Thing
+         and (has_quality some PATO_0001563)))))",2,http://ebi.ac.uk#Pattern863,1,
+,,,,"emission behavior
+ and (by_means some UBERON_0001817)
+ and (is_about some GO_0070075)",1,http://ebi.ac.uk#Pattern620,1,
+1,,,,"quality
+ and (inheres_in some learning)
+ and (qualifier some quality)",2,http://ebi.ac.uk#Pattern862,0,
+,,,10,"rhythmic behavior
+ and (is_about some single-organism process)",11,http://ebi.ac.uk#Pattern861,0,
+1,,,,"dependent continuant
+ and (inheres_in some organism)",2,http://ebi.ac.uk#Pattern860,0,
+1,,,,"continuant
+ and (inheres_in some entrainment of circadian clock by photoperiod)
+ and (qualifier some abnormal)",2,http://ebi.ac.uk#Pattern639,0,
+,10,,10,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (rate
+         and (towards some liquid consumption))))",11,http://ebi.ac.uk#Pattern638,2,
+,2,,2,"BFO_0000056 some 
+    (behavioral control of external secretion
+     and (has_quality some dependent continuant))",3,http://ebi.ac.uk#Pattern637,1,
+,,,10,"rhythmic behavior
+ and (is_about some biological_process)",11,http://ebi.ac.uk#Pattern879,0,
+,,,1,"sensation behavior
+ and (in_response_to some sensory perception of touch)",2,http://ebi.ac.uk#Pattern636,0,
+3,,3,,"quality
+ and (inheres_in some response to chemical)
+ and (qualifier some abnormal)",4,http://ebi.ac.uk#Pattern878,1,
+,,,53,"BFO_0000056 some 
+    (sleep
+     and (has_quality some Thing))",54,http://ebi.ac.uk#Pattern635,0,
+,,,1,"behavior
+ and (has_participant some CHEBI_15377)",2,http://ebi.ac.uk#Pattern877,0,
+1,,,,"quality
+ and (inheres_in some optokinetic behavior)
+ and (qualifier some continuant)",2,http://ebi.ac.uk#Pattern634,0,
+,,,2,"BFO_0000056 some 
+    (rhythmic behavior
+     and (has_quality some frequency))",3,http://ebi.ac.uk#Pattern876,0,
+,,,1,"Thing
+ and (is_about some vocalization behavior)",2,http://ebi.ac.uk#Pattern633,0,
+,,,16,"BFO_0000056 some 
+    (circadian behavior
+     and (has_quality some continuant))",17,http://ebi.ac.uk#Pattern875,0,
+,,,6,"BFO_0000056 some 
+    (mating behavior
+     and (has_quality some Thing))",7,http://ebi.ac.uk#Pattern632,0,
+,,,2,"BFO_0000056 some 
+    (regulation of drinking preference behavior
+     and (has_quality some 
+        (increased rate
+         and (towards some Thing))))",3,http://ebi.ac.uk#Pattern874,0,
+,,,1,"learning and/or memory behavior
+ and (is_about some vocalization behavior)",2,http://ebi.ac.uk#Pattern631,0,
+,11,,11,"BFO_0000056 some 
+    (perception behavior by means
+     and (has_quality some quality))",12,http://ebi.ac.uk#Pattern873,1,
+,7,,7,regulates some consumption of an addictive substance,8,http://ebi.ac.uk#Pattern630,5,
+,,,11,"BFO_0000056 some 
+    (regulation of drinking behavior
+     and (has_quality some 
+        (continuant
+         and (towards some liquid consumption))))",12,http://ebi.ac.uk#Pattern872,0,
+,,,3,"BFO_0000056 some 
+    (GO_0060259
+     and (has_quality some deviation(from_normal)))",4,http://ebi.ac.uk#Pattern871,0,
+,,,1,"perceptual constancy behavior
+ and (is_about some radiation quality)",2,http://ebi.ac.uk#Pattern870,0,
