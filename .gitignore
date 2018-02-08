@@ -7,3 +7,5 @@
 .DS_Store
 cp.ebi.sh
 cp.ebi2.sh
+cp.ebi.hpmpdpo.sh
+out/nfs/spot/sw/dev/monarch/data/pattern/out/catalog-v001.xml
