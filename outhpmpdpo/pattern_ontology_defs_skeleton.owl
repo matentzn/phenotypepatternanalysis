@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://ebi.ac.uk/odef_skeleton.owl#"
+     xml:base="http://ebi.ac.uk/odef_skeleton.owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://ebi.ac.uk/odef_skeleton.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ebi.ac.uk#patternDSC -->
+
+    <owl:DatatypeProperty rdf:about="http://ebi.ac.uk#patternDSC"/>
+    
+
+
+    <!-- http://ebi.ac.uk#patternIDSC -->
+
+    <owl:DatatypeProperty rdf:about="http://ebi.ac.uk#patternIDSC"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ebi.ac.uk#HighImpactDSCAll -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#HighImpactDSCAll">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ebi.ac.uk#patternDSC"/>
+                <owl:someValuesFrom>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</xsd:minExclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#HighImpactIDSCAll -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#HighImpactIDSCAll">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ebi.ac.uk#patternIDSC"/>
+                <owl:someValuesFrom>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</xsd:minExclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#HighImpactShared -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#HighImpactShared">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#Impact -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#Impact"/>
+    
+
+
+    <!-- http://ebi.ac.uk#LowImpactDSCAll -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#LowImpactDSCAll">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ebi.ac.uk#patternDSC"/>
+                <owl:someValuesFrom>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</xsd:minExclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#LowImpactIDSCAll -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#LowImpactIDSCAll">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ebi.ac.uk#patternIDSC"/>
+                <owl:someValuesFrom>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</xsd:minExclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#LowImpactShared -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#LowImpactShared">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#ModerateImpactDSCAll -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#ModerateImpactDSCAll">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ebi.ac.uk#patternDSC"/>
+                <owl:someValuesFrom>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</xsd:minExclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#ModerateImpactIDSCAll -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#ModerateImpactIDSCAll">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ebi.ac.uk#patternIDSC"/>
+                <owl:someValuesFrom>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</xsd:minExclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ebi.ac.uk#ModerateImpactShared -->
+
+    <owl:Class rdf:about="http://ebi.ac.uk#ModerateImpactShared">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ebi.ac.uk#Impact"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.1) https://github.com/owlcs/owlapi -->
+
